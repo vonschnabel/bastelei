@@ -1,0 +1,53 @@
+from bs4 import BeautifulSoup
+from urllib.request import Request, urlopen
+import re
+
+import wget
+
+url = "https://www.mdr.de/sport/ergebnisse/fussball-dritte-liga-108.html"
+
+req = Request(url)
+html_page = urlopen(req)
+
+soup = BeautifulSoup(html_page, "lxml")
+
+Spieltag = []
+"""
+varSpieltag = 0
+
+for x in soup.find_all("h3", class_="headline"):
+    var = str(x)
+    if var.find('Spieltag') > -1:
+        varSpieltag = var.split('<h3 class="headline">')
+        varSpieltag = varSpieltag[1]
+        varSpieltag = varSpieltag.split('.')
+        varSpieltag = varSpieltag[0]
+"""
+
+HeimTeam = ""
+GastTeam = ""
+
+for x in soup.findAll("div", class_="match"):
+    for y in x.select('td[class*="heim tid"]'):
+        varheim = str(y)
+        HeimTeam = varheim.split('>')
+        HeimTeam = HeimTeam[1]
+        HeimTeam = HeimTeam.split('<')
+        HeimTeam = HeimTeam[0]
+
+    for z in x.select('td[class*="gast tid"]'):
+        vargast = str(z)
+        GastTeam = vargast.split('>')
+        GastTeam = GastTeam[1]
+        GastTeam = GastTeam.split('<')
+        GastTeam = GastTeam[0]
+
+    print(HeimTeam +" : " + GastTeam)
+    print()
+
+
+
+
+
+#print(varSpieltag)
+
