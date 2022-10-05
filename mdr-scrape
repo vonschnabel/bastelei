@@ -4,15 +4,16 @@ import re
 
 import wget
 
-url = "https://www.mdr.de/sport/ergebnisse/fussball-dritte-liga-108.html"
+#url = "https://www.mdr.de/sport/ergebnisse/fussball-dritte-liga-108.html"
+url = "https://www.mdr.de/sport/ergebnisse/fussball-regionalliga-nordost-siebenter-spieltag-102.html"
 
 req = Request(url)
 html_page = urlopen(req)
 
 soup = BeautifulSoup(html_page, "lxml")
 
-Spieltag = []
-"""
+#Spieltag = []
+
 varSpieltag = 0
 
 for x in soup.find_all("h3", class_="headline"):
@@ -22,27 +23,49 @@ for x in soup.find_all("h3", class_="headline"):
         varSpieltag = varSpieltag[1]
         varSpieltag = varSpieltag.split('.')
         varSpieltag = varSpieltag[0]
-"""
+
+print(varSpieltag)
+print()
 
 HeimTeam = ""
 GastTeam = ""
 
 for x in soup.findAll("div", class_="match"):
-    for y in x.select('td[class*="heim tid"]'):
-        varheim = str(y)
+    y = x.select('td[class*="heim tid"]') # Name Heim Verein
+    z = x.select('td[class*="gast tid"]') # Name Gast Verein
+    u = x.select('td[class*="ende"]') #
+    v = x.select('td[class*="pause"]') #
+    for i in range(0, len(y)):
+        varheim = str(y[i])
         HeimTeam = varheim.split('>')
         HeimTeam = HeimTeam[1]
         HeimTeam = HeimTeam.split('<')
         HeimTeam = HeimTeam[0]
 
-    for z in x.select('td[class*="gast tid"]'):
-        vargast = str(z)
+        vargast = str(z[i])
         GastTeam = vargast.split('>')
         GastTeam = GastTeam[1]
         GastTeam = GastTeam.split('<')
         GastTeam = GastTeam[0]
 
-    print(HeimTeam +" : " + GastTeam)
+        varergebnis = str(u[i])
+        varergebnis = varergebnis.strip()
+        Ergebnis = varergebnis.split('\n')
+        Ergebnis = Ergebnis[1]
+        Ergebnis = Ergebnis.split('\n')
+        Ergebnis = Ergebnis[0]
+
+        if(Ergebnis != "0:0"):
+            varpause = str(v[i])
+            varpause = varpause.strip()
+            Pause = varpause.split('\n')
+            Pause = Pause[1]
+            Pause = Pause.split('\n')
+            Pause = Pause[0]
+        else:
+            Pause = "(" +Ergebnis +")"
+
+        print(HeimTeam + " " +Ergebnis +" " +Pause +" " +GastTeam)
     print()
 
 
