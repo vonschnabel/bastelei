@@ -1,0 +1,63 @@
+{
+    "Spieltag": "1",
+    "0": {
+        "Heimteam": "VfL Osnabrück",
+        "Gastteam": "MSV Duisburg",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "(0:0)"
+    },
+    "1": {
+        "Heimteam": "VfB Oldenburg",
+        "Gastteam": "SV Meppen",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "(0:1)"
+    },
+    "2": {
+        "Heimteam": "FC Ingolstadt",
+        "Gastteam": "SpVgg Bayreuth",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "(1:0)"
+    },
+    "3": {
+        "Heimteam": "SV Waldhof Mannheim",
+        "Gastteam": "FC Viktoria Köln",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "(0:0)"
+    },
+    "4": {
+        "Heimteam": "Rot-Weiss Essen",
+        "Gastteam": "SV 07 Elversberg",
+        "Endergebnis": "1:5",
+        "Pausenergebnis": "(1:4)"
+    },
+    "5": {
+        "Heimteam": "SG Dynamo Dresden",
+        "Gastteam": "TSV 1860 München",
+        "Endergebnis": "3:4",
+        "Pausenergebnis": "(0:2)"
+    },
+    "6": {
+        "Heimteam": "1. FC Saarbrücken",
+        "Gastteam": "SC Verl",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "(0:0)"
+    },
+    "7": {
+        "Heimteam": "SC Freiburg II",
+        "Gastteam": "FC Erzgebirge Aue",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "(0:1)"
+    },
+    "8": {
+        "Heimteam": "FSV Zwickau",
+        "Gastteam": "Hallescher FC",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "(2:0)"
+    },
+    "9": {
+        "Heimteam": "SV Wehen Wiesbaden",
+        "Gastteam": "Bor. Dortmund II",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "(0:0)"
+    }
+}

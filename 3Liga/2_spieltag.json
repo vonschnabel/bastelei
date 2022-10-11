@@ -1,0 +1,63 @@
+{
+    "Spieltag": "2",
+    "0": {
+        "Heimteam": "MSV Duisburg",
+        "Gastteam": "Rot-Weiss Essen",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "(1:0)"
+    },
+    "1": {
+        "Heimteam": "TSV 1860 München",
+        "Gastteam": "VfB Oldenburg",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "(0:0)"
+    },
+    "2": {
+        "Heimteam": "SV 07 Elversberg",
+        "Gastteam": "1. FC Saarbrücken",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "(0:0)"
+    },
+    "3": {
+        "Heimteam": "FC Viktoria Köln",
+        "Gastteam": "SV Wehen Wiesbaden",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "(0:0)"
+    },
+    "4": {
+        "Heimteam": "SV Meppen",
+        "Gastteam": "FSV Zwickau",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "(0:0)"
+    },
+    "5": {
+        "Heimteam": "Hallescher FC",
+        "Gastteam": "SG Dynamo Dresden",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "(0:1)"
+    },
+    "6": {
+        "Heimteam": "SpVgg Bayreuth",
+        "Gastteam": "SC Freiburg II",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "(0:0)"
+    },
+    "7": {
+        "Heimteam": "Bor. Dortmund II",
+        "Gastteam": "FC Ingolstadt",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "(0:2)"
+    },
+    "8": {
+        "Heimteam": "FC Erzgebirge Aue",
+        "Gastteam": "VfL Osnabrück",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "(1:1)"
+    },
+    "9": {
+        "Heimteam": "SC Verl",
+        "Gastteam": "SV Waldhof Mannheim",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "(1:0)"
+    }
+}
