@@ -1,0 +1,222 @@
+{
+    "0": {
+        "Teamname": "TSV 1860 München",
+        "Platz": "1",
+        "Spiele": "3",
+        "Gewonnen": "3",
+        "Unentschieden": "0",
+        "Verloren": "0",
+        "Tore": "9:3",
+        "Tordifferenz": "6",
+        "Punkte": "9"
+    },
+    "1": {
+        "Teamname": "FC Ingolstadt",
+        "Platz": "2",
+        "Spiele": "3",
+        "Gewonnen": "3",
+        "Unentschieden": "0",
+        "Verloren": "0",
+        "Tore": "6:0",
+        "Tordifferenz": "6",
+        "Punkte": "9"
+    },
+    "2": {
+        "Teamname": "1. FC Saarbrücken",
+        "Platz": "3",
+        "Spiele": "3",
+        "Gewonnen": "3",
+        "Unentschieden": "0",
+        "Verloren": "0",
+        "Tore": "4:0",
+        "Tordifferenz": "4",
+        "Punkte": "9"
+    },
+    "3": {
+        "Teamname": "SV Waldhof Mannheim",
+        "Platz": "4",
+        "Spiele": "3",
+        "Gewonnen": "2",
+        "Unentschieden": "1",
+        "Verloren": "0",
+        "Tore": "6:3",
+        "Tordifferenz": "3",
+        "Punkte": "7"
+    },
+    "4": {
+        "Teamname": "SC Freiburg II",
+        "Platz": "5",
+        "Spiele": "3",
+        "Gewonnen": "2",
+        "Unentschieden": "1",
+        "Verloren": "0",
+        "Tore": "4:1",
+        "Tordifferenz": "3",
+        "Punkte": "7"
+    },
+    "5": {
+        "Teamname": "SV 07 Elversberg",
+        "Platz": "6",
+        "Spiele": "3",
+        "Gewonnen": "2",
+        "Unentschieden": "0",
+        "Verloren": "1",
+        "Tore": "8:5",
+        "Tordifferenz": "3",
+        "Punkte": "6"
+    },
+    "6": {
+        "Teamname": "SG Dynamo Dresden",
+        "Platz": "7",
+        "Spiele": "3",
+        "Gewonnen": "2",
+        "Unentschieden": "0",
+        "Verloren": "1",
+        "Tore": "7:4",
+        "Tordifferenz": "3",
+        "Punkte": "6"
+    },
+    "7": {
+        "Teamname": "FC Viktoria Köln",
+        "Platz": "8",
+        "Spiele": "3",
+        "Gewonnen": "2",
+        "Unentschieden": "0",
+        "Verloren": "1",
+        "Tore": "6:4",
+        "Tordifferenz": "2",
+        "Punkte": "6"
+    },
+    "8": {
+        "Teamname": "SV Wehen Wiesbaden",
+        "Platz": "9",
+        "Spiele": "3",
+        "Gewonnen": "1",
+        "Unentschieden": "1",
+        "Verloren": "1",
+        "Tore": "5:3",
+        "Tordifferenz": "2",
+        "Punkte": "4"
+    },
+    "9": {
+        "Teamname": "MSV Duisburg",
+        "Platz": "10",
+        "Spiele": "3",
+        "Gewonnen": "1",
+        "Unentschieden": "1",
+        "Verloren": "1",
+        "Tore": "3:3",
+        "Tordifferenz": "0",
+        "Punkte": "4"
+    },
+    "10": {
+        "Teamname": "VfL Osnabrück",
+        "Platz": "11",
+        "Spiele": "3",
+        "Gewonnen": "1",
+        "Unentschieden": "1",
+        "Verloren": "1",
+        "Tore": "2:2",
+        "Tordifferenz": "0",
+        "Punkte": "4"
+    },
+    "11": {
+        "Teamname": "SV Meppen",
+        "Platz": "12",
+        "Spiele": "3",
+        "Gewonnen": "1",
+        "Unentschieden": "1",
+        "Verloren": "1",
+        "Tore": "4:5",
+        "Tordifferenz": "-1",
+        "Punkte": "4"
+    },
+    "12": {
+        "Teamname": "FSV Zwickau",
+        "Platz": "13",
+        "Spiele": "3",
+        "Gewonnen": "1",
+        "Unentschieden": "0",
+        "Verloren": "2",
+        "Tore": "3:6",
+        "Tordifferenz": "-3",
+        "Punkte": "3"
+    },
+    "13": {
+        "Teamname": "FC Erzgebirge Aue",
+        "Platz": "14",
+        "Spiele": "3",
+        "Gewonnen": "0",
+        "Unentschieden": "2",
+        "Verloren": "1",
+        "Tore": "2:3",
+        "Tordifferenz": "-1",
+        "Punkte": "2"
+    },
+    "14": {
+        "Teamname": "VfB Oldenburg",
+        "Platz": "15",
+        "Spiele": "3",
+        "Gewonnen": "0",
+        "Unentschieden": "1",
+        "Verloren": "2",
+        "Tore": "3:5",
+        "Tordifferenz": "-2",
+        "Punkte": "1"
+    },
+    "15": {
+        "Teamname": "SC Verl",
+        "Platz": "16",
+        "Spiele": "3",
+        "Gewonnen": "0",
+        "Unentschieden": "1",
+        "Verloren": "2",
+        "Tore": "2:5",
+        "Tordifferenz": "-3",
+        "Punkte": "1"
+    },
+    "16": {
+        "Teamname": "Bor. Dortmund II",
+        "Platz": "17",
+        "Spiele": "3",
+        "Gewonnen": "0",
+        "Unentschieden": "1",
+        "Verloren": "2",
+        "Tore": "1:6",
+        "Tordifferenz": "-5",
+        "Punkte": "1"
+    },
+    "17": {
+        "Teamname": "Rot-Weiss Essen",
+        "Platz": "18",
+        "Spiele": "3",
+        "Gewonnen": "0",
+        "Unentschieden": "1",
+        "Verloren": "2",
+        "Tore": "4:11",
+        "Tordifferenz": "-7",
+        "Punkte": "1"
+    },
+    "18": {
+        "Teamname": "Hallescher FC",
+        "Platz": "19",
+        "Spiele": "3",
+        "Gewonnen": "0",
+        "Unentschieden": "0",
+        "Verloren": "3",
+        "Tore": "2:7",
+        "Tordifferenz": "-5",
+        "Punkte": "0"
+    },
+    "19": {
+        "Teamname": "SpVgg Bayreuth",
+        "Platz": "20",
+        "Spiele": "3",
+        "Gewonnen": "0",
+        "Unentschieden": "0",
+        "Verloren": "3",
+        "Tore": "1:6",
+        "Tordifferenz": "-5",
+        "Punkte": "0"
+    }
+}
