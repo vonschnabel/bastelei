@@ -1,0 +1,200 @@
+{
+    "0": {
+        "Teamname": "Berliner AK",
+        "Platz": "1",
+        "Spiele": "5",
+        "Gewonnen": "5",
+        "Unentschieden": "0",
+        "Verloren": "0",
+        "Tore": "8:1",
+        "Tordifferenz": "7",
+        "Punkte": "15"
+    },
+    "1": {
+        "Teamname": "FC Carl Zeiss Jena",
+        "Platz": "2",
+        "Spiele": "5",
+        "Gewonnen": "4",
+        "Unentschieden": "1",
+        "Verloren": "0",
+        "Tore": "12:1",
+        "Tordifferenz": "11",
+        "Punkte": "13"
+    },
+    "2": {
+        "Teamname": "VSG Altglienicke",
+        "Platz": "3",
+        "Spiele": "5",
+        "Gewonnen": "3",
+        "Unentschieden": "2",
+        "Verloren": "0",
+        "Tore": "9:5",
+        "Tordifferenz": "4",
+        "Punkte": "11"
+    },
+    "3": {
+        "Teamname": "SV Babelsberg 03",
+        "Platz": "",
+        "Spiele": "5",
+        "Gewonnen": "3",
+        "Unentschieden": "2",
+        "Verloren": "0",
+        "Tore": "9:5",
+        "Tordifferenz": "4",
+        "Punkte": "11"
+    },
+    "4": {
+        "Teamname": "FC Rot-Weiß Erfurt",
+        "Platz": "5",
+        "Spiele": "5",
+        "Gewonnen": "3",
+        "Unentschieden": "1",
+        "Verloren": "1",
+        "Tore": "13:3",
+        "Tordifferenz": "10",
+        "Punkte": "10"
+    },
+    "5": {
+        "Teamname": "1. FC Lok Leipzig",
+        "Platz": "6",
+        "Spiele": "5",
+        "Gewonnen": "2",
+        "Unentschieden": "2",
+        "Verloren": "1",
+        "Tore": "11:7",
+        "Tordifferenz": "4",
+        "Punkte": "8"
+    },
+    "6": {
+        "Teamname": "Chemnitzer FC",
+        "Platz": "7",
+        "Spiele": "5",
+        "Gewonnen": "2",
+        "Unentschieden": "2",
+        "Verloren": "1",
+        "Tore": "5:4",
+        "Tordifferenz": "1",
+        "Punkte": "8"
+    },
+    "7": {
+        "Teamname": "FC Energie Cottbus",
+        "Platz": "8",
+        "Spiele": "5",
+        "Gewonnen": "2",
+        "Unentschieden": "1",
+        "Verloren": "2",
+        "Tore": "8:4",
+        "Tordifferenz": "4",
+        "Punkte": "7"
+    },
+    "8": {
+        "Teamname": "Hertha BSC II",
+        "Platz": "9",
+        "Spiele": "5",
+        "Gewonnen": "2",
+        "Unentschieden": "1",
+        "Verloren": "2",
+        "Tore": "10:11",
+        "Tordifferenz": "-1",
+        "Punkte": "7"
+    },
+    "9": {
+        "Teamname": "BSG Chemie Leipzig",
+        "Platz": "10",
+        "Spiele": "5",
+        "Gewonnen": "2",
+        "Unentschieden": "1",
+        "Verloren": "2",
+        "Tore": "9:10",
+        "Tordifferenz": "-1",
+        "Punkte": "7"
+    },
+    "10": {
+        "Teamname": "FC Viktoria Berlin",
+        "Platz": "11",
+        "Spiele": "5",
+        "Gewonnen": "1",
+        "Unentschieden": "2",
+        "Verloren": "2",
+        "Tore": "7:8",
+        "Tordifferenz": "-1",
+        "Punkte": "5"
+    },
+    "11": {
+        "Teamname": "Greifswalder FC",
+        "Platz": "12",
+        "Spiele": "5",
+        "Gewonnen": "1",
+        "Unentschieden": "1",
+        "Verloren": "3",
+        "Tore": "4:6",
+        "Tordifferenz": "-2",
+        "Punkte": "4"
+    },
+    "12": {
+        "Teamname": "FSV 63 Luckenwalde",
+        "Platz": "13",
+        "Spiele": "5",
+        "Gewonnen": "0",
+        "Unentschieden": "4",
+        "Verloren": "1",
+        "Tore": "6:9",
+        "Tordifferenz": "-3",
+        "Punkte": "4"
+    },
+    "13": {
+        "Teamname": "BFC Dynamo",
+        "Platz": "14",
+        "Spiele": "5",
+        "Gewonnen": "1",
+        "Unentschieden": "1",
+        "Verloren": "3",
+        "Tore": "2:5",
+        "Tordifferenz": "-3",
+        "Punkte": "4"
+    },
+    "14": {
+        "Teamname": "SV Lichtenberg 47",
+        "Platz": "15",
+        "Spiele": "5",
+        "Gewonnen": "1",
+        "Unentschieden": "1",
+        "Verloren": "3",
+        "Tore": "4:10",
+        "Tordifferenz": "-6",
+        "Punkte": "4"
+    },
+    "15": {
+        "Teamname": "ZFC Meuselwitz",
+        "Platz": "16",
+        "Spiele": "5",
+        "Gewonnen": "1",
+        "Unentschieden": "0",
+        "Verloren": "4",
+        "Tore": "5:11",
+        "Tordifferenz": "-6",
+        "Punkte": "3"
+    },
+    "16": {
+        "Teamname": "Germania Halberstadt",
+        "Platz": "17",
+        "Spiele": "5",
+        "Gewonnen": "0",
+        "Unentschieden": "1",
+        "Verloren": "4",
+        "Tore": "2:10",
+        "Tordifferenz": "-8",
+        "Punkte": "1"
+    },
+    "17": {
+        "Teamname": "Tennis Bor. Berlin",
+        "Platz": "18",
+        "Spiele": "5",
+        "Gewonnen": "0",
+        "Unentschieden": "1",
+        "Verloren": "4",
+        "Tore": "4:18",
+        "Tordifferenz": "-14",
+        "Punkte": "1"
+    }
+}

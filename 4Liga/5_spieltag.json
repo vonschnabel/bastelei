@@ -1,0 +1,57 @@
+{
+    "Spieltag": "5",
+    "0": {
+        "Heimteam": "1. FC Lok Leipzig",
+        "Gastteam": "BFC Dynamo",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "(0:0)"
+    },
+    "1": {
+        "Heimteam": "SV Babelsberg 03",
+        "Gastteam": "FSV 63 Luckenwalde",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "(1:1)"
+    },
+    "2": {
+        "Heimteam": "FC Carl Zeiss Jena",
+        "Gastteam": "Germania Halberstadt",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "(2:0)"
+    },
+    "3": {
+        "Heimteam": "SV Lichtenberg 47",
+        "Gastteam": "VSG Altglienicke",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "(0:0)"
+    },
+    "4": {
+        "Heimteam": "FC Viktoria Berlin",
+        "Gastteam": "Tennis Bor. Berlin",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "(0:0)"
+    },
+    "5": {
+        "Heimteam": "Chemnitzer FC",
+        "Gastteam": "FC Rot-Weiß Erfurt",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "(0:1)"
+    },
+    "6": {
+        "Heimteam": "Berliner AK",
+        "Gastteam": "FC Energie Cottbus",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "(2:0)"
+    },
+    "7": {
+        "Heimteam": "Hertha BSC II",
+        "Gastteam": "Greifswalder FC",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "(1:0)"
+    },
+    "8": {
+        "Heimteam": "ZFC Meuselwitz",
+        "Gastteam": "BSG Chemie Leipzig",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "(0:0)"
+    }
+}

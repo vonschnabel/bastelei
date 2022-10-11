@@ -1,0 +1,57 @@
+{
+    "Spieltag": "6",
+    "0": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Hertha BSC II",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "(0:0)"
+    },
+    "1": {
+        "Heimteam": "FSV 63 Luckenwalde",
+        "Gastteam": "SV Lichtenberg 47",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "(0:0)"
+    },
+    "2": {
+        "Heimteam": "VSG Altglienicke",
+        "Gastteam": "ZFC Meuselwitz",
+        "Endergebnis": "5:2",
+        "Pausenergebnis": "(4:1)"
+    },
+    "3": {
+        "Heimteam": "BSG Chemie Leipzig",
+        "Gastteam": "Berliner AK",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "(1:0)"
+    },
+    "4": {
+        "Heimteam": "FC Energie Cottbus",
+        "Gastteam": "Chemnitzer FC",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "(2:0)"
+    },
+    "5": {
+        "Heimteam": "Germania Halberstadt",
+        "Gastteam": "1. FC Lok Leipzig",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "(1:0)"
+    },
+    "6": {
+        "Heimteam": "Greifswalder FC",
+        "Gastteam": "FC Viktoria Berlin",
+        "Endergebnis": "5:0",
+        "Pausenergebnis": "(2:0)"
+    },
+    "7": {
+        "Heimteam": "Tennis Bor. Berlin",
+        "Gastteam": "SV Babelsberg 03",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "(0:1)"
+    },
+    "8": {
+        "Heimteam": "FC Rot-Weiß Erfurt",
+        "Gastteam": "FC Carl Zeiss Jena",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "(1:0)"
+    }
+}

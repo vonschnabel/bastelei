@@ -1,0 +1,57 @@
+{
+    "Spieltag": "1",
+    "0": {
+        "Heimteam": "FSV 63 Luckenwalde",
+        "Gastteam": "FC Rot-Weiß Erfurt",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "(1:0)"
+    },
+    "1": {
+        "Heimteam": "SV Lichtenberg 47",
+        "Gastteam": "Germania Halberstadt",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "(2:0)"
+    },
+    "2": {
+        "Heimteam": "VSG Altglienicke",
+        "Gastteam": "FC Energie Cottbus",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "(1:0)"
+    },
+    "3": {
+        "Heimteam": "FC Carl Zeiss Jena",
+        "Gastteam": "FC Viktoria Berlin",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "(0:1)"
+    },
+    "4": {
+        "Heimteam": "Chemnitzer FC",
+        "Gastteam": "Tennis Bor. Berlin",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "(2:0)"
+    },
+    "5": {
+        "Heimteam": "ZFC Meuselwitz",
+        "Gastteam": "BFC Dynamo",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "(0:0)"
+    },
+    "6": {
+        "Heimteam": "SV Babelsberg 03",
+        "Gastteam": "BSG Chemie Leipzig",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "(1:1)"
+    },
+    "7": {
+        "Heimteam": "Berliner AK",
+        "Gastteam": "Greifswalder FC",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "(1:0)"
+    },
+    "8": {
+        "Heimteam": "1. FC Lok Leipzig",
+        "Gastteam": "Hertha BSC II",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "(3:1)"
+    }
+}
