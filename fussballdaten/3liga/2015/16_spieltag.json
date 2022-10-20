@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "16",
+    "0": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Mainz II",
+        "Datum": "Freitag, 31.10.2014",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Osnabrück",
+        "Datum": "Freitag, 31.10.2014",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 01.11.2014",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Dresden",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 01.11.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Bielefeld",
+        "Datum": "Samstag, 01.11.2014",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 01.11.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Halle",
+        "Datum": "Sonntag, 02.11.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Münster",
+        "Gastteam": "Duisburg",
+        "Datum": "Sonntag, 02.11.2014",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Sonntag, 02.11.2014",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "9": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Dortmund II",
+        "Datum": "Sonntag, 02.11.2014",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    }
+}

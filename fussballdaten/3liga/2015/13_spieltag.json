@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "13",
+    "0": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 04.10.2014",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 04.10.2014",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "3:1"
+    },
+    "2": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 04.10.2014",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 04.10.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 04.10.2014",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "3:0"
+    },
+    "5": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 04.10.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 04.10.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Halle",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Sonntag, 05.10.2014",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Wehen",
+        "Datum": "Sonntag, 05.10.2014",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Sonntag, 05.10.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    }
+}

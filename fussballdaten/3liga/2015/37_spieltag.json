@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "37",
+    "0": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 16.05.2015",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 16.05.2015",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:2"
+    },
+    "2": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 16.05.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 16.05.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 16.05.2015",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "3:1"
+    },
+    "5": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 16.05.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 16.05.2015",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 16.05.2015",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Halle",
+        "Gastteam": "Mainz II",
+        "Datum": "Samstag, 16.05.2015",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 16.05.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "25",
+    "0": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Freitag, 13.02.2015",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Dortmund II",
+        "Datum": "Freitag, 13.02.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 14.02.2015",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 14.02.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 14.02.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 14.02.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Halle",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 14.02.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 14.02.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 14.02.2015",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "1:1"
+    },
+    "9": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Duisburg",
+        "Datum": "Sonntag, 15.02.2015",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "1:2"
+    }
+}

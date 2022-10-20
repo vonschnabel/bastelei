@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "26",
+    "0": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Halle",
+        "Datum": "Freitag, 20.02.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Chemnitz",
+        "Datum": "Freitag, 20.02.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Bielefeld",
+        "Datum": "Samstag, 21.02.2015",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 21.02.2015",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Münster",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 21.02.2015",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:2"
+    },
+    "5": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 21.02.2015",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 21.02.2015",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 21.02.2015",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Mainz II",
+        "Datum": "Samstag, 21.02.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 21.02.2015",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    }
+}

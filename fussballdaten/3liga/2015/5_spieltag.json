@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "5",
+    "0": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Freitag, 22.08.2014",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Dortmund II",
+        "Datum": "Freitag, 22.08.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Halle",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 23.08.2014",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "3": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 23.08.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 23.08.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 23.08.2014",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 23.08.2014",
+        "Endergebnis": "4:4",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 23.08.2014",
+        "Endergebnis": "1:5",
+        "Pausenergebnis": "0:2"
+    },
+    "8": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 23.08.2014",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Duisburg",
+        "Datum": "Sonntag, 24.08.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

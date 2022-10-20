@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "14",
+    "0": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 18.10.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 18.10.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 18.10.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 18.10.2014",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Mainz II",
+        "Datum": "Samstag, 18.10.2014",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:2"
+    },
+    "5": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 18.10.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 18.10.2014",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 18.10.2014",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 18.10.2014",
+        "Endergebnis": "5:1",
+        "Pausenergebnis": "2:1"
+    },
+    "9": {
+        "Heimteam": "Münster",
+        "Gastteam": "Bielefeld",
+        "Datum": "Sonntag, 19.10.2014",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "0:1"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "27",
+    "0": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Freitag, 27.02.2015",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 28.02.2015",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 28.02.2015",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "0:3"
+    },
+    "3": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 28.02.2015",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 28.02.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 28.02.2015",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "6": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 28.02.2015",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "3:0"
+    },
+    "7": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 28.02.2015",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Halle",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 28.02.2015",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 28.02.2015",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    }
+}

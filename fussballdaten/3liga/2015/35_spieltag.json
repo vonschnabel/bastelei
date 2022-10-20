@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "35",
+    "0": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 02.05.2015",
+        "Endergebnis": "3:3",
+        "Pausenergebnis": "1:2"
+    },
+    "1": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 02.05.2015",
+        "Endergebnis": "3:4",
+        "Pausenergebnis": "1:2"
+    },
+    "2": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 02.05.2015",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:2"
+    },
+    "3": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 02.05.2015",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:1"
+    },
+    "4": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 02.05.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Halle",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 02.05.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "6": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 02.05.2015",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:1"
+    },
+    "7": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Münster",
+        "Datum": "Sonntag, 03.05.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Rostock",
+        "Datum": "Sonntag, 03.05.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Sonntag, 03.05.2015",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    }
+}

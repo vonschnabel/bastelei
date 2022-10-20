@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "33",
+    "0": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Rostock",
+        "Datum": "Freitag, 17.04.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 18.04.2015",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:1"
+    },
+    "2": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 18.04.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 18.04.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 18.04.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 18.04.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 18.04.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 18.04.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 18.04.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "9": {
+        "Heimteam": "Halle",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Sonntag, 19.04.2015",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:0"
+    }
+}

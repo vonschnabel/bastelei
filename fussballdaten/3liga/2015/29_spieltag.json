@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "29",
+    "0": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Freitag, 13.03.2015",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Halle",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 14.03.2015",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 14.03.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 14.03.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 14.03.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 14.03.2015",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "4:0"
+    },
+    "6": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 14.03.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 14.03.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 14.03.2015",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:1"
+    },
+    "9": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 14.03.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    }
+}

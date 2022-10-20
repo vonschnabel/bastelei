@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "7",
+    "0": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Rostock",
+        "Datum": "Freitag, 29.08.2014",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Halle",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 30.08.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 30.08.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 30.08.2014",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 30.08.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 30.08.2014",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 30.08.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 30.08.2014",
+        "Endergebnis": "3:3",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 30.08.2014",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "St. Kickers",
+        "Datum": "Sonntag, 31.08.2014",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "1:1"
+    }
+}

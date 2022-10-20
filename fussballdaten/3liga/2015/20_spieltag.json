@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "20",
+    "0": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Mainz II",
+        "Datum": "Freitag, 05.12.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 06.12.2014",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "2": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 06.12.2014",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 06.12.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 06.12.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 06.12.2014",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 06.12.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 06.12.2014",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Osnabrück",
+        "Datum": "Sonntag, 07.12.2014",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Dresden",
+        "Datum": "Sonntag, 07.12.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "15",
+    "0": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Freitag, 24.10.2014",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Münster",
+        "Datum": "Freitag, 24.10.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 25.10.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Halle",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 25.10.2014",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 25.10.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 25.10.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 25.10.2014",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 25.10.2014",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Regensburg",
+        "Datum": "Sonntag, 26.10.2014",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Rostock",
+        "Datum": "Sonntag, 26.10.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    }
+}

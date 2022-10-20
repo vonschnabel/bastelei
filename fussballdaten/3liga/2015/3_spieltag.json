@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "3",
+    "0": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Bielefeld",
+        "Datum": "Dienstag, 05.08.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Dienstag, 05.08.2014",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "2": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Dortmund II",
+        "Datum": "Dienstag, 05.08.2014",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Unterhaching",
+        "Datum": "Dienstag, 05.08.2014",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "St. Kickers",
+        "Datum": "Dienstag, 05.08.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Dresden",
+        "Datum": "Mittwoch, 06.08.2014",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:2"
+    },
+    "6": {
+        "Heimteam": "Halle",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Mittwoch, 06.08.2014",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "7": {
+        "Heimteam": "Münster",
+        "Gastteam": "Cottbus",
+        "Datum": "Mittwoch, 06.08.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Rostock",
+        "Datum": "Mittwoch, 06.08.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Duisburg",
+        "Datum": "Mittwoch, 06.08.2014",
+        "Endergebnis": "3:4",
+        "Pausenergebnis": "0:2"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "10",
+    "0": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Mainz II",
+        "Datum": "Freitag, 19.09.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Osnabrück",
+        "Datum": "Freitag, 19.09.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Duisburg",
+        "Datum": "Freitag, 19.09.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 20.09.2014",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Münster",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 20.09.2014",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 20.09.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 20.09.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 20.09.2014",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Bielefeld",
+        "Datum": "Samstag, 20.09.2014",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "2:0"
+    },
+    "9": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 20.09.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

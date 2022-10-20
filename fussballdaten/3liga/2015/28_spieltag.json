@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "28",
+    "0": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 07.03.2015",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 07.03.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Bielefeld",
+        "Datum": "Samstag, 07.03.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "3": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 07.03.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 07.03.2015",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "2:0"
+    },
+    "5": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 07.03.2015",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "6": {
+        "Heimteam": "Münster",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 07.03.2015",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 07.03.2015",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Mainz II",
+        "Datum": "Samstag, 07.03.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 07.03.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "22",
+    "0": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 20.12.2014",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:2"
+    },
+    "1": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 20.12.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 20.12.2014",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 20.12.2014",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:2"
+    },
+    "4": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 20.12.2014",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 20.12.2014",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 20.12.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Mainz II",
+        "Datum": "Samstag, 20.12.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 20.12.2014",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Wehen",
+        "Datum": "Dienstag, 03.02.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}
