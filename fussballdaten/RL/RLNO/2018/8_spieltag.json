@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "8",
+    "0": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Bautzen",
+        "Datum": "Freitag, 22.09.2017",
+        "Endergebnis": "5:0",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Altglienicke",
+        "Datum": "Freitag, 22.09.2017",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "2": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Oberlausitz",
+        "Datum": "Freitag, 22.09.2017",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Neustrelitz",
+        "Datum": "Freitag, 22.09.2017",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:1"
+    },
+    "4": {
+        "Heimteam": "Luckenwalde",
+        "Gastteam": "Nordhausen",
+        "Datum": "Freitag, 22.09.2017",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 23.09.2017",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Auerbach",
+        "Datum": "Sonntag, 24.09.2017",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Fürstenwalde",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Sonntag, 24.09.2017",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "BSG Chemie",
+        "Datum": "Sonntag, 24.09.2017",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "1:1"
+    }
+}

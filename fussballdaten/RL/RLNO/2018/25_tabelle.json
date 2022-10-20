@@ -1,0 +1,148 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "25",
+    "0": {
+        "Tabellenplatz": "1",
+        "Teamname": "Cottbus",
+        "Spiel": "25",
+        "Tore": "58:12",
+        "Tordifferenz": "46",
+        "Punkte": "62"
+    },
+    "1": {
+        "Tabellenplatz": "2",
+        "Teamname": "BFC Dynamo",
+        "Spiel": "25",
+        "Tore": "60:29",
+        "Tordifferenz": "31",
+        "Punkte": "48"
+    },
+    "2": {
+        "Tabellenplatz": "3",
+        "Teamname": "Nordhausen",
+        "Spiel": "25",
+        "Tore": "37:20",
+        "Tordifferenz": "17",
+        "Punkte": "44"
+    },
+    "3": {
+        "Tabellenplatz": "4",
+        "Teamname": "Lok Leipzig",
+        "Spiel": "25",
+        "Tore": "34:23",
+        "Tordifferenz": "11",
+        "Punkte": "42"
+    },
+    "4": {
+        "Tabellenplatz": "5",
+        "Teamname": "HBSC II",
+        "Spiel": "25",
+        "Tore": "42:32",
+        "Tordifferenz": "10",
+        "Punkte": "39"
+    },
+    "5": {
+        "Tabellenplatz": "6",
+        "Teamname": "Berliner AK 07",
+        "Spiel": "25",
+        "Tore": "39:36",
+        "Tordifferenz": "3",
+        "Punkte": "38"
+    },
+    "6": {
+        "Tabellenplatz": "7",
+        "Teamname": "Babelsberg",
+        "Spiel": "25",
+        "Tore": "38:28",
+        "Tordifferenz": "10",
+        "Punkte": "37"
+    },
+    "7": {
+        "Tabellenplatz": "8",
+        "Teamname": "Halberstadt",
+        "Spiel": "25",
+        "Tore": "46:40",
+        "Tordifferenz": "6",
+        "Punkte": "35"
+    },
+    "8": {
+        "Tabellenplatz": "9",
+        "Teamname": "Meuselwitz",
+        "Spiel": "25",
+        "Tore": "35:31",
+        "Tordifferenz": "4",
+        "Punkte": "35"
+    },
+    "9": {
+        "Tabellenplatz": "10",
+        "Teamname": "Viktoria 89",
+        "Spiel": "25",
+        "Tore": "38:38",
+        "Tordifferenz": "0",
+        "Punkte": "33"
+    },
+    "10": {
+        "Tabellenplatz": "11",
+        "Teamname": "Fürstenwalde",
+        "Spiel": "25",
+        "Tore": "40:40",
+        "Tordifferenz": "0",
+        "Punkte": "32"
+    },
+    "11": {
+        "Tabellenplatz": "12",
+        "Teamname": "Auerbach",
+        "Spiel": "25",
+        "Tore": "35:36",
+        "Tordifferenz": "-1",
+        "Punkte": "32"
+    },
+    "12": {
+        "Tabellenplatz": "13",
+        "Teamname": "Oberlausitz",
+        "Spiel": "25",
+        "Tore": "35:45",
+        "Tordifferenz": "-10",
+        "Punkte": "29"
+    },
+    "13": {
+        "Tabellenplatz": "14",
+        "Teamname": "Bautzen",
+        "Spiel": "25",
+        "Tore": "21:37",
+        "Tordifferenz": "-16",
+        "Punkte": "26"
+    },
+    "14": {
+        "Tabellenplatz": "15",
+        "Teamname": "Altglienicke",
+        "Spiel": "25",
+        "Tore": "19:31",
+        "Tordifferenz": "-12",
+        "Punkte": "24"
+    },
+    "15": {
+        "Tabellenplatz": "16",
+        "Teamname": "BSG Chemie",
+        "Spiel": "25",
+        "Tore": "16:41",
+        "Tordifferenz": "-25",
+        "Punkte": "24"
+    },
+    "16": {
+        "Tabellenplatz": "17",
+        "Teamname": "Neustrelitz",
+        "Spiel": "25",
+        "Tore": "26:50",
+        "Tordifferenz": "-24",
+        "Punkte": "20"
+    },
+    "17": {
+        "Tabellenplatz": "18",
+        "Teamname": "Luckenwalde",
+        "Spiel": "25",
+        "Tore": "20:70",
+        "Tordifferenz": "-50",
+        "Punkte": "7"
+    }
+}

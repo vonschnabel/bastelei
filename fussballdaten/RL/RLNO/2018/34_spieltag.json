@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "34",
+    "0": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Samstag, 12.05.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "Neustrelitz",
+        "Datum": "Samstag, 12.05.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Luckenwalde",
+        "Gastteam": "Halberstadt",
+        "Datum": "Samstag, 12.05.2018",
+        "Endergebnis": "0:5",
+        "Pausenergebnis": "0:3"
+    },
+    "3": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Auerbach",
+        "Datum": "Samstag, 12.05.2018",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "3:2"
+    },
+    "4": {
+        "Heimteam": "Oberlausitz",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 12.05.2018",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    },
+    "5": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Samstag, 12.05.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "HBSC II",
+        "Datum": "Samstag, 12.05.2018",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Altglienicke",
+        "Gastteam": "Bautzen",
+        "Datum": "Samstag, 12.05.2018",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Fürstenwalde",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Samstag, 12.05.2018",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "2:0"
+    }
+}

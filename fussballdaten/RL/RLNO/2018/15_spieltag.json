@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "15",
+    "0": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Freitag, 17.11.2017",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Samstag, 18.11.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 18.11.2017",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 19.11.2017",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:2"
+    },
+    "4": {
+        "Heimteam": "Bautzen",
+        "Gastteam": "Nordhausen",
+        "Datum": "Sonntag, 19.11.2017",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Sonntag, 19.11.2017",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "6": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Luckenwalde",
+        "Datum": "Sonntag, 19.11.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "Oberlausitz",
+        "Datum": "Sonntag, 19.11.2017",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "Altglienicke",
+        "Datum": "Sonntag, 19.11.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "31",
+    "0": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Samstag, 21.04.2018",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Nordhausen",
+        "Datum": "Sonntag, 22.04.2018",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Sonntag, 22.04.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Oberlausitz",
+        "Gastteam": "Altglienicke",
+        "Datum": "Sonntag, 22.04.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Sonntag, 22.04.2018",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Sonntag, 22.04.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 22.04.2018",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Babelsberg",
+        "Datum": "Sonntag, 22.04.2018",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Bautzen",
+        "Gastteam": "Luckenwalde",
+        "Datum": "Sonntag, 22.04.2018",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "1:1"
+    }
+}

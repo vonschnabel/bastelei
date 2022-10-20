@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "17",
+    "0": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Luckenwalde",
+        "Datum": "Freitag, 01.12.2017",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Bautzen",
+        "Gastteam": "Altglienicke",
+        "Datum": "Samstag, 02.12.2017",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Samstag, 02.12.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Samstag, 02.12.2017",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Samstag, 02.12.2017",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Oberlausitz",
+        "Datum": "Sonntag, 03.12.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "BSG Chemie",
+        "Datum": "Sonntag, 03.12.2017",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "3:0"
+    },
+    "7": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Nordhausen",
+        "Datum": "Sonntag, 03.12.2017",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:1"
+    },
+    "8": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Babelsberg",
+        "Datum": "Sonntag, 03.12.2017",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    }
+}
