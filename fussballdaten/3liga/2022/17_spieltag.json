@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "17",
+    "0": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Mannheim",
+        "Datum": "Freitag, 26.11.2021",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:2"
+    },
+    "1": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 27.11.2021",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "2": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Verl",
+        "Datum": "Samstag, 27.11.2021",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 27.11.2021",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Havelse",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 27.11.2021",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "0:2"
+    },
+    "5": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Samstag, 27.11.2021",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 27.11.2021",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Freiburg II",
+        "Datum": "Sonntag, 28.11.2021",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Halle",
+        "Datum": "Sonntag, 28.11.2021",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "9": {
+        "Heimteam": "Türkgücü",
+        "Gastteam": "Zwickau",
+        "Datum": "Montag, 29.11.2021",
+        "Endergebnis": "",
+        "Pausenergebnis": "abgesagt"
+    }
+}

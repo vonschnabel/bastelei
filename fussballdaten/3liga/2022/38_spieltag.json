@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "38",
+    "0": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Magdeburg",
+        "Datum": "Samstag, 14.05.2022",
+        "Endergebnis": "1:5",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 14.05.2022",
+        "Endergebnis": "3:4",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "V. Köln",
+        "Datum": "Samstag, 14.05.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 14.05.2022",
+        "Endergebnis": "6:3",
+        "Pausenergebnis": "2:2"
+    },
+    "4": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Havelse",
+        "Datum": "Samstag, 14.05.2022",
+        "Endergebnis": "7:0",
+        "Pausenergebnis": "3:0"
+    },
+    "5": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Türkgücü",
+        "Datum": "Samstag, 14.05.2022",
+        "Endergebnis": "",
+        "Pausenergebnis": "abgesagt"
+    },
+    "6": {
+        "Heimteam": "Halle",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 14.05.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 14.05.2022",
+        "Endergebnis": "7:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Verl",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 14.05.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Freiburg II",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 14.05.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    }
+}

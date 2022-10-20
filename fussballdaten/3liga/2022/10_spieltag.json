@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "10",
+    "0": {
+        "Heimteam": "Halle",
+        "Gastteam": "Magdeburg",
+        "Datum": "Freitag, 24.09.2021",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 25.09.2021",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Mannheim",
+        "Datum": "Samstag, 25.09.2021",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 25.09.2021",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 25.09.2021",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:2"
+    },
+    "5": {
+        "Heimteam": "Verl",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 25.09.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 25.09.2021",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Türkgücü",
+        "Gastteam": "Dortmund II",
+        "Datum": "Sonntag, 26.09.2021",
+        "Endergebnis": "",
+        "Pausenergebnis": "abgesagt"
+    },
+    "8": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Freiburg II",
+        "Datum": "Sonntag, 26.09.2021",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Havelse",
+        "Datum": "Montag, 27.09.2021",
+        "Endergebnis": "3:4",
+        "Pausenergebnis": "2:1"
+    }
+}

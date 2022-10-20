@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "23",
+    "0": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Dienstag, 25.01.2022",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Freiburg II",
+        "Gastteam": "Türkgücü",
+        "Datum": "Dienstag, 25.01.2022",
+        "Endergebnis": "",
+        "Pausenergebnis": "abgesagt"
+    },
+    "2": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "V. Köln",
+        "Datum": "Dienstag, 25.01.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Magdeburg",
+        "Datum": "Mittwoch, 26.01.2022",
+        "Endergebnis": "0:5",
+        "Pausenergebnis": "0:3"
+    },
+    "4": {
+        "Heimteam": "Havelse",
+        "Gastteam": "Wehen",
+        "Datum": "Mittwoch, 26.01.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Dortmund II",
+        "Datum": "Mittwoch, 26.01.2022",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Braunschweig",
+        "Datum": "Mittwoch, 26.01.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Verl",
+        "Gastteam": "Meppen",
+        "Datum": "Mittwoch, 26.01.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "K'lautern",
+        "Datum": "Dienstag, 01.03.2022",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "9": {
+        "Heimteam": "Halle",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Mittwoch, 02.03.2022",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:1"
+    }
+}

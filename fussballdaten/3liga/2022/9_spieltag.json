@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "9",
+    "0": {
+        "Heimteam": "Havelse",
+        "Gastteam": "V. Köln",
+        "Datum": "Freitag, 17.09.2021",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 18.09.2021",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:0"
+    },
+    "2": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 18.09.2021",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Türkgücü",
+        "Datum": "Samstag, 18.09.2021",
+        "Endergebnis": "",
+        "Pausenergebnis": "abgesagt"
+    },
+    "4": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 18.09.2021",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 18.09.2021",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:1"
+    },
+    "6": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 18.09.2021",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Freiburg II",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Sonntag, 19.09.2021",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Verl",
+        "Gastteam": "K'lautern",
+        "Datum": "Sonntag, 19.09.2021",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Dortmund II",
+        "Datum": "Montag, 20.09.2021",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    }
+}

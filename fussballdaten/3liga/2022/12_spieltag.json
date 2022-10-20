@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "12",
+    "0": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Osnabrück",
+        "Datum": "Freitag, 15.10.2021",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    },
+    "1": {
+        "Heimteam": "Halle",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 16.10.2021",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "2:1"
+    },
+    "2": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 16.10.2021",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "2:1"
+    },
+    "3": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Freiburg II",
+        "Datum": "Samstag, 16.10.2021",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 16.10.2021",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Magdeburg",
+        "Datum": "Samstag, 16.10.2021",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:2"
+    },
+    "6": {
+        "Heimteam": "Türkgücü",
+        "Gastteam": "Wehen",
+        "Datum": "Sonntag, 17.10.2021",
+        "Endergebnis": "",
+        "Pausenergebnis": "abgesagt"
+    },
+    "7": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Sonntag, 17.10.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Verl",
+        "Gastteam": "Havelse",
+        "Datum": "Montag, 18.10.2021",
+        "Endergebnis": "5:3",
+        "Pausenergebnis": "3:1"
+    },
+    "9": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Mannheim",
+        "Datum": "Dienstag, 30.11.2021",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:2"
+    }
+}

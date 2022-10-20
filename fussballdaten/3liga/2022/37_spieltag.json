@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "37",
+    "0": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Verl",
+        "Datum": "Freitag, 06.05.2022",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Mannheim",
+        "Datum": "Samstag, 07.05.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "2": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Freiburg II",
+        "Datum": "Samstag, 07.05.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 07.05.2022",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:1"
+    },
+    "4": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 07.05.2022",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 07.05.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Türkgücü",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Samstag, 07.05.2022",
+        "Endergebnis": "",
+        "Pausenergebnis": "abgesagt"
+    },
+    "7": {
+        "Heimteam": "Havelse",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 07.05.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Halle",
+        "Datum": "Sonntag, 08.05.2022",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "K'lautern",
+        "Datum": "Sonntag, 08.05.2022",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    }
+}

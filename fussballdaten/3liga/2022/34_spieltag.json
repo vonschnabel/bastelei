@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "34",
+    "0": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 16.04.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 16.04.2022",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:2"
+    },
+    "2": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Türkgücü",
+        "Datum": "Samstag, 16.04.2022",
+        "Endergebnis": "",
+        "Pausenergebnis": "abgesagt"
+    },
+    "3": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 16.04.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 16.04.2022",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 16.04.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Halle",
+        "Gastteam": "Havelse",
+        "Datum": "Samstag, 16.04.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Verl",
+        "Gastteam": "Magdeburg",
+        "Datum": "Sonntag, 17.04.2022",
+        "Endergebnis": "4:5",
+        "Pausenergebnis": "1:2"
+    },
+    "8": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Sonntag, 17.04.2022",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Freiburg II",
+        "Datum": "Montag, 18.04.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    }
+}

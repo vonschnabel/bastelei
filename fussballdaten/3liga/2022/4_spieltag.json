@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "4",
+    "0": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Halle",
+        "Datum": "Freitag, 20.08.2021",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 21.08.2021",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 21.08.2021",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 21.08.2021",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 21.08.2021",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Mannheim",
+        "Datum": "Samstag, 21.08.2021",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "0:3"
+    },
+    "6": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Verl",
+        "Datum": "Samstag, 21.08.2021",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Osnabrück",
+        "Datum": "Sonntag, 22.08.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Havelse",
+        "Datum": "Sonntag, 22.08.2021",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Türkgücü",
+        "Gastteam": "Freiburg II",
+        "Datum": "Sonntag, 22.08.2021",
+        "Endergebnis": "",
+        "Pausenergebnis": "abgesagt"
+    }
+}

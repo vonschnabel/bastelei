@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "31",
+    "0": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "V. Köln",
+        "Datum": "Freitag, 18.03.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Türkgücü",
+        "Datum": "Samstag, 19.03.2022",
+        "Endergebnis": "",
+        "Pausenergebnis": "abgesagt"
+    },
+    "2": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Samstag, 19.03.2022",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 19.03.2022",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Freiburg II",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 19.03.2022",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 19.03.2022",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Havelse",
+        "Gastteam": "Verl",
+        "Datum": "Samstag, 19.03.2022",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:2"
+    },
+    "7": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Zwickau",
+        "Datum": "Sonntag, 20.03.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "TSV 1860",
+        "Datum": "Sonntag, 20.03.2022",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Braunschweig",
+        "Datum": "Montag, 21.03.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    }
+}

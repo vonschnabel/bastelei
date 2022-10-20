@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "18",
+    "0": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Freitag, 03.12.2021",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Halle",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 04.12.2021",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Türkgücü",
+        "Datum": "Samstag, 04.12.2021",
+        "Endergebnis": "",
+        "Pausenergebnis": "abgesagt"
+    },
+    "3": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 04.12.2021",
+        "Endergebnis": "5:0",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Verl",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 04.12.2021",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:3"
+    },
+    "5": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Magdeburg",
+        "Datum": "Samstag, 04.12.2021",
+        "Endergebnis": "2:5",
+        "Pausenergebnis": "0:5"
+    },
+    "6": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "V. Köln",
+        "Datum": "Samstag, 04.12.2021",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Freiburg II",
+        "Gastteam": "Duisburg",
+        "Datum": "Sonntag, 05.12.2021",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Havelse",
+        "Datum": "Sonntag, 05.12.2021",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Wehen",
+        "Datum": "Montag, 06.12.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    }
+}

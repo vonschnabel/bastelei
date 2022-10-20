@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "32",
+    "0": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Wehen",
+        "Datum": "Freitag, 01.04.2022",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:2"
+    },
+    "1": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Havelse",
+        "Datum": "Samstag, 02.04.2022",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:1"
+    },
+    "2": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 02.04.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 02.04.2022",
+        "Endergebnis": "5:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Verl",
+        "Gastteam": "Freiburg II",
+        "Datum": "Samstag, 02.04.2022",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:1"
+    },
+    "5": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 02.04.2022",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Mannheim",
+        "Datum": "Sonntag, 03.04.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Türkgücü",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Sonntag, 03.04.2022",
+        "Endergebnis": "",
+        "Pausenergebnis": "abgesagt"
+    },
+    "8": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Magdeburg",
+        "Datum": "Montag, 04.04.2022",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Halle",
+        "Gastteam": "Osnabrück",
+        "Datum": "Dienstag, 19.04.2022",
+        "Endergebnis": "3:3",
+        "Pausenergebnis": "0:2"
+    }
+}

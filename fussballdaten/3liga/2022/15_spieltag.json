@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "15",
+    "0": {
+        "Heimteam": "Türkgücü",
+        "Gastteam": "V. Köln",
+        "Datum": "Freitag, 05.11.2021",
+        "Endergebnis": "",
+        "Pausenergebnis": "abgesagt"
+    },
+    "1": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Samstag, 06.11.2021",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 06.11.2021",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "3": {
+        "Heimteam": "Havelse",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 06.11.2021",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:1"
+    },
+    "4": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 06.11.2021",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 06.11.2021",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Freiburg II",
+        "Gastteam": "Mannheim",
+        "Datum": "Samstag, 06.11.2021",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Zwickau",
+        "Datum": "Sonntag, 07.11.2021",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Verl",
+        "Datum": "Sonntag, 07.11.2021",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Braunschweig",
+        "Datum": "Dienstag, 30.11.2021",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    }
+}

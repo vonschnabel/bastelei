@@ -1,0 +1,164 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "19",
+    "0": {
+        "Tabellenplatz": "1",
+        "Teamname": "Magdeburg",
+        "Spiel": "18",
+        "Tore": "34:18",
+        "Tordifferenz": "16",
+        "Punkte": "38"
+    },
+    "1": {
+        "Tabellenplatz": "2",
+        "Teamname": "Braunschweig",
+        "Spiel": "18",
+        "Tore": "33:19",
+        "Tordifferenz": "14",
+        "Punkte": "32"
+    },
+    "2": {
+        "Tabellenplatz": "3",
+        "Teamname": "Mannheim",
+        "Spiel": "18",
+        "Tore": "29:19",
+        "Tordifferenz": "10",
+        "Punkte": "31"
+    },
+    "3": {
+        "Tabellenplatz": "4",
+        "Teamname": "Saarbrücken",
+        "Spiel": "18",
+        "Tore": "27:21",
+        "Tordifferenz": "6",
+        "Punkte": "30"
+    },
+    "4": {
+        "Tabellenplatz": "5",
+        "Teamname": "Meppen",
+        "Spiel": "18",
+        "Tore": "27:26",
+        "Tordifferenz": "1",
+        "Punkte": "30"
+    },
+    "5": {
+        "Tabellenplatz": "6",
+        "Teamname": "K'lautern",
+        "Spiel": "18",
+        "Tore": "25:11",
+        "Tordifferenz": "14",
+        "Punkte": "29"
+    },
+    "6": {
+        "Tabellenplatz": "7",
+        "Teamname": "Dortmund II",
+        "Spiel": "18",
+        "Tore": "25:20",
+        "Tordifferenz": "5",
+        "Punkte": "27"
+    },
+    "7": {
+        "Tabellenplatz": "8",
+        "Teamname": "Wehen",
+        "Spiel": "18",
+        "Tore": "27:23",
+        "Tordifferenz": "4",
+        "Punkte": "27"
+    },
+    "8": {
+        "Tabellenplatz": "9",
+        "Teamname": "Osnabrück",
+        "Spiel": "18",
+        "Tore": "22:19",
+        "Tordifferenz": "3",
+        "Punkte": "26"
+    },
+    "9": {
+        "Tabellenplatz": "10",
+        "Teamname": "Freiburg II",
+        "Spiel": "18",
+        "Tore": "15:23",
+        "Tordifferenz": "-8",
+        "Punkte": "26"
+    },
+    "10": {
+        "Tabellenplatz": "11",
+        "Teamname": "TSV 1860",
+        "Spiel": "18",
+        "Tore": "28:26",
+        "Tordifferenz": "2",
+        "Punkte": "25"
+    },
+    "11": {
+        "Tabellenplatz": "12",
+        "Teamname": "Viktoria 89",
+        "Spiel": "18",
+        "Tore": "26:25",
+        "Tordifferenz": "1",
+        "Punkte": "22"
+    },
+    "12": {
+        "Tabellenplatz": "13",
+        "Teamname": "Zwickau",
+        "Spiel": "18",
+        "Tore": "23:23",
+        "Tordifferenz": "0",
+        "Punkte": "22"
+    },
+    "13": {
+        "Tabellenplatz": "14",
+        "Teamname": "Halle",
+        "Spiel": "18",
+        "Tore": "24:27",
+        "Tordifferenz": "-3",
+        "Punkte": "21"
+    },
+    "14": {
+        "Tabellenplatz": "15",
+        "Teamname": "V. Köln",
+        "Spiel": "18",
+        "Tore": "19:31",
+        "Tordifferenz": "-12",
+        "Punkte": "19"
+    },
+    "15": {
+        "Tabellenplatz": "16",
+        "Teamname": "Duisburg",
+        "Spiel": "18",
+        "Tore": "23:32",
+        "Tordifferenz": "-9",
+        "Punkte": "17"
+    },
+    "16": {
+        "Tabellenplatz": "17",
+        "Teamname": "Verl",
+        "Spiel": "18",
+        "Tore": "28:38",
+        "Tordifferenz": "-10",
+        "Punkte": "17"
+    },
+    "17": {
+        "Tabellenplatz": "18",
+        "Teamname": "K. Würzburg",
+        "Spiel": "18",
+        "Tore": "12:24",
+        "Tordifferenz": "-12",
+        "Punkte": "14"
+    },
+    "18": {
+        "Tabellenplatz": "19",
+        "Teamname": "Havelse",
+        "Spiel": "18",
+        "Tore": "15:37",
+        "Tordifferenz": "-22",
+        "Punkte": "12"
+    },
+    "19": {
+        "Tabellenplatz": "20",
+        "Teamname": "Türkgücü",
+        "Spiel": "-",
+        "Tore": "-:-",
+        "Tordifferenz": "-:-",
+        "Punkte": "-"
+    }
+}

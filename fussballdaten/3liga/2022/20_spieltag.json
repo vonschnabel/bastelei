@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "20",
+    "0": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Freitag, 17.12.2021",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "1:2"
+    },
+    "1": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Havelse",
+        "Datum": "Samstag, 18.12.2021",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 18.12.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 18.12.2021",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Türkgücü",
+        "Gastteam": "Verl",
+        "Datum": "Samstag, 18.12.2021",
+        "Endergebnis": "",
+        "Pausenergebnis": "abgesagt"
+    },
+    "5": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 18.12.2021",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "6": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Freiburg II",
+        "Datum": "Samstag, 18.12.2021",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Mannheim",
+        "Datum": "Sonntag, 19.12.2021",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "8": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "TSV 1860",
+        "Datum": "Montag, 20.12.2021",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    },
+    "9": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Osnabrück",
+        "Datum": "Mittwoch, 02.02.2022",
+        "Endergebnis": "3:6",
+        "Pausenergebnis": "1:2"
+    }
+}

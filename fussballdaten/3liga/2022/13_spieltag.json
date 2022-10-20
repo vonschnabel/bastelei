@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "13",
+    "0": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Halle",
+        "Datum": "Freitag, 22.10.2021",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 23.10.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 23.10.2021",
+        "Endergebnis": "3:4",
+        "Pausenergebnis": "1:2"
+    },
+    "3": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Türkgücü",
+        "Datum": "Samstag, 23.10.2021",
+        "Endergebnis": "",
+        "Pausenergebnis": "abgesagt"
+    },
+    "4": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 23.10.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Freiburg II",
+        "Gastteam": "Verl",
+        "Datum": "Samstag, 23.10.2021",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "3:1"
+    },
+    "6": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Samstag, 23.10.2021",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "V. Köln",
+        "Datum": "Sonntag, 24.10.2021",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Havelse",
+        "Gastteam": "Braunschweig",
+        "Datum": "Sonntag, 24.10.2021",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "K'lautern",
+        "Datum": "Montag, 25.10.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    }
+}

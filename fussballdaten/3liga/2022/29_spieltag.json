@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "29",
+    "0": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Verl",
+        "Datum": "Freitag, 04.03.2022",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "Freiburg II",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 05.03.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Wehen",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 05.03.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 05.03.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "V. Köln",
+        "Datum": "Samstag, 05.03.2022",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Türkgücü",
+        "Datum": "Samstag, 05.03.2022",
+        "Endergebnis": "",
+        "Pausenergebnis": "abgesagt"
+    },
+    "6": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 05.03.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Meppen",
+        "Datum": "Sonntag, 06.03.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Braunschweig",
+        "Datum": "Sonntag, 06.03.2022",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Havelse",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Montag, 07.03.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    }
+}

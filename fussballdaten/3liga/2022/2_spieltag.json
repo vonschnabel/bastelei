@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "2",
+    "0": {
+        "Heimteam": "Wehen",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 31.07.2021",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 31.07.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Freiburg II",
+        "Datum": "Samstag, 31.07.2021",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 31.07.2021",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    },
+    "4": {
+        "Heimteam": "Meppen",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 31.07.2021",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Mannheim",
+        "Datum": "Samstag, 31.07.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Türkgücü",
+        "Gastteam": "Halle",
+        "Datum": "Sonntag, 01.08.2021",
+        "Endergebnis": "",
+        "Pausenergebnis": "abgesagt"
+    },
+    "7": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Sonntag, 01.08.2021",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:2"
+    },
+    "8": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Verl",
+        "Datum": "Montag, 02.08.2021",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Havelse",
+        "Datum": "Sonntag, 08.08.2021",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    }
+}

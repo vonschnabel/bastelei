@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "28",
+    "0": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Havelse",
+        "Datum": "Freitag, 25.02.2022",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 26.02.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Magdeburg",
+        "Datum": "Samstag, 26.02.2022",
+        "Endergebnis": "2:4",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 26.02.2022",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Halle",
+        "Gastteam": "Mannheim",
+        "Datum": "Samstag, 26.02.2022",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 26.02.2022",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Verl",
+        "Datum": "Samstag, 26.02.2022",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Freiburg II",
+        "Datum": "Sonntag, 27.02.2022",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Wehen",
+        "Datum": "Sonntag, 27.02.2022",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:1"
+    },
+    "9": {
+        "Heimteam": "Türkgücü",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Montag, 28.02.2022",
+        "Endergebnis": "",
+        "Pausenergebnis": "abgesagt"
+    }
+}
