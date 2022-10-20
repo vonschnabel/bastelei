@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "32",
+    "0": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 09.04.2011",
+        "Endergebnis": "3:4",
+        "Pausenergebnis": "1:2"
+    },
+    "1": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 09.04.2011",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 09.04.2011",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Ahlen",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Samstag, 09.04.2011",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Sandhausen",
+        "Datum": "Samstag, 09.04.2011",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 09.04.2011",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 09.04.2011",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "TuS Koblenz",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 09.04.2011",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 09.04.2011",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Braunschweig",
+        "Datum": "Sonntag, 10.04.2011",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    }
+}

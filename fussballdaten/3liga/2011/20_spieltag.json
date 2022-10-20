@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "20",
+    "0": {
+        "Heimteam": "TuS Koblenz",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 11.12.2010",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 11.12.2010",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 11.12.2010",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Rostock",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 22.01.2011",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 22.01.2011",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 22.01.2011",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Samstag, 22.01.2011",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Sandhausen",
+        "Datum": "Samstag, 22.01.2011",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Ahlen",
+        "Datum": "Dienstag, 25.01.2011",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "9": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Heidenheim",
+        "Datum": "Dienstag, 22.02.2011",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:1"
+    }
+}

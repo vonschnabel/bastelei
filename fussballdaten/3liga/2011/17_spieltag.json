@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "17",
+    "0": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 20.11.2010",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Ahlen",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 20.11.2010",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "1:2"
+    },
+    "2": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 20.11.2010",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "TuS Koblenz",
+        "Datum": "Samstag, 20.11.2010",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 20.11.2010",
+        "Endergebnis": "5:1",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 20.11.2010",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:2"
+    },
+    "6": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 20.11.2010",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 20.11.2010",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 20.11.2010",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Rostock",
+        "Datum": "Sonntag, 21.11.2010",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    }
+}

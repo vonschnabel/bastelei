@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "7",
+    "0": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 11.09.2010",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Ahlen",
+        "Datum": "Samstag, 11.09.2010",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "2": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 11.09.2010",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 11.09.2010",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 11.09.2010",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "TuS Koblenz",
+        "Datum": "Samstag, 11.09.2010",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Sandhausen",
+        "Datum": "Samstag, 11.09.2010",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Dresden",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Samstag, 11.09.2010",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 11.09.2010",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Regensburg",
+        "Datum": "Sonntag, 12.09.2010",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:2"
+    }
+}

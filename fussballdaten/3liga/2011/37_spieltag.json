@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "37",
+    "0": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 07.05.2011",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 07.05.2011",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:2"
+    },
+    "2": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 07.05.2011",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 07.05.2011",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 07.05.2011",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 07.05.2011",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 07.05.2011",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Wehen",
+        "Gastteam": "TuS Koblenz",
+        "Datum": "Samstag, 07.05.2011",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 07.05.2011",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Ahlen",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 07.05.2011",
+        "Endergebnis": "4:3",
+        "Pausenergebnis": "1:3"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "33",
+    "0": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Freitag, 15.04.2011",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:2"
+    },
+    "1": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Babelsberg",
+        "Datum": "Freitag, 15.04.2011",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 16.04.2011",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Ahlen",
+        "Datum": "Samstag, 16.04.2011",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 16.04.2011",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 16.04.2011",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 16.04.2011",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    },
+    "7": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 16.04.2011",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "8": {
+        "Heimteam": "Dresden",
+        "Gastteam": "TuS Koblenz",
+        "Datum": "Samstag, 16.04.2011",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 16.04.2011",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    }
+}

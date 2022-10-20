@@ -1,0 +1,164 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "32",
+    "0": {
+        "Tabellenplatz": "1",
+        "Teamname": "Braunschweig",
+        "Spiel": "32",
+        "Tore": "70:17",
+        "Tordifferenz": "53",
+        "Punkte": "73"
+    },
+    "1": {
+        "Tabellenplatz": "2",
+        "Teamname": "Rostock",
+        "Spiel": "32",
+        "Tore": "63:29",
+        "Tordifferenz": "34",
+        "Punkte": "70"
+    },
+    "2": {
+        "Tabellenplatz": "3",
+        "Teamname": "Offenbach",
+        "Spiel": "32",
+        "Tore": "44:34",
+        "Tordifferenz": "10",
+        "Punkte": "53"
+    },
+    "3": {
+        "Tabellenplatz": "4",
+        "Teamname": "RW Erfurt",
+        "Spiel": "32",
+        "Tore": "54:37",
+        "Tordifferenz": "17",
+        "Punkte": "52"
+    },
+    "4": {
+        "Tabellenplatz": "5",
+        "Teamname": "Wehen",
+        "Spiel": "32",
+        "Tore": "44:33",
+        "Tordifferenz": "11",
+        "Punkte": "52"
+    },
+    "5": {
+        "Tabellenplatz": "6",
+        "Teamname": "Dresden",
+        "Spiel": "32",
+        "Tore": "41:34",
+        "Tordifferenz": "7",
+        "Punkte": "49"
+    },
+    "6": {
+        "Tabellenplatz": "7",
+        "Teamname": "TuS Koblenz",
+        "Spiel": "32",
+        "Tore": "36:37",
+        "Tordifferenz": "-1",
+        "Punkte": "48"
+    },
+    "7": {
+        "Tabellenplatz": "8",
+        "Teamname": "Stuttgart II",
+        "Spiel": "32",
+        "Tore": "35:38",
+        "Tordifferenz": "-3",
+        "Punkte": "43"
+    },
+    "8": {
+        "Tabellenplatz": "9",
+        "Teamname": "Heidenheim",
+        "Spiel": "32",
+        "Tore": "50:48",
+        "Tordifferenz": "2",
+        "Punkte": "42"
+    },
+    "9": {
+        "Tabellenplatz": "10",
+        "Teamname": "Saarbrücken",
+        "Spiel": "32",
+        "Tore": "46:46",
+        "Tordifferenz": "0",
+        "Punkte": "41"
+    },
+    "10": {
+        "Tabellenplatz": "11",
+        "Teamname": "Regensburg",
+        "Spiel": "32",
+        "Tore": "27:35",
+        "Tordifferenz": "-8",
+        "Punkte": "41"
+    },
+    "11": {
+        "Tabellenplatz": "12",
+        "Teamname": "Unterhaching",
+        "Spiel": "32",
+        "Tore": "36:43",
+        "Tordifferenz": "-7",
+        "Punkte": "40"
+    },
+    "12": {
+        "Tabellenplatz": "13",
+        "Teamname": "Babelsberg",
+        "Spiel": "32",
+        "Tore": "31:40",
+        "Tordifferenz": "-9",
+        "Punkte": "39"
+    },
+    "13": {
+        "Tabellenplatz": "14",
+        "Teamname": "FC Carl Zeiss ",
+        "Spiel": "32",
+        "Tore": "34:51",
+        "Tordifferenz": "-17",
+        "Punkte": "37"
+    },
+    "14": {
+        "Tabellenplatz": "15",
+        "Teamname": "Sandhausen",
+        "Spiel": "32",
+        "Tore": "38:43",
+        "Tordifferenz": "-5",
+        "Punkte": "36"
+    },
+    "15": {
+        "Tabellenplatz": "16",
+        "Teamname": "Burghausen",
+        "Spiel": "32",
+        "Tore": "41:55",
+        "Tordifferenz": "-14",
+        "Punkte": "35"
+    },
+    "16": {
+        "Tabellenplatz": "17",
+        "Teamname": "Aalen",
+        "Spiel": "32",
+        "Tore": "33:47",
+        "Tordifferenz": "-14",
+        "Punkte": "33"
+    },
+    "17": {
+        "Tabellenplatz": "18",
+        "Teamname": "Ahlen",
+        "Spiel": "32",
+        "Tore": "38:53",
+        "Tordifferenz": "-15",
+        "Punkte": "33"
+    },
+    "18": {
+        "Tabellenplatz": "19",
+        "Teamname": "Bremen II",
+        "Spiel": "32",
+        "Tore": "29:44",
+        "Tordifferenz": "-15",
+        "Punkte": "32"
+    },
+    "19": {
+        "Tabellenplatz": "20",
+        "Teamname": "FC Bayern II",
+        "Spiel": "32",
+        "Tore": "23:49",
+        "Tordifferenz": "-26",
+        "Punkte": "23"
+    }
+}

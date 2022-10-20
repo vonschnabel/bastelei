@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "13",
+    "0": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Babelsberg",
+        "Datum": "Freitag, 22.10.2010",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 23.10.2010",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 23.10.2010",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 23.10.2010",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "Ahlen",
+        "Datum": "Samstag, 23.10.2010",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:3"
+    },
+    "5": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 23.10.2010",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 23.10.2010",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:2"
+    },
+    "7": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 23.10.2010",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "TuS Koblenz",
+        "Datum": "Samstag, 23.10.2010",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:1"
+    },
+    "9": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 23.10.2010",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    }
+}

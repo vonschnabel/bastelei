@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "24",
+    "0": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Unterhaching",
+        "Datum": "Freitag, 11.02.2011",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Dresden",
+        "Datum": "Freitag, 11.02.2011",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Freitag, 11.02.2011",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:2"
+    },
+    "3": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Braunschweig",
+        "Datum": "Freitag, 11.02.2011",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "TuS Koblenz",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 12.02.2011",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 12.02.2011",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "6": {
+        "Heimteam": "Ahlen",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 12.02.2011",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 12.02.2011",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:1"
+    },
+    "8": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 12.02.2011",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 12.02.2011",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "8",
+    "0": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Freitag, 17.09.2010",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Unterhaching",
+        "Datum": "Freitag, 17.09.2010",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 18.09.2010",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Ahlen",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 18.09.2010",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 18.09.2010",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 18.09.2010",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 18.09.2010",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "TuS Koblenz",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 18.09.2010",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 18.09.2010",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 18.09.2010",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    }
+}

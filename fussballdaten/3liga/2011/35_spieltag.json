@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "35",
+    "0": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 23.04.2011",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 23.04.2011",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 23.04.2011",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 23.04.2011",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 23.04.2011",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 23.04.2011",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "TuS Koblenz",
+        "Datum": "Samstag, 23.04.2011",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Wehen",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 23.04.2011",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Ahlen",
+        "Datum": "Sonntag, 24.04.2011",
+        "Endergebnis": "5:1",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "Rostock",
+        "Datum": "Sonntag, 24.04.2011",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

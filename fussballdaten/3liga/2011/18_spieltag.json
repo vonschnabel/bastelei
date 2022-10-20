@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "18",
+    "0": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Freitag, 26.11.2010",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 27.11.2010",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 27.11.2010",
+        "Endergebnis": "6:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 27.11.2010",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 27.11.2010",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "TuS Koblenz",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 27.11.2010",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:1"
+    },
+    "6": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 27.11.2010",
+        "Endergebnis": "5:0",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Ahlen",
+        "Datum": "Samstag, 27.11.2010",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "2:0"
+    },
+    "8": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Sandhausen",
+        "Datum": "Sonntag, 28.11.2010",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Aalen",
+        "Datum": "Dienstag, 25.01.2011",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    }
+}

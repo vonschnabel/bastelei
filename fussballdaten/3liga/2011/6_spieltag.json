@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "6",
+    "0": {
+        "Heimteam": "TuS Koblenz",
+        "Gastteam": "Bremen II",
+        "Datum": "Freitag, 27.08.2010",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 28.08.2010",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Ahlen",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 28.08.2010",
+        "Endergebnis": "3:3",
+        "Pausenergebnis": "1:2"
+    },
+    "3": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 28.08.2010",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 28.08.2010",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "0:3"
+    },
+    "5": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 28.08.2010",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "3:0"
+    },
+    "6": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 28.08.2010",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 28.08.2010",
+        "Endergebnis": "7:2",
+        "Pausenergebnis": "2:2"
+    },
+    "8": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 28.08.2010",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "2:1"
+    },
+    "9": {
+        "Heimteam": "Wehen",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Sonntag, 29.08.2010",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    }
+}
