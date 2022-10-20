@@ -1,0 +1,74 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "26",
+    "0": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Halberstadt",
+        "Datum": "Samstag, 19.02.2022",
+        "Endergebnis": "2:5",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "HBSC II",
+        "Datum": "Samstag, 19.02.2022",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Luckenwalde",
+        "Gastteam": "Lichtenberg",
+        "Datum": "Sonntag, 20.02.2022",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "3:0"
+    },
+    "3": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "SV Tasmania",
+        "Datum": "Sonntag, 20.02.2022",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Fürstenwalde",
+        "Gastteam": "Cottbus",
+        "Datum": "Sonntag, 20.02.2022",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Babelsberg",
+        "Datum": "Mittwoch, 09.03.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Mittwoch, 09.03.2022",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Altglienicke",
+        "Gastteam": "Chemnitz",
+        "Datum": "Mittwoch, 16.03.2022",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:1"
+    },
+    "8": {
+        "Heimteam": "TB Berlin",
+        "Gastteam": "Eilenburg",
+        "Datum": "Mittwoch, 23.03.2022",
+        "Endergebnis": "5:0",
+        "Pausenergebnis": "2:0"
+    },
+    "9": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Mittwoch, 23.03.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    }
+}

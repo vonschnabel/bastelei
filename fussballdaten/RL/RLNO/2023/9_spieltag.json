@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "9",
+    "0": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Freitag, 14.10.2022",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Altglienicke",
+        "Datum": "Freitag, 14.10.2022",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Cottbus",
+        "Datum": "Freitag, 14.10.2022",
+        "Endergebnis": "0:5",
+        "Pausenergebnis": "0:2"
+    },
+    "3": {
+        "Heimteam": "Greifswalder",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Samstag, 15.10.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "TB Berlin",
+        "Gastteam": "Halberstadt",
+        "Datum": "Samstag, 15.10.2022",
+        "Endergebnis": "4:3",
+        "Pausenergebnis": "3:1"
+    },
+    "5": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 15.10.2022",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Luckenwalde",
+        "Datum": "Sonntag, 16.10.2022",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Lichtenberg",
+        "Datum": "Sonntag, 16.10.2022",
+        "Endergebnis": "6:0",
+        "Pausenergebnis": "4:0"
+    },
+    "8": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "BSG Chemie",
+        "Datum": "Sonntag, 16.10.2022",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    }
+}

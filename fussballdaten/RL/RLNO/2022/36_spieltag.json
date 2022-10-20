@@ -1,0 +1,74 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "36",
+    "0": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Chemnitz",
+        "Datum": "Freitag, 29.04.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Freitag, 29.04.2022",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "1:2"
+    },
+    "2": {
+        "Heimteam": "TB Berlin",
+        "Gastteam": "Rathenow",
+        "Datum": "Freitag, 29.04.2022",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:2"
+    },
+    "3": {
+        "Heimteam": "Fürstenwalde",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Freitag, 29.04.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Altglienicke",
+        "Gastteam": "BSG Chemie",
+        "Datum": "Freitag, 29.04.2022",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:2"
+    },
+    "5": {
+        "Heimteam": "Eilenburg",
+        "Gastteam": "Babelsberg",
+        "Datum": "Freitag, 29.04.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Luckenwalde",
+        "Datum": "Samstag, 30.04.2022",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "HBSC II",
+        "Datum": "Samstag, 30.04.2022",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Lichtenberg",
+        "Datum": "Sonntag, 01.05.2022",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "3:1"
+    },
+    "9": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "SV Tasmania",
+        "Datum": "Sonntag, 01.05.2022",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    }
+}

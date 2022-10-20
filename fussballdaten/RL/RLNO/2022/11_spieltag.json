@@ -1,0 +1,74 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "11",
+    "0": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "TB Berlin",
+        "Datum": "Freitag, 17.09.2021",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "3:1"
+    },
+    "1": {
+        "Heimteam": "Luckenwalde",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Samstag, 18.09.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "Rathenow",
+        "Datum": "Samstag, 18.09.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Eilenburg",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Sonntag, 19.09.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "SV Tasmania",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Sonntag, 19.09.2021",
+        "Endergebnis": "3:3",
+        "Pausenergebnis": "2:0"
+    },
+    "5": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Sonntag, 19.09.2021",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:2"
+    },
+    "6": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Mittwoch, 06.10.2021",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:2"
+    },
+    "7": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Cottbus",
+        "Datum": "Mittwoch, 20.10.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Altglienicke",
+        "Datum": "Mittwoch, 20.10.2021",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Lichtenberg",
+        "Gastteam": "Auerbach",
+        "Datum": "Mittwoch, 27.10.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    }
+}

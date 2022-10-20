@@ -1,0 +1,164 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "26",
+    "0": {
+        "Tabellenplatz": "1",
+        "Teamname": "BFC Dynamo",
+        "Spiel": "26",
+        "Tore": "63:20",
+        "Tordifferenz": "43",
+        "Punkte": "61"
+    },
+    "1": {
+        "Tabellenplatz": "2",
+        "Teamname": "Lok Leipzig",
+        "Spiel": "26",
+        "Tore": "56:24",
+        "Tordifferenz": "32",
+        "Punkte": "56"
+    },
+    "2": {
+        "Tabellenplatz": "3",
+        "Teamname": "FC Carl Zeiss ",
+        "Spiel": "26",
+        "Tore": "48:24",
+        "Tordifferenz": "24",
+        "Punkte": "51"
+    },
+    "3": {
+        "Tabellenplatz": "4",
+        "Teamname": "Cottbus",
+        "Spiel": "26",
+        "Tore": "59:24",
+        "Tordifferenz": "35",
+        "Punkte": "50"
+    },
+    "4": {
+        "Tabellenplatz": "5",
+        "Teamname": "Altglienicke",
+        "Spiel": "26",
+        "Tore": "51:32",
+        "Tordifferenz": "19",
+        "Punkte": "49"
+    },
+    "5": {
+        "Tabellenplatz": "6",
+        "Teamname": "Berliner AK 07",
+        "Spiel": "26",
+        "Tore": "40:31",
+        "Tordifferenz": "9",
+        "Punkte": "48"
+    },
+    "6": {
+        "Tabellenplatz": "7",
+        "Teamname": "Chemnitz",
+        "Spiel": "26",
+        "Tore": "42:27",
+        "Tordifferenz": "15",
+        "Punkte": "45"
+    },
+    "7": {
+        "Tabellenplatz": "8",
+        "Teamname": "Babelsberg",
+        "Spiel": "26",
+        "Tore": "36:27",
+        "Tordifferenz": "9",
+        "Punkte": "44"
+    },
+    "8": {
+        "Tabellenplatz": "9",
+        "Teamname": "Luckenwalde",
+        "Spiel": "26",
+        "Tore": "44:26",
+        "Tordifferenz": "18",
+        "Punkte": "39"
+    },
+    "9": {
+        "Tabellenplatz": "10",
+        "Teamname": "TB Berlin",
+        "Spiel": "26",
+        "Tore": "43:33",
+        "Tordifferenz": "10",
+        "Punkte": "39"
+    },
+    "10": {
+        "Tabellenplatz": "11",
+        "Teamname": "BSG Chemie",
+        "Spiel": "26",
+        "Tore": "29:28",
+        "Tordifferenz": "1",
+        "Punkte": "38"
+    },
+    "11": {
+        "Tabellenplatz": "12",
+        "Teamname": "HBSC II",
+        "Spiel": "26",
+        "Tore": "41:42",
+        "Tordifferenz": "-1",
+        "Punkte": "33"
+    },
+    "12": {
+        "Tabellenplatz": "13",
+        "Teamname": "Lichtenberg",
+        "Spiel": "26",
+        "Tore": "32:41",
+        "Tordifferenz": "-9",
+        "Punkte": "28"
+    },
+    "13": {
+        "Tabellenplatz": "14",
+        "Teamname": "Meuselwitz",
+        "Spiel": "26",
+        "Tore": "26:41",
+        "Tordifferenz": "-15",
+        "Punkte": "25"
+    },
+    "14": {
+        "Tabellenplatz": "15",
+        "Teamname": "Halberstadt",
+        "Spiel": "26",
+        "Tore": "33:49",
+        "Tordifferenz": "-16",
+        "Punkte": "25"
+    },
+    "15": {
+        "Tabellenplatz": "16",
+        "Teamname": "Rathenow",
+        "Spiel": "26",
+        "Tore": "28:51",
+        "Tordifferenz": "-23",
+        "Punkte": "19"
+    },
+    "16": {
+        "Tabellenplatz": "17",
+        "Teamname": "Eilenburg",
+        "Spiel": "26",
+        "Tore": "26:61",
+        "Tordifferenz": "-35",
+        "Punkte": "19"
+    },
+    "17": {
+        "Tabellenplatz": "18",
+        "Teamname": "Auerbach",
+        "Spiel": "26",
+        "Tore": "28:65",
+        "Tordifferenz": "-37",
+        "Punkte": "18"
+    },
+    "18": {
+        "Tabellenplatz": "19",
+        "Teamname": "SV Tasmania",
+        "Spiel": "26",
+        "Tore": "19:61",
+        "Tordifferenz": "-42",
+        "Punkte": "16"
+    },
+    "19": {
+        "Tabellenplatz": "20",
+        "Teamname": "Fürstenwalde",
+        "Spiel": "26",
+        "Tore": "36:73",
+        "Tordifferenz": "-37",
+        "Punkte": "15"
+    }
+}

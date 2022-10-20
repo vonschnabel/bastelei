@@ -1,0 +1,74 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "37",
+    "0": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "TB Berlin",
+        "Datum": "Samstag, 07.05.2022",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:1"
+    },
+    "1": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Samstag, 07.05.2022",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Samstag, 07.05.2022",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    },
+    "3": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Chemnitz",
+        "Datum": "Sonntag, 08.05.2022",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "1:3"
+    },
+    "4": {
+        "Heimteam": "SV Tasmania",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Sonntag, 08.05.2022",
+        "Endergebnis": "0:6",
+        "Pausenergebnis": "0:3"
+    },
+    "5": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Halberstadt",
+        "Datum": "Sonntag, 08.05.2022",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Lichtenberg",
+        "Gastteam": "Eilenburg",
+        "Datum": "Sonntag, 08.05.2022",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Cottbus",
+        "Datum": "Sonntag, 08.05.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Luckenwalde",
+        "Gastteam": "Altglienicke",
+        "Datum": "Sonntag, 08.05.2022",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Sonntag, 08.05.2022",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    }
+}

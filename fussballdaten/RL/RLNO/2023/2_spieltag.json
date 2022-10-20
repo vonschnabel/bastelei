@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "2",
+    "0": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Freitag, 12.08.2022",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:2"
+    },
+    "1": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Babelsberg",
+        "Datum": "Freitag, 12.08.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Luckenwalde",
+        "Datum": "Samstag, 13.08.2022",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "Altglienicke",
+        "Datum": "Samstag, 13.08.2022",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Sonntag, 14.08.2022",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    },
+    "5": {
+        "Heimteam": "Greifswalder",
+        "Gastteam": "Chemnitz",
+        "Datum": "Sonntag, 14.08.2022",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "TB Berlin",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Sonntag, 14.08.2022",
+        "Endergebnis": "0:6",
+        "Pausenergebnis": "0:2"
+    },
+    "7": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Lichtenberg",
+        "Datum": "Sonntag, 14.08.2022",
+        "Endergebnis": "5:0",
+        "Pausenergebnis": "3:0"
+    },
+    "8": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Sonntag, 14.08.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    }
+}
