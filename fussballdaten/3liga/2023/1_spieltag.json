@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "1",
+    "0": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Duisburg",
+        "Datum": "Freitag, 22.07.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Oldenburg",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 23.07.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Bayreuth",
+        "Datum": "Samstag, 23.07.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "V. Köln",
+        "Datum": "Samstag, 23.07.2022",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "RW Essen",
+        "Gastteam": "Elversberg",
+        "Datum": "Samstag, 23.07.2022",
+        "Endergebnis": "1:5",
+        "Pausenergebnis": "1:4"
+    },
+    "5": {
+        "Heimteam": "Dresden",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 23.07.2022",
+        "Endergebnis": "3:4",
+        "Pausenergebnis": "0:2"
+    },
+    "6": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Verl",
+        "Datum": "Samstag, 23.07.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Freiburg II",
+        "Gastteam": "Aue",
+        "Datum": "Sonntag, 24.07.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Halle",
+        "Datum": "Sonntag, 24.07.2022",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:0"
+    },
+    "9": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Dortmund II",
+        "Datum": "Montag, 25.07.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    }
+}

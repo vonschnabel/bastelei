@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "5",
+    "0": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Halle",
+        "Datum": "Freitag, 19.08.2022",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 20.08.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 20.08.2022",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "RW Essen",
+        "Gastteam": "FC Ingolstadt ",
+        "Datum": "Samstag, 20.08.2022",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Elversberg",
+        "Datum": "Samstag, 20.08.2022",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:2"
+    },
+    "5": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Aue",
+        "Datum": "Samstag, 20.08.2022",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Freiburg II",
+        "Gastteam": "V. Köln",
+        "Datum": "Samstag, 20.08.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Oldenburg",
+        "Gastteam": "Verl",
+        "Datum": "Sonntag, 21.08.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Duisburg",
+        "Datum": "Sonntag, 21.08.2022",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Bayreuth",
+        "Datum": "Montag, 22.08.2022",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    }
+}

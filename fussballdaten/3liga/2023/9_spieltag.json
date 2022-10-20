@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "9",
+    "0": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Aue",
+        "Datum": "Freitag, 16.09.2022",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Oldenburg",
+        "Gastteam": "Bayreuth",
+        "Datum": "Samstag, 17.09.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 17.09.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Meppen",
+        "Gastteam": "V. Köln",
+        "Datum": "Samstag, 17.09.2022",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Halle",
+        "Gastteam": "Elversberg",
+        "Datum": "Samstag, 17.09.2022",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Dresden",
+        "Gastteam": "FC Ingolstadt ",
+        "Datum": "Samstag, 17.09.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 17.09.2022",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Freiburg II",
+        "Gastteam": "Osnabrück",
+        "Datum": "Sonntag, 18.09.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Verl",
+        "Gastteam": "Duisburg",
+        "Datum": "Sonntag, 18.09.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "RW Essen",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Montag, 19.09.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    }
+}

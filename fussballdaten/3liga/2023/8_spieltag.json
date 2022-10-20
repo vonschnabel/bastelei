@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "8",
+    "0": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "RW Essen",
+        "Datum": "Freitag, 09.09.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Freiburg II",
+        "Datum": "Samstag, 10.09.2022",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "2": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Mannheim",
+        "Datum": "Samstag, 10.09.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Elversberg",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 10.09.2022",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "3:0"
+    },
+    "4": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Oldenburg",
+        "Datum": "Samstag, 10.09.2022",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 10.09.2022",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Bayreuth",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 10.09.2022",
+        "Endergebnis": "0:6",
+        "Pausenergebnis": "0:3"
+    },
+    "7": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Dresden",
+        "Datum": "Sonntag, 11.09.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Aue",
+        "Gastteam": "Zwickau",
+        "Datum": "Sonntag, 11.09.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Verl",
+        "Gastteam": "Meppen",
+        "Datum": "Montag, 12.09.2022",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:2"
+    }
+}
