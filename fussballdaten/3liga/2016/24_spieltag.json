@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "24",
+    "0": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Magdeburg",
+        "Datum": "Freitag, 05.02.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Aue",
+        "Datum": "Freitag, 05.02.2016",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Cottbus",
+        "Datum": "Freitag, 05.02.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 06.02.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 06.02.2016",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 06.02.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 06.02.2016",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 06.02.2016",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:2"
+    },
+    "8": {
+        "Heimteam": "Halle",
+        "Gastteam": "Dresden",
+        "Datum": "Sonntag, 07.02.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Sonntag, 07.02.2016",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:2"
+    }
+}

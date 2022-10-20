@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "34",
+    "0": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Aue",
+        "Datum": "Freitag, 15.04.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Aalen",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Freitag, 15.04.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 16.04.2016",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 16.04.2016",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Mainz II",
+        "Datum": "Samstag, 16.04.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 16.04.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 16.04.2016",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 16.04.2016",
+        "Endergebnis": "0:5",
+        "Pausenergebnis": "0:4"
+    },
+    "8": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 16.04.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Halle",
+        "Datum": "Sonntag, 17.04.2016",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    }
+}

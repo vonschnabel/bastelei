@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "6",
+    "0": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Magdeburg",
+        "Datum": "Freitag, 28.08.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:1"
+    },
+    "1": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 29.08.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 29.08.2015",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Halle",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 29.08.2015",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 29.08.2015",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "5": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Aue",
+        "Datum": "Samstag, 29.08.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 29.08.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 29.08.2015",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "3:0"
+    },
+    "8": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Großaspach",
+        "Datum": "Sonntag, 30.08.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Rostock",
+        "Datum": "Sonntag, 30.08.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    }
+}

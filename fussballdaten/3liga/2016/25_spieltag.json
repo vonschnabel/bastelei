@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "25",
+    "0": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Freitag, 12.02.2016",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 13.02.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 13.02.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Münster",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 13.02.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Mainz II",
+        "Datum": "Samstag, 13.02.2016",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    },
+    "5": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 13.02.2016",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 13.02.2016",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 13.02.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Bremen II",
+        "Datum": "Sonntag, 14.02.2016",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "9": {
+        "Heimteam": "Aue",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Sonntag, 14.02.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

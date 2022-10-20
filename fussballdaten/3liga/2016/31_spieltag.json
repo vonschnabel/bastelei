@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "31",
+    "0": {
+        "Heimteam": "Aue",
+        "Gastteam": "Halle",
+        "Datum": "Freitag, 18.03.2016",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Freitag, 18.03.2016",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "1:1"
+    },
+    "2": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Osnabrück",
+        "Datum": "Freitag, 18.03.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 19.03.2016",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 19.03.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 19.03.2016",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Münster",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 19.03.2016",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "7": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 19.03.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Chemnitz",
+        "Datum": "Sonntag, 20.03.2016",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Sonntag, 20.03.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    }
+}

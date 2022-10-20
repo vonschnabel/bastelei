@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "18",
+    "0": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 28.11.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 28.11.2015",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "2": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 28.11.2015",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 28.11.2015",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 28.11.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Mainz II",
+        "Datum": "Samstag, 28.11.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 28.11.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 28.11.2015",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 28.11.2015",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Aue",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Sonntag, 29.11.2015",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    }
+}

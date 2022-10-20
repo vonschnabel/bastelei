@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "1",
+    "0": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Freitag, 24.07.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Aue",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 25.07.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Münster",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 25.07.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 25.07.2015",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Wehen",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 25.07.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Mainz II",
+        "Datum": "Samstag, 25.07.2015",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:3"
+    },
+    "6": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 25.07.2015",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 25.07.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 25.07.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Halle",
+        "Datum": "Sonntag, 26.07.2015",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    }
+}

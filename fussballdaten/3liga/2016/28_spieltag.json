@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "28",
+    "0": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Großaspach",
+        "Datum": "Dienstag, 01.03.2016",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Dienstag, 01.03.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Halle",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Dienstag, 01.03.2016",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Dienstag, 01.03.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Münster",
+        "Datum": "Dienstag, 01.03.2016",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Aue",
+        "Datum": "Mittwoch, 02.03.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Magdeburg",
+        "Datum": "Mittwoch, 02.03.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Wehen",
+        "Datum": "Mittwoch, 02.03.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Mittwoch, 02.03.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Dresden",
+        "Datum": "Mittwoch, 02.03.2016",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    }
+}

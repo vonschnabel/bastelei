@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "8",
+    "0": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Cottbus",
+        "Datum": "Freitag, 11.09.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Magdeburg",
+        "Datum": "Freitag, 11.09.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 12.09.2015",
+        "Endergebnis": "1:5",
+        "Pausenergebnis": "0:2"
+    },
+    "3": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 12.09.2015",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 12.09.2015",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Halle",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 12.09.2015",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 12.09.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Aue",
+        "Datum": "Samstag, 12.09.2015",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 12.09.2015",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Sonntag, 13.09.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

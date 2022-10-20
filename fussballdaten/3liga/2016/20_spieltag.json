@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "20",
+    "0": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Dresden",
+        "Datum": "Freitag, 11.12.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Aue",
+        "Datum": "Samstag, 12.12.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 12.12.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 12.12.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 12.12.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 12.12.2015",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "6": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 12.12.2015",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Halle",
+        "Gastteam": "Cottbus",
+        "Datum": "Sonntag, 13.12.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Rostock",
+        "Datum": "Sonntag, 13.12.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Magdeburg",
+        "Datum": "Montag, 14.12.2015",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    }
+}

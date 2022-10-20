@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "10",
+    "0": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Aue",
+        "Datum": "Dienstag, 22.09.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Dienstag, 22.09.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:1"
+    },
+    "2": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Dienstag, 22.09.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Halle",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Dienstag, 22.09.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Wehen",
+        "Datum": "Dienstag, 22.09.2015",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Münster",
+        "Datum": "Mittwoch, 23.09.2015",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Großaspach",
+        "Datum": "Mittwoch, 23.09.2015",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Mittwoch, 23.09.2015",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Dresden",
+        "Datum": "Mittwoch, 23.09.2015",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Magdeburg",
+        "Datum": "Mittwoch, 23.09.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    }
+}

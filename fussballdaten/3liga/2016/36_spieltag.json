@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "36",
+    "0": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Münster",
+        "Datum": "Freitag, 29.04.2016",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Chemnitz",
+        "Datum": "Freitag, 29.04.2016",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 30.04.2016",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 30.04.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Aue",
+        "Datum": "Samstag, 30.04.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 30.04.2016",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "3:0"
+    },
+    "6": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 30.04.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Mainz II",
+        "Datum": "Samstag, 30.04.2016",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:2"
+    },
+    "8": {
+        "Heimteam": "Rostock",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 30.04.2016",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:1"
+    },
+    "9": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 30.04.2016",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    }
+}

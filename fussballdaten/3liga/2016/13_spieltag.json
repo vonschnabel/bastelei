@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "13",
+    "0": {
+        "Heimteam": "Münster",
+        "Gastteam": "Rostock",
+        "Datum": "Freitag, 16.10.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 17.10.2015",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 17.10.2015",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Halle",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 17.10.2015",
+        "Endergebnis": "6:2",
+        "Pausenergebnis": "3:1"
+    },
+    "4": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 17.10.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 17.10.2015",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 17.10.2015",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 17.10.2015",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Aue",
+        "Gastteam": "Magdeburg",
+        "Datum": "Sonntag, 18.10.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "St. Kickers",
+        "Datum": "Sonntag, 18.10.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    }
+}

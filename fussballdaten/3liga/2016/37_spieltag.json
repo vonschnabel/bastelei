@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "37",
+    "0": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 07.05.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 07.05.2016",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 07.05.2016",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Halle",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 07.05.2016",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:1"
+    },
+    "4": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Magdeburg",
+        "Datum": "Samstag, 07.05.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 07.05.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 07.05.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 07.05.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Münster",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 07.05.2016",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "0:3"
+    },
+    "9": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Aue",
+        "Datum": "Samstag, 07.05.2016",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    }
+}

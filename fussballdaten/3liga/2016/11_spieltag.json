@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "11",
+    "0": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Halle",
+        "Datum": "Freitag, 25.09.2015",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Chemnitz",
+        "Datum": "Freitag, 25.09.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Aue",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 26.09.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 26.09.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 26.09.2015",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 26.09.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 26.09.2015",
+        "Endergebnis": "3:3",
+        "Pausenergebnis": "3:3"
+    },
+    "7": {
+        "Heimteam": "Münster",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 26.09.2015",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Aalen",
+        "Datum": "Sonntag, 27.09.2015",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "2:0"
+    },
+    "9": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Sonntag, 27.09.2015",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "33",
+    "0": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Magdeburg",
+        "Datum": "Freitag, 08.04.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Rostock",
+        "Datum": "Freitag, 08.04.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 09.04.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Aue",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 09.04.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 09.04.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Münster",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 09.04.2016",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 09.04.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 09.04.2016",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 09.04.2016",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "1:1"
+    },
+    "9": {
+        "Heimteam": "Halle",
+        "Gastteam": "Chemnitz",
+        "Datum": "Sonntag, 10.04.2016",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    }
+}
