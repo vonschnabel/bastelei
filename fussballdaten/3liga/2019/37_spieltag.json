@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "37",
+    "0": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 11.05.2019",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Lotte",
+        "Datum": "Samstag, 11.05.2019",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Halle",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 11.05.2019",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 11.05.2019",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 11.05.2019",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:2"
+    },
+    "5": {
+        "Heimteam": "Münster",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Samstag, 11.05.2019",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "0:2"
+    },
+    "6": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 11.05.2019",
+        "Endergebnis": "5:2",
+        "Pausenergebnis": "3:1"
+    },
+    "7": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Uerdingen",
+        "Datum": "Samstag, 11.05.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Meppen",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 11.05.2019",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 11.05.2019",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "5",
+    "0": {
+        "Heimteam": "Uerdingen",
+        "Gastteam": "Großaspach",
+        "Datum": "Freitag, 24.08.2018",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Aalen",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 25.08.2018",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "0:2"
+    },
+    "2": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 25.08.2018",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Rostock",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 25.08.2018",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 25.08.2018",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "5": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Samstag, 25.08.2018",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 25.08.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Lotte",
+        "Gastteam": "Halle",
+        "Datum": "Sonntag, 26.08.2018",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Sonntag, 26.08.2018",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Zwickau",
+        "Datum": "Montag, 27.08.2018",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    }
+}

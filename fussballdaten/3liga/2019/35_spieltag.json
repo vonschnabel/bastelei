@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "35",
+    "0": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Halle",
+        "Datum": "Freitag, 26.04.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Samstag, 27.04.2019",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 27.04.2019",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Lotte",
+        "Datum": "Samstag, 27.04.2019",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Uerdingen",
+        "Datum": "Samstag, 27.04.2019",
+        "Endergebnis": "2:4",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 27.04.2019",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 27.04.2019",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Sonntag, 28.04.2019",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Münster",
+        "Datum": "Sonntag, 28.04.2019",
+        "Endergebnis": "3:3",
+        "Pausenergebnis": "1:2"
+    },
+    "9": {
+        "Heimteam": "Wehen",
+        "Gastteam": "K'lautern",
+        "Datum": "Montag, 29.04.2019",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    }
+}

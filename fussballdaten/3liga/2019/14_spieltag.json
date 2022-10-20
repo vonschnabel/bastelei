@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "14",
+    "0": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Cottbus",
+        "Datum": "Freitag, 02.11.2018",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 03.11.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Lotte",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 03.11.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Münster",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 03.11.2018",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 03.11.2018",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 03.11.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 03.11.2018",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Halle",
+        "Gastteam": "Meppen",
+        "Datum": "Sonntag, 04.11.2018",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "8": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Wehen",
+        "Datum": "Sonntag, 04.11.2018",
+        "Endergebnis": "0:7",
+        "Pausenergebnis": "0:4"
+    },
+    "9": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Uerdingen",
+        "Datum": "Montag, 05.11.2018",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "26",
+    "0": {
+        "Heimteam": "Halle",
+        "Gastteam": "Uerdingen",
+        "Datum": "Freitag, 01.03.2019",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "3:0"
+    },
+    "1": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 02.03.2019",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 02.03.2019",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:2"
+    },
+    "3": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Lotte",
+        "Datum": "Samstag, 02.03.2019",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 02.03.2019",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Münster",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 02.03.2019",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 02.03.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Rostock",
+        "Datum": "Sonntag, 03.03.2019",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:2"
+    },
+    "8": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Braunschweig",
+        "Datum": "Sonntag, 03.03.2019",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Unterhaching",
+        "Datum": "Montag, 04.03.2019",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    }
+}

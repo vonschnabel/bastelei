@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "8",
+    "0": {
+        "Heimteam": "Münster",
+        "Gastteam": "Cottbus",
+        "Datum": "Freitag, 21.09.2018",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 22.09.2018",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Lotte",
+        "Datum": "Samstag, 22.09.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 22.09.2018",
+        "Endergebnis": "3:3",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 22.09.2018",
+        "Endergebnis": "3:3",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 22.09.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 22.09.2018",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Uerdingen",
+        "Datum": "Samstag, 22.09.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Osnabrück",
+        "Datum": "Sonntag, 23.09.2018",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Halle",
+        "Gastteam": "Aalen",
+        "Datum": "Sonntag, 23.09.2018",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    }
+}

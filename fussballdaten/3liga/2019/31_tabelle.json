@@ -1,0 +1,164 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "31",
+    "0": {
+        "Tabellenplatz": "1",
+        "Teamname": "Osnabrück",
+        "Spiel": "31",
+        "Tore": "46:22",
+        "Tordifferenz": "24",
+        "Punkte": "64"
+    },
+    "1": {
+        "Tabellenplatz": "2",
+        "Teamname": "Wehen",
+        "Spiel": "31",
+        "Tore": "59:40",
+        "Tordifferenz": "19",
+        "Punkte": "55"
+    },
+    "2": {
+        "Tabellenplatz": "3",
+        "Teamname": "Karlsruhe",
+        "Spiel": "31",
+        "Tore": "47:32",
+        "Tordifferenz": "15",
+        "Punkte": "55"
+    },
+    "3": {
+        "Tabellenplatz": "4",
+        "Teamname": "Halle",
+        "Spiel": "31",
+        "Tore": "35:29",
+        "Tordifferenz": "6",
+        "Punkte": "50"
+    },
+    "4": {
+        "Tabellenplatz": "5",
+        "Teamname": "Rostock",
+        "Spiel": "31",
+        "Tore": "39:40",
+        "Tordifferenz": "-1",
+        "Punkte": "45"
+    },
+    "5": {
+        "Tabellenplatz": "6",
+        "Teamname": "TSV 1860",
+        "Spiel": "31",
+        "Tore": "43:34",
+        "Tordifferenz": "9",
+        "Punkte": "44"
+    },
+    "6": {
+        "Tabellenplatz": "7",
+        "Teamname": "K. Würzburg",
+        "Spiel": "31",
+        "Tore": "46:38",
+        "Tordifferenz": "8",
+        "Punkte": "44"
+    },
+    "7": {
+        "Tabellenplatz": "8",
+        "Teamname": "K'lautern",
+        "Spiel": "31",
+        "Tore": "40:41",
+        "Tordifferenz": "-1",
+        "Punkte": "44"
+    },
+    "8": {
+        "Tabellenplatz": "9",
+        "Teamname": "Meppen",
+        "Spiel": "31",
+        "Tore": "41:41",
+        "Tordifferenz": "0",
+        "Punkte": "42"
+    },
+    "9": {
+        "Tabellenplatz": "10",
+        "Teamname": "Unterhaching",
+        "Spiel": "31",
+        "Tore": "45:34",
+        "Tordifferenz": "11",
+        "Punkte": "41"
+    },
+    "10": {
+        "Tabellenplatz": "11",
+        "Teamname": "Münster",
+        "Spiel": "31",
+        "Tore": "39:39",
+        "Tordifferenz": "0",
+        "Punkte": "41"
+    },
+    "11": {
+        "Tabellenplatz": "12",
+        "Teamname": "Uerdingen",
+        "Spiel": "31",
+        "Tore": "35:47",
+        "Tordifferenz": "-12",
+        "Punkte": "41"
+    },
+    "12": {
+        "Tabellenplatz": "13",
+        "Teamname": "Zwickau",
+        "Spiel": "31",
+        "Tore": "35:37",
+        "Tordifferenz": "-2",
+        "Punkte": "37"
+    },
+    "13": {
+        "Tabellenplatz": "14",
+        "Teamname": "Lotte",
+        "Spiel": "31",
+        "Tore": "27:33",
+        "Tordifferenz": "-6",
+        "Punkte": "36"
+    },
+    "14": {
+        "Tabellenplatz": "15",
+        "Teamname": "Braunschweig",
+        "Spiel": "31",
+        "Tore": "37:46",
+        "Tordifferenz": "-9",
+        "Punkte": "36"
+    },
+    "15": {
+        "Tabellenplatz": "16",
+        "Teamname": "Fortuna Köln",
+        "Spiel": "31",
+        "Tore": "33:51",
+        "Tordifferenz": "-18",
+        "Punkte": "36"
+    },
+    "16": {
+        "Tabellenplatz": "17",
+        "Teamname": "Großaspach",
+        "Spiel": "31",
+        "Tore": "27:32",
+        "Tordifferenz": "-5",
+        "Punkte": "34"
+    },
+    "17": {
+        "Tabellenplatz": "18",
+        "Teamname": "Cottbus",
+        "Spiel": "31",
+        "Tore": "40:50",
+        "Tordifferenz": "-10",
+        "Punkte": "34"
+    },
+    "18": {
+        "Tabellenplatz": "19",
+        "Teamname": "FC Carl Zeiss ",
+        "Spiel": "31",
+        "Tore": "32:50",
+        "Tordifferenz": "-18",
+        "Punkte": "28"
+    },
+    "19": {
+        "Tabellenplatz": "20",
+        "Teamname": "Aalen",
+        "Spiel": "31",
+        "Tore": "38:48",
+        "Tordifferenz": "-10",
+        "Punkte": "27"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "28",
+    "0": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Osnabrück",
+        "Datum": "Dienstag, 12.03.2019",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Meppen",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Dienstag, 12.03.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Uerdingen",
+        "Datum": "Dienstag, 12.03.2019",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Unterhaching",
+        "Datum": "Dienstag, 12.03.2019",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Münster",
+        "Gastteam": "Rostock",
+        "Datum": "Dienstag, 12.03.2019",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Braunschweig",
+        "Datum": "Mittwoch, 13.03.2019",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Halle",
+        "Gastteam": "Cottbus",
+        "Datum": "Mittwoch, 13.03.2019",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "2:1"
+    },
+    "7": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Wehen",
+        "Datum": "Mittwoch, 13.03.2019",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Lotte",
+        "Datum": "Mittwoch, 13.03.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Aalen",
+        "Datum": "Mittwoch, 13.03.2019",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    }
+}

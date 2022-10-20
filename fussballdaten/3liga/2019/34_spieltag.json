@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "34",
+    "0": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 20.04.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 20.04.2019",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Münster",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 20.04.2019",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 20.04.2019",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 20.04.2019",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "5": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 20.04.2019",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Halle",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 20.04.2019",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Rostock",
+        "Datum": "Sonntag, 21.04.2019",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Lotte",
+        "Gastteam": "Cottbus",
+        "Datum": "Sonntag, 21.04.2019",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Uerdingen",
+        "Gastteam": "Braunschweig",
+        "Datum": "Montag, 22.04.2019",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    }
+}

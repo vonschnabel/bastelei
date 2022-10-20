@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "23",
+    "0": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Großaspach",
+        "Datum": "Freitag, 08.02.2019",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Uerdingen",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 09.02.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 09.02.2019",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 09.02.2019",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 09.02.2019",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Samstag, 09.02.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 09.02.2019",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Meppen",
+        "Datum": "Sonntag, 10.02.2019",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Wehen",
+        "Datum": "Sonntag, 10.02.2019",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:2"
+    },
+    "9": {
+        "Heimteam": "Lotte",
+        "Gastteam": "Münster",
+        "Datum": "Montag, 11.02.2019",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    }
+}

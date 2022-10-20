@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "19",
+    "0": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Freitag, 14.12.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 15.12.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 15.12.2018",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 15.12.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Münster",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 15.12.2018",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "5": {
+        "Heimteam": "Meppen",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 15.12.2018",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Halle",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Samstag, 15.12.2018",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Sonntag, 16.12.2018",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Lotte",
+        "Datum": "Sonntag, 16.12.2018",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "9": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Uerdingen",
+        "Datum": "Montag, 17.12.2018",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    }
+}

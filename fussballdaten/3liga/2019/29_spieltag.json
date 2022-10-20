@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "29",
+    "0": {
+        "Heimteam": "Uerdingen",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Freitag, 15.03.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 16.03.2019",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 16.03.2019",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:1"
+    },
+    "3": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 16.03.2019",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 16.03.2019",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 16.03.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Lotte",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 16.03.2019",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Sonntag, 17.03.2019",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Meppen",
+        "Datum": "Sonntag, 17.03.2019",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Halle",
+        "Datum": "Montag, 18.03.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    }
+}

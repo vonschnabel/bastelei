@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "10",
+    "0": {
+        "Heimteam": "Münster",
+        "Gastteam": "Wehen",
+        "Datum": "Freitag, 28.09.2018",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 29.09.2018",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "2:0"
+    },
+    "2": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 29.09.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Lotte",
+        "Datum": "Samstag, 29.09.2018",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 29.09.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Uerdingen",
+        "Datum": "Samstag, 29.09.2018",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Osnabrück",
+        "Datum": "Sonntag, 30.09.2018",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Aalen",
+        "Datum": "Sonntag, 30.09.2018",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:2"
+    },
+    "8": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Montag, 01.10.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Halle",
+        "Gastteam": "Rostock",
+        "Datum": "Dienstag, 16.10.2018",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    }
+}

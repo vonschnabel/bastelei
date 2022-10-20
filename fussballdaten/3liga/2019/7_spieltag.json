@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "7",
+    "0": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Freitag, 14.09.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Samstag, 15.09.2018",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Rostock",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 15.09.2018",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 15.09.2018",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 15.09.2018",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Uerdingen",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 15.09.2018",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 15.09.2018",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Lotte",
+        "Gastteam": "Zwickau",
+        "Datum": "Sonntag, 16.09.2018",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Sonntag, 16.09.2018",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Montag, 17.09.2018",
+        "Endergebnis": "3:3",
+        "Pausenergebnis": "2:2"
+    }
+}

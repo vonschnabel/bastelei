@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "9",
+    "0": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Münster",
+        "Datum": "Dienstag, 25.09.2018",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "0:2"
+    },
+    "1": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Großaspach",
+        "Datum": "Dienstag, 25.09.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Lotte",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Dienstag, 25.09.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Meppen",
+        "Datum": "Dienstag, 25.09.2018",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "K'lautern",
+        "Datum": "Dienstag, 25.09.2018",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "TSV 1860",
+        "Datum": "Mittwoch, 26.09.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Mittwoch, 26.09.2018",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Mittwoch, 26.09.2018",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Uerdingen",
+        "Gastteam": "Zwickau",
+        "Datum": "Mittwoch, 26.09.2018",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Halle",
+        "Datum": "Mittwoch, 10.10.2018",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    }
+}

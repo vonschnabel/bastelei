@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "6",
+    "0": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Cottbus",
+        "Datum": "Freitag, 31.08.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 01.09.2018",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Halle",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 01.09.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 01.09.2018",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Münster",
+        "Gastteam": "Uerdingen",
+        "Datum": "Samstag, 01.09.2018",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 01.09.2018",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:2"
+    },
+    "6": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Lotte",
+        "Datum": "Samstag, 01.09.2018",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:3"
+    },
+    "7": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "K'lautern",
+        "Datum": "Sonntag, 02.09.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Sonntag, 02.09.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Aalen",
+        "Datum": "Montag, 03.09.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    }
+}

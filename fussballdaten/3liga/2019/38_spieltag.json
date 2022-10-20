@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "38",
+    "0": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 18.05.2019",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 18.05.2019",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "0:3"
+    },
+    "2": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 18.05.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 18.05.2019",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "4:2"
+    },
+    "4": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 18.05.2019",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 18.05.2019",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 18.05.2019",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Uerdingen",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 18.05.2019",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:2"
+    },
+    "8": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 18.05.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Lotte",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 18.05.2019",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    }
+}

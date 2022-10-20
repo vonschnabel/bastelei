@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "16",
+    "0": {
+        "Heimteam": "Lotte",
+        "Gastteam": "Rostock",
+        "Datum": "Freitag, 23.11.2018",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 24.11.2018",
+        "Endergebnis": "4:5",
+        "Pausenergebnis": "2:2"
+    },
+    "2": {
+        "Heimteam": "Halle",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 24.11.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 24.11.2018",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Uerdingen",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 24.11.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 24.11.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 24.11.2018",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "TSV 1860",
+        "Datum": "Sonntag, 25.11.2018",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "3:1"
+    },
+    "8": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Wehen",
+        "Datum": "Sonntag, 25.11.2018",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Münster",
+        "Gastteam": "Braunschweig",
+        "Datum": "Montag, 26.11.2018",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    }
+}
