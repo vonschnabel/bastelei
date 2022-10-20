@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "5",
+    "0": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Freitag, 29.08.2008",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 30.08.2008",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "2": {
+        "Heimteam": "Aue",
+        "Gastteam": "Paderborn",
+        "Datum": "Samstag, 30.08.2008",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 30.08.2008",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Union Berlin",
+        "Gastteam": "Wuppertal",
+        "Datum": "Samstag, 30.08.2008",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 30.08.2008",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 30.08.2008",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 30.08.2008",
+        "Endergebnis": "5:1",
+        "Pausenergebnis": "2:1"
+    },
+    "8": {
+        "Heimteam": "K. Emden",
+        "Gastteam": "Aalen",
+        "Datum": "Sonntag, 31.08.2008",
+        "Endergebnis": "5:2",
+        "Pausenergebnis": "4:1"
+    },
+    "9": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Düsseldorf",
+        "Datum": "Sonntag, 31.08.2008",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    }
+}

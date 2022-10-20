@@ -1,0 +1,164 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "6",
+    "0": {
+        "Tabellenplatz": "1",
+        "Teamname": "K. Emden",
+        "Spiel": "6",
+        "Tore": "11:4",
+        "Tordifferenz": "7",
+        "Punkte": "16"
+    },
+    "1": {
+        "Tabellenplatz": "2",
+        "Teamname": "FC Bayern II",
+        "Spiel": "6",
+        "Tore": "8:4",
+        "Tordifferenz": "4",
+        "Punkte": "14"
+    },
+    "2": {
+        "Tabellenplatz": "3",
+        "Teamname": "Paderborn",
+        "Spiel": "6",
+        "Tore": "12:7",
+        "Tordifferenz": "5",
+        "Punkte": "13"
+    },
+    "3": {
+        "Tabellenplatz": "4",
+        "Teamname": "Union Berlin",
+        "Spiel": "6",
+        "Tore": "10:4",
+        "Tordifferenz": "6",
+        "Punkte": "11"
+    },
+    "4": {
+        "Tabellenplatz": "5",
+        "Teamname": "Unterhaching",
+        "Spiel": "6",
+        "Tore": "9:6",
+        "Tordifferenz": "3",
+        "Punkte": "11"
+    },
+    "5": {
+        "Tabellenplatz": "6",
+        "Teamname": "Stuttgart II",
+        "Spiel": "6",
+        "Tore": "14:5",
+        "Tordifferenz": "9",
+        "Punkte": "10"
+    },
+    "6": {
+        "Tabellenplatz": "7",
+        "Teamname": "Düsseldorf",
+        "Spiel": "6",
+        "Tore": "10:7",
+        "Tordifferenz": "3",
+        "Punkte": "10"
+    },
+    "7": {
+        "Tabellenplatz": "8",
+        "Teamname": "RW Erfurt",
+        "Spiel": "6",
+        "Tore": "8:6",
+        "Tordifferenz": "2",
+        "Punkte": "10"
+    },
+    "8": {
+        "Tabellenplatz": "9",
+        "Teamname": "Sandhausen",
+        "Spiel": "6",
+        "Tore": "11:8",
+        "Tordifferenz": "3",
+        "Punkte": "9"
+    },
+    "9": {
+        "Tabellenplatz": "10",
+        "Teamname": "Burghausen",
+        "Spiel": "6",
+        "Tore": "11:13",
+        "Tordifferenz": "-2",
+        "Punkte": "9"
+    },
+    "10": {
+        "Tabellenplatz": "11",
+        "Teamname": "Braunschweig",
+        "Spiel": "6",
+        "Tore": "7:7",
+        "Tordifferenz": "0",
+        "Punkte": "7"
+    },
+    "11": {
+        "Tabellenplatz": "12",
+        "Teamname": "Dresden",
+        "Spiel": "6",
+        "Tore": "5:6",
+        "Tordifferenz": "-1",
+        "Punkte": "7"
+    },
+    "12": {
+        "Tabellenplatz": "13",
+        "Teamname": "Offenbach",
+        "Spiel": "6",
+        "Tore": "7:10",
+        "Tordifferenz": "-3",
+        "Punkte": "6"
+    },
+    "13": {
+        "Tabellenplatz": "14",
+        "Teamname": "Regensburg",
+        "Spiel": "6",
+        "Tore": "7:10",
+        "Tordifferenz": "-3",
+        "Punkte": "6"
+    },
+    "14": {
+        "Tabellenplatz": "15",
+        "Teamname": "Bremen II",
+        "Spiel": "6",
+        "Tore": "9:13",
+        "Tordifferenz": "-4",
+        "Punkte": "6"
+    },
+    "15": {
+        "Tabellenplatz": "16",
+        "Teamname": "Aalen",
+        "Spiel": "6",
+        "Tore": "5:9",
+        "Tordifferenz": "-4",
+        "Punkte": "6"
+    },
+    "16": {
+        "Tabellenplatz": "17",
+        "Teamname": "Wuppertal",
+        "Spiel": "6",
+        "Tore": "6:10",
+        "Tordifferenz": "-4",
+        "Punkte": "5"
+    },
+    "17": {
+        "Tabellenplatz": "18",
+        "Teamname": "FC Carl Zeiss ",
+        "Spiel": "6",
+        "Tore": "8:15",
+        "Tordifferenz": "-7",
+        "Punkte": "5"
+    },
+    "18": {
+        "Tabellenplatz": "19",
+        "Teamname": "Aue",
+        "Spiel": "6",
+        "Tore": "6:12",
+        "Tordifferenz": "-6",
+        "Punkte": "4"
+    },
+    "19": {
+        "Tabellenplatz": "20",
+        "Teamname": "St. Kickers",
+        "Spiel": "6",
+        "Tore": "2:10",
+        "Tordifferenz": "-8",
+        "Punkte": "-2"
+    }
+}

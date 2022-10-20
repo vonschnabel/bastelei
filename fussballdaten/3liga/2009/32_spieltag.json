@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "32",
+    "0": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Freitag, 17.04.2009",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Aue",
+        "Gastteam": "K. Emden",
+        "Datum": "Samstag, 18.04.2009",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Aalen",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 18.04.2009",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 18.04.2009",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 18.04.2009",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Wuppertal",
+        "Datum": "Samstag, 18.04.2009",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 18.04.2009",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 18.04.2009",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Sonntag, 19.04.2009",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "9": {
+        "Heimteam": "Düsseldorf",
+        "Gastteam": "Union Berlin",
+        "Datum": "Sonntag, 19.04.2009",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    }
+}

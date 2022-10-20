@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "10",
+    "0": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Freitag, 17.10.2008",
+        "Endergebnis": "4:4",
+        "Pausenergebnis": "0:3"
+    },
+    "1": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Wuppertal",
+        "Datum": "Samstag, 18.10.2008",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 18.10.2008",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Aue",
+        "Datum": "Samstag, 18.10.2008",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 18.10.2008",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "K. Emden",
+        "Datum": "Samstag, 18.10.2008",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Düsseldorf",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Samstag, 18.10.2008",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 18.10.2008",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Union Berlin",
+        "Datum": "Sonntag, 19.10.2008",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Dresden",
+        "Datum": "Sonntag, 19.10.2008",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

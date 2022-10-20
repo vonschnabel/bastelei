@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "23",
+    "0": {
+        "Heimteam": "K. Emden",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 21.02.2009",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Wuppertal",
+        "Datum": "Samstag, 21.02.2009",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "2": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Düsseldorf",
+        "Datum": "Sonntag, 22.02.2009",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Aue",
+        "Gastteam": "Bremen II",
+        "Datum": "Dienstag, 17.03.2009",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "Braunschweig",
+        "Datum": "Dienstag, 17.03.2009",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Dresden",
+        "Datum": "Dienstag, 17.03.2009",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "St. Kickers",
+        "Datum": "Dienstag, 17.03.2009",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Aalen",
+        "Datum": "Mittwoch, 18.03.2009",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Union Berlin",
+        "Datum": "Mittwoch, 18.03.2009",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Paderborn",
+        "Datum": "Mittwoch, 18.03.2009",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:3"
+    }
+}

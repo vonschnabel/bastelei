@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "28",
+    "0": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Freitag, 27.03.2009",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Düsseldorf",
+        "Gastteam": "K. Emden",
+        "Datum": "Samstag, 28.03.2009",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 28.03.2009",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Aue",
+        "Datum": "Samstag, 28.03.2009",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "4": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 28.03.2009",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Wuppertal",
+        "Datum": "Samstag, 28.03.2009",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 28.03.2009",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 28.03.2009",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Sonntag, 29.03.2009",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Union Berlin",
+        "Datum": "Sonntag, 29.03.2009",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "1:2"
+    }
+}

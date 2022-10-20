@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "35",
+    "0": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "St. Kickers",
+        "Datum": "Dienstag, 05.05.2009",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Bremen II",
+        "Datum": "Freitag, 08.05.2009",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:2"
+    },
+    "2": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "K. Emden",
+        "Datum": "Samstag, 09.05.2009",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Aue",
+        "Datum": "Samstag, 09.05.2009",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Union Berlin",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 09.05.2009",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Wuppertal",
+        "Gastteam": "Sandhausen",
+        "Datum": "Samstag, 09.05.2009",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 09.05.2009",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Paderborn",
+        "Datum": "Samstag, 09.05.2009",
+        "Endergebnis": "3:3",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Sonntag, 10.05.2009",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "9": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Düsseldorf",
+        "Datum": "Sonntag, 10.05.2009",
+        "Endergebnis": "5:5",
+        "Pausenergebnis": "1:2"
+    }
+}

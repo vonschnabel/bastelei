@@ -1,0 +1,164 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "31",
+    "0": {
+        "Tabellenplatz": "1",
+        "Teamname": "Union Berlin",
+        "Spiel": "31",
+        "Tore": "52:18",
+        "Tordifferenz": "34",
+        "Punkte": "67"
+    },
+    "1": {
+        "Tabellenplatz": "2",
+        "Teamname": "Paderborn",
+        "Spiel": "31",
+        "Tore": "53:29",
+        "Tordifferenz": "24",
+        "Punkte": "58"
+    },
+    "2": {
+        "Tabellenplatz": "3",
+        "Teamname": "Düsseldorf",
+        "Spiel": "31",
+        "Tore": "44:26",
+        "Tordifferenz": "18",
+        "Punkte": "55"
+    },
+    "3": {
+        "Tabellenplatz": "4",
+        "Teamname": "Unterhaching",
+        "Spiel": "31",
+        "Tore": "47:39",
+        "Tordifferenz": "8",
+        "Punkte": "54"
+    },
+    "4": {
+        "Tabellenplatz": "5",
+        "Teamname": "K. Emden",
+        "Spiel": "31",
+        "Tore": "38:33",
+        "Tordifferenz": "5",
+        "Punkte": "48"
+    },
+    "5": {
+        "Tabellenplatz": "6",
+        "Teamname": "FC Bayern II",
+        "Spiel": "31",
+        "Tore": "39:29",
+        "Tordifferenz": "10",
+        "Punkte": "47"
+    },
+    "6": {
+        "Tabellenplatz": "7",
+        "Teamname": "Offenbach",
+        "Spiel": "31",
+        "Tore": "37:28",
+        "Tordifferenz": "9",
+        "Punkte": "47"
+    },
+    "7": {
+        "Tabellenplatz": "8",
+        "Teamname": "RW Erfurt",
+        "Spiel": "31",
+        "Tore": "40:36",
+        "Tordifferenz": "4",
+        "Punkte": "46"
+    },
+    "8": {
+        "Tabellenplatz": "9",
+        "Teamname": "Sandhausen",
+        "Spiel": "31",
+        "Tore": "47:43",
+        "Tordifferenz": "4",
+        "Punkte": "42"
+    },
+    "9": {
+        "Tabellenplatz": "10",
+        "Teamname": "Stuttgart II",
+        "Spiel": "31",
+        "Tore": "49:40",
+        "Tordifferenz": "9",
+        "Punkte": "41"
+    },
+    "10": {
+        "Tabellenplatz": "11",
+        "Teamname": "Aue",
+        "Spiel": "31",
+        "Tore": "36:35",
+        "Tordifferenz": "1",
+        "Punkte": "40"
+    },
+    "11": {
+        "Tabellenplatz": "12",
+        "Teamname": "Braunschweig",
+        "Spiel": "31",
+        "Tore": "34:35",
+        "Tordifferenz": "-1",
+        "Punkte": "39"
+    },
+    "12": {
+        "Tabellenplatz": "13",
+        "Teamname": "Dresden",
+        "Spiel": "31",
+        "Tore": "36:38",
+        "Tordifferenz": "-2",
+        "Punkte": "39"
+    },
+    "13": {
+        "Tabellenplatz": "14",
+        "Teamname": "Regensburg",
+        "Spiel": "31",
+        "Tore": "28:42",
+        "Tordifferenz": "-14",
+        "Punkte": "35"
+    },
+    "14": {
+        "Tabellenplatz": "15",
+        "Teamname": "Wuppertal",
+        "Spiel": "31",
+        "Tore": "30:40",
+        "Tordifferenz": "-10",
+        "Punkte": "33"
+    },
+    "15": {
+        "Tabellenplatz": "16",
+        "Teamname": "FC Carl Zeiss ",
+        "Spiel": "31",
+        "Tore": "30:47",
+        "Tordifferenz": "-17",
+        "Punkte": "33"
+    },
+    "16": {
+        "Tabellenplatz": "17",
+        "Teamname": "Aalen",
+        "Spiel": "31",
+        "Tore": "25:46",
+        "Tordifferenz": "-21",
+        "Punkte": "32"
+    },
+    "17": {
+        "Tabellenplatz": "18",
+        "Teamname": "Bremen II",
+        "Spiel": "31",
+        "Tore": "38:50",
+        "Tordifferenz": "-12",
+        "Punkte": "29"
+    },
+    "18": {
+        "Tabellenplatz": "19",
+        "Teamname": "Burghausen",
+        "Spiel": "31",
+        "Tore": "30:52",
+        "Tordifferenz": "-22",
+        "Punkte": "29"
+    },
+    "19": {
+        "Tabellenplatz": "20",
+        "Teamname": "St. Kickers",
+        "Spiel": "31",
+        "Tore": "32:59",
+        "Tordifferenz": "-27",
+        "Punkte": "22"
+    }
+}

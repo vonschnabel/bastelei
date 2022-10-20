@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "20",
+    "0": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Freitag, 19.12.2008",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Dresden",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 20.12.2008",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Union Berlin",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Samstag, 20.12.2008",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Wuppertal",
+        "Gastteam": "K. Emden",
+        "Datum": "Samstag, 20.12.2008",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    },
+    "4": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 20.12.2008",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 20.12.2008",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 20.12.2008",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "Düsseldorf",
+        "Datum": "Samstag, 20.12.2008",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Aue",
+        "Datum": "Sonntag, 21.12.2008",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Sandhausen",
+        "Datum": "Sonntag, 21.12.2008",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}
