@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "32",
+    "0": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 08.04.2017",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 08.04.2017",
+        "Endergebnis": "2:4",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "FSV Frankfurt",
+        "Datum": "Samstag, 08.04.2017",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Lotte",
+        "Datum": "Samstag, 08.04.2017",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 08.04.2017",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Wehen",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 08.04.2017",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 08.04.2017",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 08.04.2017",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 08.04.2017",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:1"
+    },
+    "9": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 08.04.2017",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    }
+}

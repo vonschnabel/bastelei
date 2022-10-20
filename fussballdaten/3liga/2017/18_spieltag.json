@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "18",
+    "0": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 10.12.2016",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 10.12.2016",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "2": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 10.12.2016",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 10.12.2016",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "FSV Frankfurt",
+        "Datum": "Samstag, 10.12.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 10.12.2016",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 10.12.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Münster",
+        "Gastteam": "Paderborn",
+        "Datum": "Samstag, 10.12.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 10.12.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Lotte",
+        "Datum": "Sonntag, 11.12.2016",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    }
+}

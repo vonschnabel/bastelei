@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "26",
+    "0": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 11.03.2017",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 11.03.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 11.03.2017",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 11.03.2017",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 11.03.2017",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Lotte",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 11.03.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 11.03.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 11.03.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 11.03.2017",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "FSV Frankfurt",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 11.03.2017",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    }
+}

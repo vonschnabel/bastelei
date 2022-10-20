@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "34",
+    "0": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 22.04.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "Lotte",
+        "Datum": "Samstag, 22.04.2017",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 22.04.2017",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:1"
+    },
+    "3": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 22.04.2017",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 22.04.2017",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "FSV Frankfurt",
+        "Datum": "Samstag, 22.04.2017",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "0:2"
+    },
+    "6": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 22.04.2017",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 22.04.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Münster",
+        "Datum": "Sonntag, 23.04.2017",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Sonntag, 23.04.2017",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    }
+}

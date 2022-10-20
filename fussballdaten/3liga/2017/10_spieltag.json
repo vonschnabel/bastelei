@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "10",
+    "0": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "Rostock",
+        "Datum": "Freitag, 30.09.2016",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Großaspach",
+        "Datum": "Freitag, 30.09.2016",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 01.10.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 01.10.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 01.10.2016",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 01.10.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 01.10.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 01.10.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Lotte",
+        "Gastteam": "FSV Frankfurt",
+        "Datum": "Samstag, 01.10.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Sonntag, 02.10.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    }
+}

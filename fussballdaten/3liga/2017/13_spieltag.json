@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "13",
+    "0": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Zwickau",
+        "Datum": "Freitag, 28.10.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 29.10.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Lotte",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 29.10.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 29.10.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Münster",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 29.10.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "FSV Frankfurt",
+        "Gastteam": "Paderborn",
+        "Datum": "Samstag, 29.10.2016",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "6": {
+        "Heimteam": "Halle",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 29.10.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 29.10.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Mainz II",
+        "Datum": "Samstag, 29.10.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "9": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Magdeburg",
+        "Datum": "Samstag, 29.10.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    }
+}

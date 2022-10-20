@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "14",
+    "0": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 05.11.2016",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 05.11.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 05.11.2016",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    },
+    "3": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 05.11.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 05.11.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 05.11.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "FSV Frankfurt",
+        "Datum": "Samstag, 05.11.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 05.11.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Lotte",
+        "Datum": "Samstag, 05.11.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 05.11.2016",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "0:0"
+    }
+}

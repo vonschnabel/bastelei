@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "5",
+    "0": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Duisburg",
+        "Datum": "Freitag, 26.08.2016",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    },
+    "1": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Osnabrück",
+        "Datum": "Freitag, 26.08.2016",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "2:0"
+    },
+    "2": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Lotte",
+        "Datum": "Samstag, 27.08.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Münster",
+        "Gastteam": "Mainz II",
+        "Datum": "Samstag, 27.08.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Paderborn",
+        "Datum": "Samstag, 27.08.2016",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 27.08.2016",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Rostock",
+        "Gastteam": "FSV Frankfurt",
+        "Datum": "Samstag, 27.08.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 27.08.2016",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 27.08.2016",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "9": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 27.08.2016",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "28",
+    "0": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 18.03.2017",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:1"
+    },
+    "1": {
+        "Heimteam": "Aalen",
+        "Gastteam": "FSV Frankfurt",
+        "Datum": "Samstag, 18.03.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 18.03.2017",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 18.03.2017",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 18.03.2017",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 18.03.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 18.03.2017",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:2"
+    },
+    "7": {
+        "Heimteam": "Lotte",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 18.03.2017",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 18.03.2017",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 18.03.2017",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    }
+}

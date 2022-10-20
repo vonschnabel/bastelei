@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "19",
+    "0": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Freitag, 16.12.2016",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 17.12.2016",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 17.12.2016",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 17.12.2016",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "3:0"
+    },
+    "4": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 17.12.2016",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Halle",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 17.12.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Lotte",
+        "Gastteam": "Magdeburg",
+        "Datum": "Samstag, 17.12.2016",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Mainz II",
+        "Datum": "Samstag, 17.12.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "FSV Frankfurt",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 17.12.2016",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:1"
+    },
+    "9": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Duisburg",
+        "Datum": "Sonntag, 18.12.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    }
+}

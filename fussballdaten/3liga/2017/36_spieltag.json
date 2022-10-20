@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "36",
+    "0": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Halle",
+        "Datum": "Freitag, 05.05.2017",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Regensburg",
+        "Datum": "Freitag, 05.05.2017",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "1:2"
+    },
+    "2": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 06.05.2017",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 06.05.2017",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 06.05.2017",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 06.05.2017",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 06.05.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "FSV Frankfurt",
+        "Datum": "Samstag, 06.05.2017",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Lotte",
+        "Datum": "Samstag, 06.05.2017",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Münster",
+        "Datum": "Sonntag, 07.05.2017",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    }
+}

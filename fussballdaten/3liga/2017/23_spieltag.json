@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "23",
+    "0": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Duisburg",
+        "Datum": "Freitag, 17.02.2017",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "1": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Paderborn",
+        "Datum": "Samstag, 18.02.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Münster",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 18.02.2017",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 18.02.2017",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 18.02.2017",
+        "Endergebnis": "5:1",
+        "Pausenergebnis": "2:1"
+    },
+    "5": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "FSV Frankfurt",
+        "Datum": "Samstag, 18.02.2017",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 18.02.2017",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 18.02.2017",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Lotte",
+        "Datum": "Samstag, 18.02.2017",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Halle",
+        "Datum": "Sonntag, 19.02.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    }
+}

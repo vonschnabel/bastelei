@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "16",
+    "0": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Rostock",
+        "Datum": "Freitag, 25.11.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 26.11.2016",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 26.11.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 26.11.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Lotte",
+        "Datum": "Samstag, 26.11.2016",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "5": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 26.11.2016",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 26.11.2016",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 26.11.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "FSV Frankfurt",
+        "Datum": "Sonntag, 27.11.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Münster",
+        "Datum": "Sonntag, 27.11.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    }
+}

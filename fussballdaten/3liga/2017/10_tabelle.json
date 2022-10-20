@@ -1,0 +1,164 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "10",
+    "0": {
+        "Tabellenplatz": "1",
+        "Teamname": "Duisburg",
+        "Spiel": "10",
+        "Tore": "12:6",
+        "Tordifferenz": "6",
+        "Punkte": "21"
+    },
+    "1": {
+        "Tabellenplatz": "2",
+        "Teamname": "Lotte",
+        "Spiel": "10",
+        "Tore": "15:12",
+        "Tordifferenz": "3",
+        "Punkte": "17"
+    },
+    "2": {
+        "Tabellenplatz": "3",
+        "Teamname": "Regensburg",
+        "Spiel": "10",
+        "Tore": "18:16",
+        "Tordifferenz": "2",
+        "Punkte": "17"
+    },
+    "3": {
+        "Tabellenplatz": "4",
+        "Teamname": "Osnabrück",
+        "Spiel": "10",
+        "Tore": "15:14",
+        "Tordifferenz": "1",
+        "Punkte": "17"
+    },
+    "4": {
+        "Tabellenplatz": "5",
+        "Teamname": "Fortuna Köln",
+        "Spiel": "10",
+        "Tore": "13:13",
+        "Tordifferenz": "0",
+        "Punkte": "17"
+    },
+    "5": {
+        "Tabellenplatz": "6",
+        "Teamname": "Rostock",
+        "Spiel": "10",
+        "Tore": "14:7",
+        "Tordifferenz": "7",
+        "Punkte": "16"
+    },
+    "6": {
+        "Tabellenplatz": "7",
+        "Teamname": "Wehen",
+        "Spiel": "10",
+        "Tore": "14:9",
+        "Tordifferenz": "5",
+        "Punkte": "16"
+    },
+    "7": {
+        "Tabellenplatz": "8",
+        "Teamname": "Magdeburg",
+        "Spiel": "10",
+        "Tore": "15:11",
+        "Tordifferenz": "4",
+        "Punkte": "16"
+    },
+    "8": {
+        "Tabellenplatz": "9",
+        "Teamname": "Großaspach",
+        "Spiel": "10",
+        "Tore": "18:12",
+        "Tordifferenz": "6",
+        "Punkte": "15"
+    },
+    "9": {
+        "Tabellenplatz": "10",
+        "Teamname": "Holstein Kiel",
+        "Spiel": "10",
+        "Tore": "13:7",
+        "Tordifferenz": "6",
+        "Punkte": "14"
+    },
+    "10": {
+        "Tabellenplatz": "11",
+        "Teamname": "Halle",
+        "Spiel": "10",
+        "Tore": "11:10",
+        "Tordifferenz": "1",
+        "Punkte": "14"
+    },
+    "11": {
+        "Tabellenplatz": "12",
+        "Teamname": "Chemnitz",
+        "Spiel": "10",
+        "Tore": "11:11",
+        "Tordifferenz": "0",
+        "Punkte": "12"
+    },
+    "12": {
+        "Tabellenplatz": "13",
+        "Teamname": "RW Erfurt",
+        "Spiel": "10",
+        "Tore": "10:14",
+        "Tordifferenz": "-4",
+        "Punkte": "12"
+    },
+    "13": {
+        "Tabellenplatz": "14",
+        "Teamname": "Paderborn",
+        "Spiel": "10",
+        "Tore": "14:20",
+        "Tordifferenz": "-6",
+        "Punkte": "12"
+    },
+    "14": {
+        "Tabellenplatz": "15",
+        "Teamname": "Bremen II",
+        "Spiel": "10",
+        "Tore": "9:20",
+        "Tordifferenz": "-11",
+        "Punkte": "9"
+    },
+    "15": {
+        "Tabellenplatz": "16",
+        "Teamname": "Aalen",
+        "Spiel": "10",
+        "Tore": "13:9",
+        "Tordifferenz": "4",
+        "Punkte": "8"
+    },
+    "16": {
+        "Tabellenplatz": "17",
+        "Teamname": "Zwickau",
+        "Spiel": "10",
+        "Tore": "10:19",
+        "Tordifferenz": "-9",
+        "Punkte": "8"
+    },
+    "17": {
+        "Tabellenplatz": "18",
+        "Teamname": "Münster",
+        "Spiel": "10",
+        "Tore": "10:15",
+        "Tordifferenz": "-5",
+        "Punkte": "7"
+    },
+    "18": {
+        "Tabellenplatz": "19",
+        "Teamname": "Mainz II",
+        "Spiel": "10",
+        "Tore": "9:20",
+        "Tordifferenz": "-11",
+        "Punkte": "6"
+    },
+    "19": {
+        "Tabellenplatz": "20",
+        "Teamname": "FSV Frankfurt",
+        "Spiel": "10",
+        "Tore": "13:12",
+        "Tordifferenz": "1",
+        "Punkte": "4"
+    }
+}

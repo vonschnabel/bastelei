@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "2",
+    "0": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Münster",
+        "Datum": "Freitag, 05.08.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Bremen II",
+        "Datum": "Freitag, 05.08.2016",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "Mainz II",
+        "Datum": "Samstag, 06.08.2016",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:1"
+    },
+    "3": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 06.08.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Halle",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 06.08.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Lotte",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 06.08.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "FSV Frankfurt",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 06.08.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Regensburg",
+        "Datum": "Sonntag, 07.08.2016",
+        "Endergebnis": "3:4",
+        "Pausenergebnis": "2:1"
+    },
+    "8": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Duisburg",
+        "Datum": "Sonntag, 07.08.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Magdeburg",
+        "Datum": "Donnerstag, 01.09.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

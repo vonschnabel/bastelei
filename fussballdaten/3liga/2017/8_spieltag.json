@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "8",
+    "0": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Halle",
+        "Datum": "Dienstag, 20.09.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Dienstag, 20.09.2016",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Regensburg",
+        "Datum": "Dienstag, 20.09.2016",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Dienstag, 20.09.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Bremen II",
+        "Datum": "Mittwoch, 21.09.2016",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "Chemnitz",
+        "Datum": "Mittwoch, 21.09.2016",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Rostock",
+        "Datum": "Mittwoch, 21.09.2016",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "FSV Frankfurt",
+        "Gastteam": "Münster",
+        "Datum": "Mittwoch, 21.09.2016",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:0"
+    },
+    "8": {
+        "Heimteam": "Mainz II",
+        "Gastteam": "Wehen",
+        "Datum": "Mittwoch, 21.09.2016",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    },
+    "9": {
+        "Heimteam": "Lotte",
+        "Gastteam": "Großaspach",
+        "Datum": "Mittwoch, 21.09.2016",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    }
+}
