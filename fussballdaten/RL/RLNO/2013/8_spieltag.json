@@ -1,0 +1,60 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "8",
+    "0": {
+        "Heimteam": "Plauen",
+        "Gastteam": "RB Leipzig",
+        "Datum": "Freitag, 19.10.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 20.10.2012",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Samstag, 20.10.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Union II",
+        "Datum": "Sonntag, 21.10.2012",
+        "Endergebnis": "0:5",
+        "Pausenergebnis": "0:2"
+    },
+    "4": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "Magdeburg",
+        "Datum": "Sonntag, 21.10.2012",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "FC Greif",
+        "Datum": "Sonntag, 21.10.2012",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "3:1"
+    },
+    "6": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Cottbus II",
+        "Datum": "Sonntag, 21.10.2012",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Zwickau",
+        "Datum": "Sonntag, 21.10.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    }
+}

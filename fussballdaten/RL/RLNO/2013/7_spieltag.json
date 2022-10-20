@@ -1,0 +1,60 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "7",
+    "0": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Freitag, 05.10.2012",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "FC Greif",
+        "Gastteam": "Plauen",
+        "Datum": "Samstag, 06.10.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Samstag, 06.10.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 07.10.2012",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Cottbus II",
+        "Gastteam": "Auerbach",
+        "Datum": "Sonntag, 07.10.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Union II",
+        "Gastteam": "Neustrelitz",
+        "Datum": "Sonntag, 07.10.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Rathenow",
+        "Datum": "Sonntag, 07.10.2012",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Halberstadt",
+        "Datum": "Sonntag, 07.10.2012",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    }
+}

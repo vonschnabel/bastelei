@@ -1,0 +1,132 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "7",
+    "0": {
+        "Tabellenplatz": "1",
+        "Teamname": "RB Leipzig",
+        "Spiel": "7",
+        "Tore": "19:8",
+        "Tordifferenz": "11",
+        "Punkte": "19"
+    },
+    "1": {
+        "Tabellenplatz": "2",
+        "Teamname": "Magdeburg",
+        "Spiel": "7",
+        "Tore": "9:3",
+        "Tordifferenz": "6",
+        "Punkte": "14"
+    },
+    "2": {
+        "Tabellenplatz": "3",
+        "Teamname": "Zwickau",
+        "Spiel": "7",
+        "Tore": "9:2",
+        "Tordifferenz": "7",
+        "Punkte": "12"
+    },
+    "3": {
+        "Tabellenplatz": "4",
+        "Teamname": "FC Carl Zeiss ",
+        "Spiel": "7",
+        "Tore": "8:4",
+        "Tordifferenz": "4",
+        "Punkte": "12"
+    },
+    "4": {
+        "Tabellenplatz": "5",
+        "Teamname": "Halberstadt",
+        "Spiel": "7",
+        "Tore": "7:9",
+        "Tordifferenz": "-2",
+        "Punkte": "11"
+    },
+    "5": {
+        "Tabellenplatz": "6",
+        "Teamname": "Auerbach",
+        "Spiel": "7",
+        "Tore": "14:10",
+        "Tordifferenz": "4",
+        "Punkte": "10"
+    },
+    "6": {
+        "Tabellenplatz": "7",
+        "Teamname": "Berliner AK 07",
+        "Spiel": "7",
+        "Tore": "6:5",
+        "Tordifferenz": "1",
+        "Punkte": "10"
+    },
+    "7": {
+        "Tabellenplatz": "8",
+        "Teamname": "Meuselwitz",
+        "Spiel": "7",
+        "Tore": "4:11",
+        "Tordifferenz": "-7",
+        "Punkte": "10"
+    },
+    "8": {
+        "Tabellenplatz": "9",
+        "Teamname": "Neustrelitz",
+        "Spiel": "7",
+        "Tore": "6:5",
+        "Tordifferenz": "1",
+        "Punkte": "9"
+    },
+    "9": {
+        "Tabellenplatz": "10",
+        "Teamname": "HBSC II",
+        "Spiel": "7",
+        "Tore": "8:8",
+        "Tordifferenz": "0",
+        "Punkte": "8"
+    },
+    "10": {
+        "Tabellenplatz": "11",
+        "Teamname": "Rathenow",
+        "Spiel": "7",
+        "Tore": "10:14",
+        "Tordifferenz": "-4",
+        "Punkte": "8"
+    },
+    "11": {
+        "Tabellenplatz": "12",
+        "Teamname": "Cottbus II",
+        "Spiel": "7",
+        "Tore": "9:10",
+        "Tordifferenz": "-1",
+        "Punkte": "7"
+    },
+    "12": {
+        "Tabellenplatz": "13",
+        "Teamname": "Lok Leipzig",
+        "Spiel": "7",
+        "Tore": "5:8",
+        "Tordifferenz": "-3",
+        "Punkte": "6"
+    },
+    "13": {
+        "Tabellenplatz": "14",
+        "Teamname": "Plauen",
+        "Spiel": "7",
+        "Tore": "8:12",
+        "Tordifferenz": "-4",
+        "Punkte": "5"
+    },
+    "14": {
+        "Tabellenplatz": "15",
+        "Teamname": "FC Greif",
+        "Spiel": "7",
+        "Tore": "5:10",
+        "Tordifferenz": "-5",
+        "Punkte": "5"
+    },
+    "15": {
+        "Tabellenplatz": "16",
+        "Teamname": "Union II",
+        "Spiel": "7",
+        "Tore": "3:11",
+        "Tordifferenz": "-8",
+        "Punkte": "4"
+    }
+}

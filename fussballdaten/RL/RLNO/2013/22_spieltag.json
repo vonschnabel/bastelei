@@ -1,0 +1,60 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "22",
+    "0": {
+        "Heimteam": "Plauen",
+        "Gastteam": "FC Greif",
+        "Datum": "Donnerstag, 28.03.2013",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "Union II",
+        "Datum": "Samstag, 30.03.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "RB Leipzig",
+        "Datum": "Sonntag, 31.03.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Mittwoch, 10.04.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Cottbus II",
+        "Datum": "Mittwoch, 24.04.2013",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Magdeburg",
+        "Datum": "Mittwoch, 15.05.2013",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:0"
+    },
+    "6": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Mittwoch, 22.05.2013",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    },
+    "7": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Zwickau",
+        "Datum": "Mittwoch, 22.05.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

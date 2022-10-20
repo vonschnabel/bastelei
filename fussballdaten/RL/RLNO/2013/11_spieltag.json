@@ -1,0 +1,60 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "11",
+    "0": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Plauen",
+        "Datum": "Freitag, 09.11.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Cottbus II",
+        "Gastteam": "FC Greif",
+        "Datum": "Samstag, 10.11.2012",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "2": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Rathenow",
+        "Datum": "Samstag, 10.11.2012",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "3": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Samstag, 10.11.2012",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "RB Leipzig",
+        "Datum": "Sonntag, 11.11.2012",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "Halberstadt",
+        "Datum": "Sonntag, 11.11.2012",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Union II",
+        "Gastteam": "Auerbach",
+        "Datum": "Sonntag, 11.11.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 11.11.2012",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    }
+}

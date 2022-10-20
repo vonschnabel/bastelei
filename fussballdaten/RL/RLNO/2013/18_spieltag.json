@@ -1,0 +1,60 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "18",
+    "0": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Magdeburg",
+        "Datum": "Mittwoch, 03.04.2013",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "Cottbus II",
+        "Datum": "Mittwoch, 17.04.2013",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "FC Greif",
+        "Datum": "Mittwoch, 01.05.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Plauen",
+        "Datum": "Donnerstag, 02.05.2013",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Dienstag, 07.05.2013",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Mittwoch, 08.05.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "HBSC II",
+        "Datum": "Mittwoch, 08.05.2013",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    },
+    "7": {
+        "Heimteam": "Union II",
+        "Gastteam": "Zwickau",
+        "Datum": "Mittwoch, 08.05.2013",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:2"
+    }
+}

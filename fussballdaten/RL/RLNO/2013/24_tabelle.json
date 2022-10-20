@@ -1,0 +1,132 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "24",
+    "0": {
+        "Tabellenplatz": "1",
+        "Teamname": "RB Leipzig",
+        "Spiel": "24",
+        "Tore": "46:16",
+        "Tordifferenz": "30",
+        "Punkte": "58"
+    },
+    "1": {
+        "Tabellenplatz": "2",
+        "Teamname": "FC Carl Zeiss ",
+        "Spiel": "24",
+        "Tore": "36:18",
+        "Tordifferenz": "18",
+        "Punkte": "45"
+    },
+    "2": {
+        "Tabellenplatz": "3",
+        "Teamname": "Berliner AK 07",
+        "Spiel": "24",
+        "Tore": "28:13",
+        "Tordifferenz": "15",
+        "Punkte": "42"
+    },
+    "3": {
+        "Tabellenplatz": "4",
+        "Teamname": "Zwickau",
+        "Spiel": "24",
+        "Tore": "35:12",
+        "Tordifferenz": "23",
+        "Punkte": "41"
+    },
+    "4": {
+        "Tabellenplatz": "5",
+        "Teamname": "Meuselwitz",
+        "Spiel": "24",
+        "Tore": "29:30",
+        "Tordifferenz": "-1",
+        "Punkte": "40"
+    },
+    "5": {
+        "Tabellenplatz": "6",
+        "Teamname": "HBSC II",
+        "Spiel": "24",
+        "Tore": "37:34",
+        "Tordifferenz": "3",
+        "Punkte": "34"
+    },
+    "6": {
+        "Tabellenplatz": "7",
+        "Teamname": "Magdeburg",
+        "Spiel": "24",
+        "Tore": "34:33",
+        "Tordifferenz": "1",
+        "Punkte": "34"
+    },
+    "7": {
+        "Tabellenplatz": "8",
+        "Teamname": "Halberstadt",
+        "Spiel": "24",
+        "Tore": "25:27",
+        "Tordifferenz": "-2",
+        "Punkte": "33"
+    },
+    "8": {
+        "Tabellenplatz": "9",
+        "Teamname": "Neustrelitz",
+        "Spiel": "24",
+        "Tore": "30:29",
+        "Tordifferenz": "1",
+        "Punkte": "31"
+    },
+    "9": {
+        "Tabellenplatz": "10",
+        "Teamname": "Rathenow",
+        "Spiel": "24",
+        "Tore": "31:37",
+        "Tordifferenz": "-6",
+        "Punkte": "30"
+    },
+    "10": {
+        "Tabellenplatz": "11",
+        "Teamname": "Lok Leipzig",
+        "Spiel": "24",
+        "Tore": "27:31",
+        "Tordifferenz": "-4",
+        "Punkte": "29"
+    },
+    "11": {
+        "Tabellenplatz": "12",
+        "Teamname": "Plauen",
+        "Spiel": "24",
+        "Tore": "33:36",
+        "Tordifferenz": "-3",
+        "Punkte": "27"
+    },
+    "12": {
+        "Tabellenplatz": "13",
+        "Teamname": "Union II",
+        "Spiel": "24",
+        "Tore": "27:37",
+        "Tordifferenz": "-10",
+        "Punkte": "23"
+    },
+    "13": {
+        "Tabellenplatz": "14",
+        "Teamname": "Auerbach",
+        "Spiel": "24",
+        "Tore": "26:37",
+        "Tordifferenz": "-11",
+        "Punkte": "20"
+    },
+    "14": {
+        "Tabellenplatz": "15",
+        "Teamname": "Cottbus II",
+        "Spiel": "24",
+        "Tore": "24:42",
+        "Tordifferenz": "-18",
+        "Punkte": "18"
+    },
+    "15": {
+        "Tabellenplatz": "16",
+        "Teamname": "FC Greif",
+        "Spiel": "24",
+        "Tore": "18:54",
+        "Tordifferenz": "-36",
+        "Punkte": "11"
+    }
+}

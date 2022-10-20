@@ -1,0 +1,60 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "4",
+    "0": {
+        "Heimteam": "Union II",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Freitag, 14.09.2012",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "HBSC II",
+        "Datum": "Freitag, 14.09.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "RB Leipzig",
+        "Datum": "Samstag, 15.09.2012",
+        "Endergebnis": "2:4",
+        "Pausenergebnis": "2:2"
+    },
+    "3": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Magdeburg",
+        "Datum": "Samstag, 15.09.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "FC Greif",
+        "Datum": "Sonntag, 16.09.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Cottbus II",
+        "Datum": "Sonntag, 16.09.2012",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "Zwickau",
+        "Datum": "Sonntag, 16.09.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Plauen",
+        "Datum": "Sonntag, 16.09.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    }
+}
