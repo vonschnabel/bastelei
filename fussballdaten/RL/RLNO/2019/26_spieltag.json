@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "26",
+    "0": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Rathenow",
+        "Datum": "Freitag, 22.03.2019",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Oberlausitz",
+        "Datum": "Freitag, 22.03.2019",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "3:0"
+    },
+    "2": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "HBSC II",
+        "Datum": "Freitag, 22.03.2019",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:2"
+    },
+    "3": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Bautzen",
+        "Datum": "Samstag, 23.03.2019",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Bischofswerd",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Samstag, 23.03.2019",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Altglienicke",
+        "Datum": "Sonntag, 24.03.2019",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Sonntag, 24.03.2019",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Fürstenwalde",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Sonntag, 24.03.2019",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Nordhausen",
+        "Datum": "Sonntag, 24.03.2019",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    }
+}

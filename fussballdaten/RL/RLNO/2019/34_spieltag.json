@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "34",
+    "0": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Freitag, 17.05.2019",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 18.05.2019",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Samstag, 18.05.2019",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Bischofswerd",
+        "Datum": "Samstag, 18.05.2019",
+        "Endergebnis": "7:0",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Samstag, 18.05.2019",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Bautzen",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Samstag, 18.05.2019",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Oberlausitz",
+        "Datum": "Samstag, 18.05.2019",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "HBSC II",
+        "Datum": "Samstag, 18.05.2019",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:1"
+    },
+    "8": {
+        "Heimteam": "Altglienicke",
+        "Gastteam": "Nordhausen",
+        "Datum": "Samstag, 18.05.2019",
+        "Endergebnis": "2:4",
+        "Pausenergebnis": "0:3"
+    }
+}

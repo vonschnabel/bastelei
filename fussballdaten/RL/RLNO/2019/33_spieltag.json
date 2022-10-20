@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "33",
+    "0": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Freitag, 10.05.2019",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Altglienicke",
+        "Datum": "Sonntag, 12.05.2019",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:2"
+    },
+    "2": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "Rathenow",
+        "Datum": "Sonntag, 12.05.2019",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Oberlausitz",
+        "Gastteam": "Bautzen",
+        "Datum": "Sonntag, 12.05.2019",
+        "Endergebnis": "5:1",
+        "Pausenergebnis": "3:0"
+    },
+    "4": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Sonntag, 12.05.2019",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "5": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Chemnitz",
+        "Datum": "Sonntag, 12.05.2019",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "2:2"
+    },
+    "6": {
+        "Heimteam": "Bischofswerd",
+        "Gastteam": "Halberstadt",
+        "Datum": "Sonntag, 12.05.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Fürstenwalde",
+        "Gastteam": "Auerbach",
+        "Datum": "Sonntag, 12.05.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Sonntag, 12.05.2019",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "29",
+    "0": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Freitag, 12.04.2019",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "Chemnitz",
+        "Datum": "Freitag, 12.04.2019",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    },
+    "2": {
+        "Heimteam": "Bischofswerd",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 13.04.2019",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Altglienicke",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Samstag, 13.04.2019",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Bautzen",
+        "Datum": "Samstag, 13.04.2019",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Halberstadt",
+        "Datum": "Samstag, 13.04.2019",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:1"
+    },
+    "6": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Sonntag, 14.04.2019",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Oberlausitz",
+        "Gastteam": "Auerbach",
+        "Datum": "Sonntag, 14.04.2019",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "8": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Sonntag, 14.04.2019",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:2"
+    }
+}

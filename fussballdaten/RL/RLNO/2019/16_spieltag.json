@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "16",
+    "0": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Babelsberg",
+        "Datum": "Freitag, 09.11.2018",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Altglienicke",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Samstag, 10.11.2018",
+        "Endergebnis": "5:0",
+        "Pausenergebnis": "3:0"
+    },
+    "2": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "Nordhausen",
+        "Datum": "Samstag, 10.11.2018",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Samstag, 10.11.2018",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Samstag, 10.11.2018",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 11.11.2018",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Bautzen",
+        "Gastteam": "Oberlausitz",
+        "Datum": "Sonntag, 11.11.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Sonntag, 11.11.2018",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Bischofswerd",
+        "Datum": "Sonntag, 11.11.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    }
+}

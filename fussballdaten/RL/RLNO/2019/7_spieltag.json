@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "7",
+    "0": {
+        "Heimteam": "Bautzen",
+        "Gastteam": "Auerbach",
+        "Datum": "Samstag, 08.09.2018",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Oberlausitz",
+        "Gastteam": "Bischofswerd",
+        "Datum": "Samstag, 08.09.2018",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Halberstadt",
+        "Datum": "Mittwoch, 12.09.2018",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Mittwoch, 12.09.2018",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Altglienicke",
+        "Gastteam": "Chemnitz",
+        "Datum": "Mittwoch, 12.09.2018",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    },
+    "5": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Mittwoch, 12.09.2018",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Mittwoch, 12.09.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Mittwoch, 12.09.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "Babelsberg",
+        "Datum": "Mittwoch, 12.09.2018",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    }
+}

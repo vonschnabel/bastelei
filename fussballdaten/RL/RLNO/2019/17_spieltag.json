@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "17",
+    "0": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "Altglienicke",
+        "Datum": "Freitag, 23.11.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Freitag, 23.11.2018",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    },
+    "2": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Rathenow",
+        "Datum": "Freitag, 23.11.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Bautzen",
+        "Datum": "Samstag, 24.11.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Auerbach",
+        "Datum": "Samstag, 24.11.2018",
+        "Endergebnis": "5:0",
+        "Pausenergebnis": "2:0"
+    },
+    "5": {
+        "Heimteam": "Oberlausitz",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Samstag, 24.11.2018",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Fürstenwalde",
+        "Gastteam": "Halberstadt",
+        "Datum": "Sonntag, 25.11.2018",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Bischofswerd",
+        "Gastteam": "Chemnitz",
+        "Datum": "Sonntag, 25.11.2018",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Sonntag, 25.11.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    }
+}

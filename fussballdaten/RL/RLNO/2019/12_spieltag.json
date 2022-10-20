@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "12",
+    "0": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Samstag, 06.10.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Bischofswerd",
+        "Datum": "Samstag, 06.10.2018",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Bautzen",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Samstag, 06.10.2018",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Oberlausitz",
+        "Datum": "Samstag, 06.10.2018",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Nordhausen",
+        "Datum": "Sonntag, 07.10.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Sonntag, 07.10.2018",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Fürstenwalde",
+        "Gastteam": "Altglienicke",
+        "Datum": "Sonntag, 07.10.2018",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "3:2"
+    },
+    "7": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Rathenow",
+        "Datum": "Sonntag, 07.10.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 07.10.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    }
+}
