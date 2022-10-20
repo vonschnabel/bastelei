@@ -1,0 +1,60 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "22",
+    "0": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Neustrelitz",
+        "Datum": "Samstag, 28.03.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "HBSC II",
+        "Datum": "Samstag, 28.03.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Samstag, 28.03.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "Magdeburg",
+        "Datum": "Samstag, 28.03.2015",
+        "Endergebnis": "0:5",
+        "Pausenergebnis": "0:3"
+    },
+    "4": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Auerbach",
+        "Datum": "Sonntag, 29.03.2015",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "5": {
+        "Heimteam": "Union II",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Sonntag, 29.03.2015",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:2"
+    },
+    "6": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Bautzen",
+        "Datum": "Montag, 06.04.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Plauen",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Mittwoch, 29.04.2015",
+        "Endergebnis": "",
+        "Pausenergebnis": "-:-"
+    }
+}

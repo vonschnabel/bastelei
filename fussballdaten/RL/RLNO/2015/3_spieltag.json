@@ -1,0 +1,60 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "3",
+    "0": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 16.08.2014",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Bautzen",
+        "Gastteam": "Union II",
+        "Datum": "Sonntag, 17.08.2014",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "Halberstadt",
+        "Datum": "Sonntag, 17.08.2014",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "",
+        "Datum": "Sonntag, 17.08.2014",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Sonntag, 17.08.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "5": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 17.08.2014",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    },
+    "6": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Babelsberg",
+        "Datum": "Mittwoch, 27.08.2014",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Mittwoch, 03.09.2014",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    }
+}

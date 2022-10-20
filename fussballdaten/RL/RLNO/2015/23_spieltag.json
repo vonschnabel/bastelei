@@ -1,0 +1,60 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "23",
+    "0": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "",
+        "Datum": "Samstag, 04.04.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:1"
+    },
+    "1": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Halberstadt",
+        "Datum": "Samstag, 04.04.2015",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Samstag, 04.04.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "Nordhausen",
+        "Datum": "Samstag, 04.04.2015",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "3:0"
+    },
+    "4": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Babelsberg",
+        "Datum": "Montag, 06.04.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Mittwoch, 15.04.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Bautzen",
+        "Gastteam": "Zwickau",
+        "Datum": "Mittwoch, 22.04.2015",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Union II",
+        "Datum": "Mittwoch, 13.05.2015",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    }
+}

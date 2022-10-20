@@ -1,0 +1,132 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "20",
+    "0": {
+        "Tabellenplatz": "1",
+        "Teamname": "Zwickau",
+        "Spiel": "18",
+        "Tore": "32:9",
+        "Tordifferenz": "23",
+        "Punkte": "39"
+    },
+    "1": {
+        "Tabellenplatz": "2",
+        "Teamname": "Magdeburg",
+        "Spiel": "18",
+        "Tore": "39:18",
+        "Tordifferenz": "21",
+        "Punkte": "37"
+    },
+    "2": {
+        "Tabellenplatz": "3",
+        "Teamname": "Nordhausen",
+        "Spiel": "18",
+        "Tore": "33:22",
+        "Tordifferenz": "11",
+        "Punkte": "34"
+    },
+    "3": {
+        "Tabellenplatz": "4",
+        "Teamname": "FC Carl Zeiss ",
+        "Spiel": "19",
+        "Tore": "31:25",
+        "Tordifferenz": "6",
+        "Punkte": "30"
+    },
+    "4": {
+        "Tabellenplatz": "5",
+        "Teamname": "Berliner AK 07",
+        "Spiel": "18",
+        "Tore": "26:21",
+        "Tordifferenz": "5",
+        "Punkte": "30"
+    },
+    "5": {
+        "Tabellenplatz": "6",
+        "Teamname": "HBSC II",
+        "Spiel": "19",
+        "Tore": "35:26",
+        "Tordifferenz": "9",
+        "Punkte": "28"
+    },
+    "6": {
+        "Tabellenplatz": "7",
+        "Teamname": "BFC Dynamo",
+        "Spiel": "19",
+        "Tore": "21:20",
+        "Tordifferenz": "1",
+        "Punkte": "28"
+    },
+    "7": {
+        "Tabellenplatz": "8",
+        "Teamname": "Neustrelitz",
+        "Spiel": "18",
+        "Tore": "25:24",
+        "Tordifferenz": "1",
+        "Punkte": "25"
+    },
+    "8": {
+        "Tabellenplatz": "9",
+        "Teamname": "Halberstadt",
+        "Spiel": "19",
+        "Tore": "24:31",
+        "Tordifferenz": "-7",
+        "Punkte": "24"
+    },
+    "9": {
+        "Tabellenplatz": "10",
+        "Teamname": "Babelsberg",
+        "Spiel": "19",
+        "Tore": "23:21",
+        "Tordifferenz": "2",
+        "Punkte": "23"
+    },
+    "10": {
+        "Tabellenplatz": "11",
+        "Teamname": "Union II",
+        "Spiel": "19",
+        "Tore": "31:37",
+        "Tordifferenz": "-6",
+        "Punkte": "21"
+    },
+    "11": {
+        "Tabellenplatz": "12",
+        "Teamname": "Bautzen",
+        "Spiel": "19",
+        "Tore": "15:26",
+        "Tordifferenz": "-11",
+        "Punkte": "20"
+    },
+    "12": {
+        "Tabellenplatz": "13",
+        "Teamname": "Auerbach",
+        "Spiel": "19",
+        "Tore": "17:40",
+        "Tordifferenz": "-23",
+        "Punkte": "19"
+    },
+    "13": {
+        "Tabellenplatz": "14",
+        "Teamname": "Meuselwitz",
+        "Spiel": "19",
+        "Tore": "22:34",
+        "Tordifferenz": "-12",
+        "Punkte": "16"
+    },
+    "14": {
+        "Tabellenplatz": "15",
+        "Teamname": "Viktoria 89",
+        "Spiel": "19",
+        "Tore": "15:35",
+        "Tordifferenz": "-20",
+        "Punkte": "12"
+    },
+    "15": {
+        "Tabellenplatz": "16",
+        "Teamname": "Plauen",
+        "Spiel": "-",
+        "Tore": "-:-",
+        "Tordifferenz": "-:-",
+        "Punkte": "-"
+    }
+}

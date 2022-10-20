@@ -1,0 +1,60 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "19",
+    "0": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "Babelsberg",
+        "Datum": "Freitag, 06.03.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Samstag, 07.03.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "HBSC II",
+        "Datum": "Samstag, 07.03.2015",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "",
+        "Datum": "Sonntag, 08.03.2015",
+        "Endergebnis": "5:0",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Bautzen",
+        "Gastteam": "Halberstadt",
+        "Datum": "Sonntag, 08.03.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Union II",
+        "Datum": "Sonntag, 08.03.2015",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Sonntag, 08.03.2015",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "Zwickau",
+        "Datum": "Sonntag, 08.03.2015",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    }
+}

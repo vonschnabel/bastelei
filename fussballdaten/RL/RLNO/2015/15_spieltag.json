@@ -1,0 +1,60 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "15",
+    "0": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 29.11.2014",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Auerbach",
+        "Datum": "Samstag, 29.11.2014",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Plauen",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Sonntag, 30.11.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Nordhausen",
+        "Datum": "Sonntag, 30.11.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Union II",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Sonntag, 30.11.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Magdeburg",
+        "Datum": "Sonntag, 30.11.2014",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Neustrelitz",
+        "Datum": "Sonntag, 30.11.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Bautzen",
+        "Datum": "Sonntag, 30.11.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    }
+}
