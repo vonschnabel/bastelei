@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "28",
+    "0": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Dienstag, 06.03.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "Magdeburg",
+        "Datum": "Dienstag, 06.03.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Lotte",
+        "Datum": "Dienstag, 06.03.2018",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Meppen",
+        "Datum": "Dienstag, 06.03.2018",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Halle",
+        "Gastteam": "Bremen II",
+        "Datum": "Mittwoch, 07.03.2018",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Großaspach",
+        "Datum": "Mittwoch, 07.03.2018",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Münster",
+        "Datum": "Mittwoch, 07.03.2018",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Chemnitz",
+        "Datum": "Mittwoch, 07.03.2018",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "3:0"
+    },
+    "8": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Rostock",
+        "Datum": "Mittwoch, 07.03.2018",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Dienstag, 27.03.2018",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:2"
+    }
+}

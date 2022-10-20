@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "36",
+    "0": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Aalen",
+        "Datum": "Freitag, 27.04.2018",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 28.04.2018",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Paderborn",
+        "Datum": "Samstag, 28.04.2018",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 28.04.2018",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 28.04.2018",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Lotte",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 28.04.2018",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Halle",
+        "Gastteam": "Magdeburg",
+        "Datum": "Samstag, 28.04.2018",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Meppen",
+        "Datum": "Sonntag, 29.04.2018",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:2"
+    },
+    "8": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Bremen II",
+        "Datum": "Sonntag, 29.04.2018",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Münster",
+        "Datum": "Sonntag, 29.04.2018",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "34",
+    "0": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Magdeburg",
+        "Datum": "Freitag, 13.04.2018",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 14.04.2018",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Paderborn",
+        "Datum": "Samstag, 14.04.2018",
+        "Endergebnis": "0:5",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 14.04.2018",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 14.04.2018",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 14.04.2018",
+        "Endergebnis": "2:4",
+        "Pausenergebnis": "0:2"
+    },
+    "6": {
+        "Heimteam": "Halle",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 14.04.2018",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Zwickau",
+        "Datum": "Sonntag, 15.04.2018",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Rostock",
+        "Datum": "Sonntag, 15.04.2018",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Lotte",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Sonntag, 15.04.2018",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    }
+}

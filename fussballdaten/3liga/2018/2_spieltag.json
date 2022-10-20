@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "2",
+    "0": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Wehen",
+        "Datum": "Freitag, 28.07.2017",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:2"
+    },
+    "1": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Freitag, 28.07.2017",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:2"
+    },
+    "2": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 29.07.2017",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 29.07.2017",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 29.07.2017",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "3:0"
+    },
+    "5": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Lotte",
+        "Datum": "Samstag, 29.07.2017",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Münster",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 29.07.2017",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 29.07.2017",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 29.07.2017",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Bremen II",
+        "Datum": "Sonntag, 30.07.2017",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "3",
+    "0": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Unterhaching",
+        "Datum": "Dienstag, 01.08.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Lotte",
+        "Gastteam": "Paderborn",
+        "Datum": "Dienstag, 01.08.2017",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "2": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Zwickau",
+        "Datum": "Dienstag, 01.08.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Halle",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Dienstag, 01.08.2017",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Rostock",
+        "Datum": "Dienstag, 01.08.2017",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Münster",
+        "Datum": "Mittwoch, 02.08.2017",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Magdeburg",
+        "Datum": "Mittwoch, 02.08.2017",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Mittwoch, 02.08.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Osnabrück",
+        "Datum": "Mittwoch, 02.08.2017",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Aalen",
+        "Datum": "Mittwoch, 02.08.2017",
+        "Endergebnis": "2:4",
+        "Pausenergebnis": "2:4"
+    }
+}

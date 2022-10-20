@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "16",
+    "0": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Aalen",
+        "Datum": "Freitag, 17.11.2017",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:1"
+    },
+    "1": {
+        "Heimteam": "Halle",
+        "Gastteam": "Münster",
+        "Datum": "Freitag, 17.11.2017",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "2": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Rostock",
+        "Datum": "Freitag, 17.11.2017",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Lotte",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 18.11.2017",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 18.11.2017",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Paderborn",
+        "Datum": "Samstag, 18.11.2017",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Magdeburg",
+        "Datum": "Samstag, 18.11.2017",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 18.11.2017",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 18.11.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 18.11.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    }
+}

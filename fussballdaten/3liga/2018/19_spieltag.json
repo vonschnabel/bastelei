@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "19",
+    "0": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Freitag, 08.12.2017",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Lotte",
+        "Datum": "Freitag, 08.12.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "2": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Samstag, 09.12.2017",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 09.12.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 09.12.2017",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:1"
+    },
+    "5": {
+        "Heimteam": "Münster",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 09.12.2017",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "0:2"
+    },
+    "6": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 09.12.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 09.12.2017",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Chemnitz",
+        "Datum": "Sonntag, 10.12.2017",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "9": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Halle",
+        "Datum": "Sonntag, 10.12.2017",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    }
+}

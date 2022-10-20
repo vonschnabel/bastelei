@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "17",
+    "0": {
+        "Heimteam": "Münster",
+        "Gastteam": "Chemnitz",
+        "Datum": "Freitag, 24.11.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Freitag, 24.11.2017",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Großaspach",
+        "Datum": "Freitag, 24.11.2017",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Lotte",
+        "Datum": "Samstag, 25.11.2017",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Samstag, 25.11.2017",
+        "Endergebnis": "5:3",
+        "Pausenergebnis": "2:2"
+    },
+    "5": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 25.11.2017",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 25.11.2017",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 25.11.2017",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 25.11.2017",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "9": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 25.11.2017",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    }
+}

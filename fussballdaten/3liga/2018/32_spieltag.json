@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "32",
+    "0": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 31.03.2018",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Paderborn",
+        "Datum": "Samstag, 31.03.2018",
+        "Endergebnis": "0:5",
+        "Pausenergebnis": "0:2"
+    },
+    "2": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 31.03.2018",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 31.03.2018",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 31.03.2018",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 31.03.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Wehen",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 31.03.2018",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Lotte",
+        "Gastteam": "Bremen II",
+        "Datum": "Sonntag, 01.04.2018",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Halle",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Sonntag, 01.04.2018",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "3:0"
+    },
+    "9": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Magdeburg",
+        "Datum": "Sonntag, 01.04.2018",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    }
+}

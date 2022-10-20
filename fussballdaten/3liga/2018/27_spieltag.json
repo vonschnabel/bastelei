@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "27",
+    "0": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Rostock",
+        "Datum": "Freitag, 02.03.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Lotte",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Freitag, 02.03.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Münster",
+        "Gastteam": "Paderborn",
+        "Datum": "Samstag, 03.03.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 03.03.2018",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:2"
+    },
+    "4": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 03.03.2018",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:2"
+    },
+    "5": {
+        "Heimteam": "Halle",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Sonntag, 04.03.2018",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Wehen",
+        "Datum": "Dienstag, 27.03.2018",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Zwickau",
+        "Datum": "Mittwoch, 28.03.2018",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Osnabrück",
+        "Datum": "Mittwoch, 28.03.2018",
+        "Endergebnis": "4:4",
+        "Pausenergebnis": "2:3"
+    },
+    "9": {
+        "Heimteam": "Meppen",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Mittwoch, 04.04.2018",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    }
+}

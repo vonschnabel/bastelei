@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "5",
+    "0": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Zwickau",
+        "Datum": "Freitag, 18.08.2017",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Freitag, 18.08.2017",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "2:0"
+    },
+    "2": {
+        "Heimteam": "Halle",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 19.08.2017",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Paderborn",
+        "Datum": "Samstag, 19.08.2017",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 19.08.2017",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Münster",
+        "Gastteam": "Magdeburg",
+        "Datum": "Samstag, 19.08.2017",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 19.08.2017",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 19.08.2017",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Lotte",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Sonntag, 20.08.2017",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "2:0"
+    },
+    "9": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Rostock",
+        "Datum": "Sonntag, 20.08.2017",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    }
+}

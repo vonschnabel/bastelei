@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "26",
+    "0": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "Bremen II",
+        "Datum": "Freitag, 23.02.2018",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:1"
+    },
+    "1": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 24.02.2018",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "2": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Lotte",
+        "Datum": "Samstag, 24.02.2018",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 24.02.2018",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 24.02.2018",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Magdeburg",
+        "Datum": "Samstag, 24.02.2018",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 24.02.2018",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 24.02.2018",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Sonntag, 25.02.2018",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Chemnitz",
+        "Datum": "Sonntag, 25.02.2018",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    }
+}

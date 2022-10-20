@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "9",
+    "0": {
+        "Heimteam": "Lotte",
+        "Gastteam": "Wehen",
+        "Datum": "Dienstag, 19.09.2017",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Dienstag, 19.09.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Paderborn",
+        "Datum": "Dienstag, 19.09.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Zwickau",
+        "Datum": "Dienstag, 19.09.2017",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Halle",
+        "Datum": "Dienstag, 19.09.2017",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Osnabrück",
+        "Datum": "Mittwoch, 20.09.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Münster",
+        "Gastteam": "Aalen",
+        "Datum": "Mittwoch, 20.09.2017",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Mittwoch, 20.09.2017",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:2"
+    },
+    "8": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Unterhaching",
+        "Datum": "Mittwoch, 20.09.2017",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Fortuna Köln",
+        "Datum": "Mittwoch, 20.09.2017",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "12",
+    "0": {
+        "Heimteam": "Halle",
+        "Gastteam": "Großaspach",
+        "Datum": "Freitag, 13.10.2017",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Magdeburg",
+        "Datum": "Freitag, 13.10.2017",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "2": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Freitag, 13.10.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 14.10.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 14.10.2017",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Paderborn",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 14.10.2017",
+        "Endergebnis": "7:1",
+        "Pausenergebnis": "5:0"
+    },
+    "6": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Lotte",
+        "Datum": "Samstag, 14.10.2017",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 14.10.2017",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 14.10.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 14.10.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    }
+}

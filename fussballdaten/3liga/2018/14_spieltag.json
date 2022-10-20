@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "14",
+    "0": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Freitag, 27.10.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Rostock",
+        "Datum": "Freitag, 27.10.2017",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Lotte",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 28.10.2017",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "3": {
+        "Heimteam": "Fortuna Köln",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 28.10.2017",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 28.10.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 28.10.2017",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "2:0"
+    },
+    "6": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Paderborn",
+        "Datum": "Samstag, 28.10.2017",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Halle",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 28.10.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Magdeburg",
+        "Datum": "Sonntag, 29.10.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Münster",
+        "Datum": "Sonntag, 29.10.2017",
+        "Endergebnis": "6:2",
+        "Pausenergebnis": "4:1"
+    }
+}
