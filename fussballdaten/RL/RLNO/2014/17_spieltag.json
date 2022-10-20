@@ -1,0 +1,60 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "17",
+    "0": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Halberstadt",
+        "Datum": "Freitag, 21.02.2014",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Plauen",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 22.02.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Samstag, 22.02.2014",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 22.02.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Auerbach",
+        "Datum": "Samstag, 22.02.2014",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Samstag, 22.02.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "Union II",
+        "Datum": "Sonntag, 23.02.2014",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:1"
+    },
+    "7": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "Rathenow",
+        "Datum": "Sonntag, 23.02.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    }
+}

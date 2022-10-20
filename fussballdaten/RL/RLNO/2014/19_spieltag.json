@@ -1,0 +1,60 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "19",
+    "0": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Freitag, 07.03.2014",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Union II",
+        "Datum": "Samstag, 08.03.2014",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 08.03.2014",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Sonntag, 09.03.2014",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:2"
+    },
+    "4": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Halberstadt",
+        "Datum": "Sonntag, 09.03.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Auerbach",
+        "Datum": "Sonntag, 09.03.2014",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Plauen",
+        "Gastteam": "Neustrelitz",
+        "Datum": "Sonntag, 09.03.2014",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "3:0"
+    },
+    "7": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "Rathenow",
+        "Datum": "Sonntag, 09.03.2014",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "1:1"
+    }
+}

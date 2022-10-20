@@ -1,0 +1,60 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "29",
+    "0": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Samstag, 17.05.2014",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "HBSC II",
+        "Datum": "Samstag, 17.05.2014",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Magdeburg",
+        "Datum": "Samstag, 17.05.2014",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Samstag, 17.05.2014",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Nordhausen",
+        "Datum": "Samstag, 17.05.2014",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "2:0"
+    },
+    "5": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Plauen",
+        "Datum": "Samstag, 17.05.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Neustrelitz",
+        "Datum": "Samstag, 17.05.2014",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:2"
+    },
+    "7": {
+        "Heimteam": "Union II",
+        "Gastteam": "Rathenow",
+        "Datum": "Samstag, 17.05.2014",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    }
+}

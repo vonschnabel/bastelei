@@ -1,0 +1,60 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "10",
+    "0": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Zwickau",
+        "Datum": "Sonntag, 13.10.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Samstag, 19.10.2013",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "Auerbach",
+        "Datum": "Samstag, 19.10.2013",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Union II",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Sonntag, 20.10.2013",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Sonntag, 20.10.2013",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Magdeburg",
+        "Datum": "Sonntag, 20.10.2013",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 20.10.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Plauen",
+        "Gastteam": "Babelsberg",
+        "Datum": "Sonntag, 20.10.2013",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:0"
+    }
+}

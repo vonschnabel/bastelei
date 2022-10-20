@@ -1,0 +1,60 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "3",
+    "0": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Union II",
+        "Datum": "Freitag, 16.08.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Auerbach",
+        "Datum": "Freitag, 16.08.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Neustrelitz",
+        "Datum": "Samstag, 17.08.2013",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Samstag, 17.08.2013",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:3"
+    },
+    "4": {
+        "Heimteam": "Plauen",
+        "Gastteam": "Rathenow",
+        "Datum": "Samstag, 17.08.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Halberstadt",
+        "Datum": "Sonntag, 18.08.2013",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Sonntag, 18.08.2013",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Zwickau",
+        "Datum": "Sonntag, 18.08.2013",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    }
+}

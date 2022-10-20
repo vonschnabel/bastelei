@@ -1,0 +1,60 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "28",
+    "0": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Freitag, 09.05.2014",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Union II",
+        "Datum": "Samstag, 10.05.2014",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Plauen",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 10.05.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "3": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "Halberstadt",
+        "Datum": "Sonntag, 11.05.2014",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Sonntag, 11.05.2014",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "Auerbach",
+        "Datum": "Sonntag, 11.05.2014",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Sonntag, 11.05.2014",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:1"
+    },
+    "7": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Babelsberg",
+        "Datum": "Sonntag, 11.05.2014",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    }
+}

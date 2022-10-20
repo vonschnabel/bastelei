@@ -1,0 +1,60 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "20",
+    "0": {
+        "Heimteam": "Plauen",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Freitag, 14.03.2014",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Samstag, 15.03.2014",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "Nordhausen",
+        "Datum": "Samstag, 15.03.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Union II",
+        "Gastteam": "HBSC II",
+        "Datum": "Samstag, 15.03.2014",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "0:2"
+    },
+    "4": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Auerbach",
+        "Datum": "Sonntag, 16.03.2014",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Sonntag, 16.03.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Babelsberg",
+        "Datum": "Sonntag, 16.03.2014",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Magdeburg",
+        "Datum": "Sonntag, 16.03.2014",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "1:2"
+    }
+}
