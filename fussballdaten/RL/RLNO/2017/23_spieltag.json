@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "23",
+    "0": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Nordhausen",
+        "Datum": "Samstag, 04.03.2017",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Cottbus",
+        "Datum": "Sonntag, 05.03.2017",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 05.03.2017",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Neustrelitz",
+        "Datum": "Sonntag, 05.03.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Bautzen",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Sonntag, 05.03.2017",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "0:2"
+    },
+    "5": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Sonntag, 05.03.2017",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "2:2"
+    },
+    "6": {
+        "Heimteam": "Schönberg",
+        "Gastteam": "Oberlausitz",
+        "Datum": "Sonntag, 05.03.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Luckenwalde",
+        "Datum": "Sonntag, 05.03.2017",
+        "Endergebnis": "5:2",
+        "Pausenergebnis": "2:1"
+    },
+    "8": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Sonntag, 05.03.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    }
+}

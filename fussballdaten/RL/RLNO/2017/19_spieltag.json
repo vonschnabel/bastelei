@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "19",
+    "0": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "Cottbus",
+        "Datum": "Donnerstag, 02.02.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 04.02.2017",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Schönberg",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 05.02.2017",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Oberlausitz",
+        "Gastteam": "Nordhausen",
+        "Datum": "Sonntag, 05.02.2017",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Bautzen",
+        "Datum": "Sonntag, 05.02.2017",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:2"
+    },
+    "5": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Neustrelitz",
+        "Datum": "Dienstag, 21.02.2017",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Luckenwalde",
+        "Datum": "Dienstag, 21.03.2017",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Mittwoch, 05.04.2017",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Mittwoch, 12.04.2017",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    }
+}

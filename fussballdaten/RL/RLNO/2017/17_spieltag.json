@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "17",
+    "0": {
+        "Heimteam": "Bautzen",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Freitag, 09.12.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Oberlausitz",
+        "Datum": "Samstag, 10.12.2016",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "2": {
+        "Heimteam": "Luckenwalde",
+        "Gastteam": "Nordhausen",
+        "Datum": "Samstag, 10.12.2016",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "RB Leipzig",
+        "Datum": "Sonntag, 11.12.2016",
+        "Endergebnis": "3:5",
+        "Pausenergebnis": "1:3"
+    },
+    "4": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Babelsberg",
+        "Datum": "Sonntag, 11.12.2016",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Sonntag, 11.12.2016",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:2"
+    },
+    "6": {
+        "Heimteam": "Fürstenwalde",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Sonntag, 11.12.2016",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "Schönberg",
+        "Datum": "Sonntag, 11.12.2016",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Sonntag, 11.12.2016",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    }
+}

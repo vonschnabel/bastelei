@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "12",
+    "0": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Freitag, 28.10.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Luckenwalde",
+        "Gastteam": "Neustrelitz",
+        "Datum": "Freitag, 28.10.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "Auerbach",
+        "Datum": "Freitag, 28.10.2016",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Samstag, 29.10.2016",
+        "Endergebnis": "3:3",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Samstag, 29.10.2016",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Schönberg",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Sonntag, 30.10.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Babelsberg",
+        "Datum": "Sonntag, 30.10.2016",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Bautzen",
+        "Datum": "Sonntag, 30.10.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Oberlausitz",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Sonntag, 30.10.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    }
+}

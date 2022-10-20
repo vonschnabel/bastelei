@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "20",
+    "0": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Bautzen",
+        "Datum": "Samstag, 11.02.2017",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Schönberg",
+        "Datum": "Samstag, 11.02.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Oberlausitz",
+        "Gastteam": "Babelsberg",
+        "Datum": "Sonntag, 12.02.2017",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Luckenwalde",
+        "Gastteam": "RB Leipzig",
+        "Datum": "Sonntag, 12.02.2017",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "0:2"
+    },
+    "4": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Sonntag, 12.02.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Mittwoch, 15.03.2017",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Mittwoch, 22.03.2017",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:1"
+    },
+    "7": {
+        "Heimteam": "Fürstenwalde",
+        "Gastteam": "Auerbach",
+        "Datum": "Sonntag, 26.03.2017",
+        "Endergebnis": "0:6",
+        "Pausenergebnis": "0:3"
+    },
+    "8": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Mittwoch, 26.04.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "9",
+    "0": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Freitag, 30.09.2016",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:3"
+    },
+    "1": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Schönberg",
+        "Datum": "Freitag, 30.09.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Nordhausen",
+        "Datum": "Freitag, 30.09.2016",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Bautzen",
+        "Gastteam": "Luckenwalde",
+        "Datum": "Sonntag, 02.10.2016",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Oberlausitz",
+        "Datum": "Sonntag, 02.10.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "RB Leipzig",
+        "Datum": "Sonntag, 02.10.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Fürstenwalde",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 02.10.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Cottbus",
+        "Datum": "Sonntag, 02.10.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Sonntag, 02.10.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

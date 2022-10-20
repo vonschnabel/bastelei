@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "3",
+    "0": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "Luckenwalde",
+        "Datum": "Mittwoch, 10.08.2016",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Neustrelitz",
+        "Datum": "Mittwoch, 10.08.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Mittwoch, 10.08.2016",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Bautzen",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Mittwoch, 10.08.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Mittwoch, 10.08.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Nordhausen",
+        "Datum": "Mittwoch, 10.08.2016",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Oberlausitz",
+        "Datum": "Mittwoch, 10.08.2016",
+        "Endergebnis": "5:2",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 21.08.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Schönberg",
+        "Gastteam": "Cottbus",
+        "Datum": "Sonntag, 04.09.2016",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    }
+}

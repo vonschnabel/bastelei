@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "32",
+    "0": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Freitag, 05.05.2017",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Neustrelitz",
+        "Datum": "Freitag, 05.05.2017",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "3:0"
+    },
+    "2": {
+        "Heimteam": "Oberlausitz",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Sonntag, 07.05.2017",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Schönberg",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Sonntag, 07.05.2017",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Auerbach",
+        "Datum": "Sonntag, 07.05.2017",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 07.05.2017",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:0"
+    },
+    "6": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Babelsberg",
+        "Datum": "Sonntag, 07.05.2017",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "7": {
+        "Heimteam": "Luckenwalde",
+        "Gastteam": "Cottbus",
+        "Datum": "Sonntag, 07.05.2017",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    },
+    "8": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Bautzen",
+        "Datum": "Sonntag, 07.05.2017",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    }
+}
