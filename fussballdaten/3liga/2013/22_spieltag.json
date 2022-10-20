@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "22",
+    "0": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 15.12.2012",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 15.12.2012",
+        "Endergebnis": "1:5",
+        "Pausenergebnis": "1:2"
+    },
+    "2": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 15.12.2012",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "3": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 15.12.2012",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 15.12.2012",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Münster",
+        "Gastteam": "Darmstadt",
+        "Datum": "Samstag, 15.12.2012",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Aachen",
+        "Datum": "Mittwoch, 30.01.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Wehen",
+        "Datum": "Dienstag, 12.02.2013",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "8": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Bielefeld",
+        "Datum": "Mittwoch, 20.02.2013",
+        "Endergebnis": "2:4",
+        "Pausenergebnis": "1:2"
+    },
+    "9": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Rostock",
+        "Datum": "Dienstag, 16.04.2013",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:1"
+    }
+}

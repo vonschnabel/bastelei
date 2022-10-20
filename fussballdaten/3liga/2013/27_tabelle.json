@@ -1,0 +1,164 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "27",
+    "0": {
+        "Tabellenplatz": "1",
+        "Teamname": "Osnabrück",
+        "Spiel": "27",
+        "Tore": "45:20",
+        "Tordifferenz": "25",
+        "Punkte": "56"
+    },
+    "1": {
+        "Tabellenplatz": "2",
+        "Teamname": "Karlsruhe",
+        "Spiel": "27",
+        "Tore": "47:16",
+        "Tordifferenz": "31",
+        "Punkte": "54"
+    },
+    "2": {
+        "Tabellenplatz": "3",
+        "Teamname": "Münster",
+        "Spiel": "27",
+        "Tore": "44:20",
+        "Tordifferenz": "24",
+        "Punkte": "53"
+    },
+    "3": {
+        "Tabellenplatz": "4",
+        "Teamname": "Bielefeld",
+        "Spiel": "27",
+        "Tore": "46:25",
+        "Tordifferenz": "21",
+        "Punkte": "53"
+    },
+    "4": {
+        "Tabellenplatz": "5",
+        "Teamname": "Heidenheim",
+        "Spiel": "27",
+        "Tore": "51:38",
+        "Tordifferenz": "13",
+        "Punkte": "49"
+    },
+    "5": {
+        "Tabellenplatz": "6",
+        "Teamname": "Unterhaching",
+        "Spiel": "27",
+        "Tore": "38:38",
+        "Tordifferenz": "0",
+        "Punkte": "40"
+    },
+    "6": {
+        "Tabellenplatz": "7",
+        "Teamname": "Chemnitz",
+        "Spiel": "27",
+        "Tore": "37:34",
+        "Tordifferenz": "3",
+        "Punkte": "38"
+    },
+    "7": {
+        "Tabellenplatz": "8",
+        "Teamname": "Burghausen",
+        "Spiel": "27",
+        "Tore": "33:34",
+        "Tordifferenz": "-1",
+        "Punkte": "38"
+    },
+    "8": {
+        "Tabellenplatz": "9",
+        "Teamname": "Stuttgart II",
+        "Spiel": "27",
+        "Tore": "29:29",
+        "Tordifferenz": "0",
+        "Punkte": "37"
+    },
+    "9": {
+        "Tabellenplatz": "10",
+        "Teamname": "Wehen",
+        "Spiel": "27",
+        "Tore": "31:33",
+        "Tordifferenz": "-2",
+        "Punkte": "33"
+    },
+    "10": {
+        "Tabellenplatz": "11",
+        "Teamname": "Rostock",
+        "Spiel": "27",
+        "Tore": "26:35",
+        "Tordifferenz": "-9",
+        "Punkte": "33"
+    },
+    "11": {
+        "Tabellenplatz": "12",
+        "Teamname": "Halle",
+        "Spiel": "27",
+        "Tore": "25:36",
+        "Tordifferenz": "-11",
+        "Punkte": "31"
+    },
+    "12": {
+        "Tabellenplatz": "13",
+        "Teamname": "Offenbach",
+        "Spiel": "27",
+        "Tore": "34:34",
+        "Tordifferenz": "0",
+        "Punkte": "30"
+    },
+    "13": {
+        "Tabellenplatz": "14",
+        "Teamname": "St. Kickers",
+        "Spiel": "27",
+        "Tore": "29:33",
+        "Tordifferenz": "-4",
+        "Punkte": "28"
+    },
+    "14": {
+        "Tabellenplatz": "15",
+        "Teamname": "Babelsberg",
+        "Spiel": "27",
+        "Tore": "21:34",
+        "Tordifferenz": "-13",
+        "Punkte": "28"
+    },
+    "15": {
+        "Tabellenplatz": "16",
+        "Teamname": "RW Erfurt",
+        "Spiel": "27",
+        "Tore": "34:48",
+        "Tordifferenz": "-14",
+        "Punkte": "28"
+    },
+    "16": {
+        "Tabellenplatz": "17",
+        "Teamname": "Saarbrücken",
+        "Spiel": "27",
+        "Tore": "34:48",
+        "Tordifferenz": "-14",
+        "Punkte": "27"
+    },
+    "17": {
+        "Tabellenplatz": "18",
+        "Teamname": "Dortmund II",
+        "Spiel": "27",
+        "Tore": "28:47",
+        "Tordifferenz": "-19",
+        "Punkte": "25"
+    },
+    "18": {
+        "Tabellenplatz": "19",
+        "Teamname": "Darmstadt",
+        "Spiel": "27",
+        "Tore": "20:37",
+        "Tordifferenz": "-17",
+        "Punkte": "23"
+    },
+    "19": {
+        "Tabellenplatz": "20",
+        "Teamname": "Aachen",
+        "Spiel": "27",
+        "Tore": "27:40",
+        "Tordifferenz": "-13",
+        "Punkte": "22"
+    }
+}

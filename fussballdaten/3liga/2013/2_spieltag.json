@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "2",
+    "0": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Darmstadt",
+        "Datum": "Samstag, 28.07.2012",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 28.07.2012",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 28.07.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 28.07.2012",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:3"
+    },
+    "4": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 28.07.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 28.07.2012",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 28.07.2012",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Bielefeld",
+        "Datum": "Samstag, 28.07.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Aachen",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 28.07.2012",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:0"
+    },
+    "9": {
+        "Heimteam": "Münster",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 28.07.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    }
+}

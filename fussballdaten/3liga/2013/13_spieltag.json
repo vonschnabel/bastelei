@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "13",
+    "0": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Wehen",
+        "Datum": "Freitag, 05.10.2012",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 06.10.2012",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 06.10.2012",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 06.10.2012",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 06.10.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 06.10.2012",
+        "Endergebnis": "5:2",
+        "Pausenergebnis": "1:2"
+    },
+    "6": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 06.10.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Aachen",
+        "Gastteam": "Darmstadt",
+        "Datum": "Samstag, 06.10.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 06.10.2012",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Chemnitz",
+        "Datum": "Sonntag, 07.10.2012",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    }
+}

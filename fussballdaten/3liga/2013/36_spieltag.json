@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "36",
+    "0": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Bielefeld",
+        "Datum": "Freitag, 03.05.2013",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Freitag, 03.05.2013",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "2": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 04.05.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 04.05.2013",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:1"
+    },
+    "4": {
+        "Heimteam": "Münster",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 04.05.2013",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 04.05.2013",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 04.05.2013",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 04.05.2013",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Halle",
+        "Gastteam": "Aachen",
+        "Datum": "Samstag, 04.05.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Sonntag, 05.05.2013",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "1",
+    "0": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Aachen",
+        "Datum": "Freitag, 20.07.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 21.07.2012",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "2": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 21.07.2012",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Halle",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 21.07.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Wehen",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 21.07.2012",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Rostock",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 21.07.2012",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 21.07.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 21.07.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 21.07.2012",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Samstag, 21.07.2012",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:2"
+    }
+}

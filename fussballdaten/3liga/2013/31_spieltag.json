@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "31",
+    "0": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 30.03.2013",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 30.03.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 30.03.2013",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 30.03.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 30.03.2013",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Darmstadt",
+        "Datum": "Samstag, 30.03.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Aachen",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 30.03.2013",
+        "Endergebnis": "1:5",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 30.03.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Wehen",
+        "Datum": "Sonntag, 31.03.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Halle",
+        "Gastteam": "Heidenheim",
+        "Datum": "Dienstag, 16.04.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

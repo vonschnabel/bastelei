@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "10",
+    "0": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Heidenheim",
+        "Datum": "Freitag, 21.09.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Aachen",
+        "Datum": "Samstag, 22.09.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 22.09.2012",
+        "Endergebnis": "4:3",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 22.09.2012",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    },
+    "4": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 22.09.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 22.09.2012",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 22.09.2012",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 22.09.2012",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Münster",
+        "Gastteam": "Bielefeld",
+        "Datum": "Samstag, 22.09.2012",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 22.09.2012",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    }
+}

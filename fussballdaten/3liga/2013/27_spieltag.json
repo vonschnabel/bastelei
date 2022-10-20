@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "27",
+    "0": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Rostock",
+        "Datum": "Freitag, 22.02.2013",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 23.02.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 23.02.2013",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Aachen",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 23.02.2013",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Samstag, 23.02.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Darmstadt",
+        "Datum": "Samstag, 23.02.2013",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Halle",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 23.02.2013",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Offenbach",
+        "Datum": "Dienstag, 26.03.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Münster",
+        "Datum": "Dienstag, 16.04.2013",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Dienstag, 07.05.2013",
+        "Endergebnis": "4:3",
+        "Pausenergebnis": "1:1"
+    }
+}

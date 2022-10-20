@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "26",
+    "0": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 16.02.2013",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "1": {
+        "Heimteam": "Münster",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 16.02.2013",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 16.02.2013",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 16.02.2013",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 16.02.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Wehen",
+        "Datum": "Sonntag, 17.02.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Burghausen",
+        "Datum": "Mittwoch, 06.03.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Bielefeld",
+        "Datum": "Samstag, 23.03.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Mittwoch, 10.04.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Aachen",
+        "Datum": "Dienstag, 16.04.2013",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "3:0"
+    }
+}

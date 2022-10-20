@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "4",
+    "0": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Wehen",
+        "Datum": "Dienstag, 07.08.2012",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:2"
+    },
+    "1": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Heidenheim",
+        "Datum": "Dienstag, 07.08.2012",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Dienstag, 07.08.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Aachen",
+        "Datum": "Dienstag, 07.08.2012",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Burghausen",
+        "Datum": "Dienstag, 07.08.2012",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "5": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Halle",
+        "Datum": "Mittwoch, 08.08.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Osnabrück",
+        "Datum": "Mittwoch, 08.08.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Bielefeld",
+        "Datum": "Mittwoch, 08.08.2012",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:2"
+    },
+    "8": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Darmstadt",
+        "Datum": "Mittwoch, 08.08.2012",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "9": {
+        "Heimteam": "Münster",
+        "Gastteam": "Rostock",
+        "Datum": "Mittwoch, 08.08.2012",
+        "Endergebnis": "5:2",
+        "Pausenergebnis": "2:2"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "37",
+    "0": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 11.05.2013",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 11.05.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Aachen",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 11.05.2013",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 11.05.2013",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 11.05.2013",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    },
+    "5": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 11.05.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 11.05.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Darmstadt",
+        "Datum": "Samstag, 11.05.2013",
+        "Endergebnis": "2:4",
+        "Pausenergebnis": "2:2"
+    },
+    "8": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 11.05.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 11.05.2013",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    }
+}

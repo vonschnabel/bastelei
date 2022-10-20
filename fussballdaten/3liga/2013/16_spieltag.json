@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "16",
+    "0": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Burghausen",
+        "Datum": "Freitag, 02.11.2012",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Aachen",
+        "Datum": "Freitag, 02.11.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 03.11.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 03.11.2012",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Halle",
+        "Gastteam": "Bielefeld",
+        "Datum": "Samstag, 03.11.2012",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:2"
+    },
+    "5": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 03.11.2012",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 03.11.2012",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 03.11.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Samstag, 03.11.2012",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    },
+    "9": {
+        "Heimteam": "Münster",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 03.11.2012",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:1"
+    }
+}

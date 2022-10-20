@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "15",
+    "0": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 27.10.2012",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 27.10.2012",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 27.10.2012",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 27.10.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Darmstadt",
+        "Datum": "Samstag, 27.10.2012",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:1"
+    },
+    "5": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 27.10.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Aachen",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 27.10.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 27.10.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Unterhaching",
+        "Datum": "Dienstag, 13.11.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Babelsberg",
+        "Datum": "Dienstag, 13.11.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    }
+}

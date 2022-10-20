@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "20",
+    "0": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Darmstadt",
+        "Datum": "Freitag, 30.11.2012",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Aachen",
+        "Gastteam": "Bielefeld",
+        "Datum": "Samstag, 01.12.2012",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Münster",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 01.12.2012",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 01.12.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 01.12.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 01.12.2012",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 01.12.2012",
+        "Endergebnis": "5:2",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 01.12.2012",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 01.12.2012",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 01.12.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    }
+}

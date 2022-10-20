@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "21",
+    "0": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 08.12.2012",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Halle",
+        "Gastteam": "Karlsruhe",
+        "Datum": "Samstag, 08.12.2012",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 08.12.2012",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 08.12.2012",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "1:2"
+    },
+    "4": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Münster",
+        "Datum": "Sonntag, 09.12.2012",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:0"
+    },
+    "5": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Mittwoch, 30.01.2013",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Wehen",
+        "Gastteam": "St. Kickers",
+        "Datum": "Mittwoch, 30.01.2013",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Offenbach",
+        "Datum": "Dienstag, 05.02.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Babelsberg",
+        "Datum": "Mittwoch, 13.02.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Aachen",
+        "Datum": "Samstag, 23.03.2013",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    }
+}

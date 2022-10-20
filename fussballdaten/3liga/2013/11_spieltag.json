@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "11",
+    "0": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Rostock",
+        "Datum": "Dienstag, 25.09.2012",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Halle",
+        "Gastteam": "Wehen",
+        "Datum": "Dienstag, 25.09.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Babelsberg",
+        "Datum": "Dienstag, 25.09.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Aachen",
+        "Gastteam": "Münster",
+        "Datum": "Dienstag, 25.09.2012",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Chemnitz",
+        "Datum": "Dienstag, 25.09.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Heidenheim",
+        "Datum": "Mittwoch, 26.09.2012",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:0"
+    },
+    "6": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Darmstadt",
+        "Datum": "Mittwoch, 26.09.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Mittwoch, 26.09.2012",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "St. Kickers",
+        "Datum": "Mittwoch, 26.09.2012",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Unterhaching",
+        "Datum": "Mittwoch, 26.09.2012",
+        "Endergebnis": "2:4",
+        "Pausenergebnis": "1:2"
+    }
+}

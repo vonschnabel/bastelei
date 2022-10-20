@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "19",
+    "0": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Chemnitz",
+        "Datum": "Freitag, 23.11.2012",
+        "Endergebnis": "4:3",
+        "Pausenergebnis": "3:1"
+    },
+    "1": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 24.11.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Darmstadt",
+        "Datum": "Samstag, 24.11.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 24.11.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Karlsruhe",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 24.11.2012",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 24.11.2012",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 24.11.2012",
+        "Endergebnis": "5:0",
+        "Pausenergebnis": "3:0"
+    },
+    "7": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 24.11.2012",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Aachen",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 24.11.2012",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 24.11.2012",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    }
+}
