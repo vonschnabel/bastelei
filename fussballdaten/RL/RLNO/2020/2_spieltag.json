@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "2",
+    "0": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Cottbus",
+        "Datum": "Dienstag, 30.07.2019",
+        "Endergebnis": "5:2",
+        "Pausenergebnis": "2:2"
+    },
+    "1": {
+        "Heimteam": "Altglienicke",
+        "Gastteam": "Auerbach",
+        "Datum": "Dienstag, 30.07.2019",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:0"
+    },
+    "2": {
+        "Heimteam": "Fürstenwalde",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Mittwoch, 31.07.2019",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "3": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Mittwoch, 31.07.2019",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Bischofswerd",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Mittwoch, 31.07.2019",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Mittwoch, 31.07.2019",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Mittwoch, 31.07.2019",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Lichtenberg",
+        "Gastteam": "Rathenow",
+        "Datum": "Dienstag, 10.09.2019",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Nordhausen",
+        "Datum": "Mittwoch, 11.09.2019",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    }
+}

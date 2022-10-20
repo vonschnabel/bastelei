@@ -1,0 +1,123 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "20",
+    "0": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Freitag, 31.01.2020",
+        "Endergebnis": "1:5",
+        "Pausenergebnis": "0:2"
+    },
+    "1": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Samstag, 01.02.2020",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Altglienicke",
+        "Gastteam": "Rathenow",
+        "Datum": "Samstag, 01.02.2020",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 01.02.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "abgesagt"
+    },
+    "4": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 02.02.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "-:-"
+    },
+    "5": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Altglienicke",
+        "Datum": "Sonntag, 02.02.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "-:-"
+    },
+    "6": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Halberstadt",
+        "Datum": "Sonntag, 02.02.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "-:-"
+    },
+    "7": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Sonntag, 02.02.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "-:-"
+    },
+    "8": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "Bischofswerd",
+        "Datum": "Sonntag, 02.02.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "-:-"
+    },
+    "9": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Babelsberg",
+        "Datum": "Sonntag, 02.02.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "-:-"
+    },
+    "10": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Sonntag, 02.02.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "-:-"
+    },
+    "11": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Sonntag, 02.02.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "-:-"
+    },
+    "12": {
+        "Heimteam": "Fürstenwalde",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Sonntag, 02.02.2020",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "13": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Auerbach",
+        "Datum": "Sonntag, 02.02.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "14": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "BSG Chemie",
+        "Datum": "Sonntag, 02.02.2020",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "15": {
+        "Heimteam": "Lichtenberg",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Mittwoch, 11.03.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "abbruch"
+    },
+    "16": {
+        "Heimteam": "Bischofswerd",
+        "Gastteam": "Nordhausen",
+        "Datum": "Mittwoch, 11.03.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "abbruch"
+    }
+}

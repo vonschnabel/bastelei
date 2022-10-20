@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "25",
+    "0": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "Altglienicke",
+        "Datum": "Samstag, 07.03.2020",
+        "Endergebnis": "2:4",
+        "Pausenergebnis": "0:2"
+    },
+    "1": {
+        "Heimteam": "Bischofswerd",
+        "Gastteam": "Halberstadt",
+        "Datum": "Samstag, 07.03.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "abbruch"
+    },
+    "2": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "Auerbach",
+        "Datum": "Samstag, 07.03.2020",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Lichtenberg",
+        "Datum": "Samstag, 07.03.2020",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Sonntag, 08.03.2020",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Cottbus",
+        "Datum": "Sonntag, 08.03.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Sonntag, 08.03.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "abbruch"
+    },
+    "7": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Sonntag, 08.03.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "-:-"
+    },
+    "8": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "HBSC II",
+        "Datum": "Samstag, 28.03.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "abbruch"
+    }
+}

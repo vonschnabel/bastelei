@@ -1,0 +1,74 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "13",
+    "0": {
+        "Heimteam": "Lichtenberg",
+        "Gastteam": "HBSC II",
+        "Datum": "Samstag, 31.10.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Samstag, 31.10.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "verschoben"
+    },
+    "2": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Samstag, 31.10.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "verschoben"
+    },
+    "3": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "Chemnitz",
+        "Datum": "Sonntag, 01.11.2020",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Luckenwalde",
+        "Datum": "Sonntag, 01.11.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "Bischofswerd",
+        "Datum": "Sonntag, 01.11.2020",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Babelsberg",
+        "Datum": "Sonntag, 01.11.2020",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Sonntag, 01.11.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Altglienicke",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Sonntag, 01.11.2020",
+        "Endergebnis": "5:2",
+        "Pausenergebnis": "4:1"
+    },
+    "9": {
+        "Heimteam": "TB Berlin",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Sonntag, 01.11.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "verschoben"
+    }
+}

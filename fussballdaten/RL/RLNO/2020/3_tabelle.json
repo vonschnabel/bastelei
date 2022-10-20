@@ -1,0 +1,148 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "3",
+    "0": {
+        "Tabellenplatz": "1",
+        "Teamname": "Berliner AK 07",
+        "Spiel": "3",
+        "Tore": "8:3",
+        "Tordifferenz": "5",
+        "Punkte": "9"
+    },
+    "1": {
+        "Tabellenplatz": "2",
+        "Teamname": "BFC Dynamo",
+        "Spiel": "3",
+        "Tore": "5:1",
+        "Tordifferenz": "4",
+        "Punkte": "9"
+    },
+    "2": {
+        "Tabellenplatz": "3",
+        "Teamname": "Lok Leipzig",
+        "Spiel": "3",
+        "Tore": "6:3",
+        "Tordifferenz": "3",
+        "Punkte": "7"
+    },
+    "3": {
+        "Tabellenplatz": "4",
+        "Teamname": "HBSC II",
+        "Spiel": "3",
+        "Tore": "11:5",
+        "Tordifferenz": "6",
+        "Punkte": "6"
+    },
+    "4": {
+        "Tabellenplatz": "5",
+        "Teamname": "Cottbus",
+        "Spiel": "3",
+        "Tore": "10:9",
+        "Tordifferenz": "1",
+        "Punkte": "6"
+    },
+    "5": {
+        "Tabellenplatz": "6",
+        "Teamname": "Nordhausen",
+        "Spiel": "3",
+        "Tore": "10:2",
+        "Tordifferenz": "8",
+        "Punkte": "5"
+    },
+    "6": {
+        "Tabellenplatz": "7",
+        "Teamname": "Meuselwitz",
+        "Spiel": "3",
+        "Tore": "5:3",
+        "Tordifferenz": "2",
+        "Punkte": "5"
+    },
+    "7": {
+        "Tabellenplatz": "8",
+        "Teamname": "Altglienicke",
+        "Spiel": "3",
+        "Tore": "6:5",
+        "Tordifferenz": "1",
+        "Punkte": "4"
+    },
+    "8": {
+        "Tabellenplatz": "9",
+        "Teamname": "Halberstadt",
+        "Spiel": "3",
+        "Tore": "6:5",
+        "Tordifferenz": "1",
+        "Punkte": "4"
+    },
+    "9": {
+        "Tabellenplatz": "10",
+        "Teamname": "Viktoria 89",
+        "Spiel": "3",
+        "Tore": "2:2",
+        "Tordifferenz": "0",
+        "Punkte": "4"
+    },
+    "10": {
+        "Tabellenplatz": "11",
+        "Teamname": "Rathenow",
+        "Spiel": "3",
+        "Tore": "3:4",
+        "Tordifferenz": "-1",
+        "Punkte": "4"
+    },
+    "11": {
+        "Tabellenplatz": "12",
+        "Teamname": "BSG Chemie",
+        "Spiel": "3",
+        "Tore": "1:1",
+        "Tordifferenz": "0",
+        "Punkte": "3"
+    },
+    "12": {
+        "Tabellenplatz": "13",
+        "Teamname": "Lichtenberg",
+        "Spiel": "3",
+        "Tore": "1:3",
+        "Tordifferenz": "-2",
+        "Punkte": "3"
+    },
+    "13": {
+        "Tabellenplatz": "14",
+        "Teamname": "Babelsberg",
+        "Spiel": "3",
+        "Tore": "4:6",
+        "Tordifferenz": "-2",
+        "Punkte": "2"
+    },
+    "14": {
+        "Tabellenplatz": "15",
+        "Teamname": "Fürstenwalde",
+        "Spiel": "3",
+        "Tore": "1:4",
+        "Tordifferenz": "-3",
+        "Punkte": "1"
+    },
+    "15": {
+        "Tabellenplatz": "16",
+        "Teamname": "RW Erfurt",
+        "Spiel": "3",
+        "Tore": "5:9",
+        "Tordifferenz": "-4",
+        "Punkte": "1"
+    },
+    "16": {
+        "Tabellenplatz": "17",
+        "Teamname": "Auerbach",
+        "Spiel": "3",
+        "Tore": "2:10",
+        "Tordifferenz": "-8",
+        "Punkte": "0"
+    },
+    "17": {
+        "Tabellenplatz": "18",
+        "Teamname": "Bischofswerd",
+        "Spiel": "3",
+        "Tore": "2:13",
+        "Tordifferenz": "-11",
+        "Punkte": "0"
+    }
+}

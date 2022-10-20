@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "4",
+    "0": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Freitag, 16.08.2019",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Auerbach",
+        "Datum": "Freitag, 16.08.2019",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Altglienicke",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Samstag, 17.08.2019",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Samstag, 17.08.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Lichtenberg",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Samstag, 17.08.2019",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 17.08.2019",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Rathenow",
+        "Datum": "Sonntag, 18.08.2019",
+        "Endergebnis": "6:0",
+        "Pausenergebnis": "4:0"
+    },
+    "7": {
+        "Heimteam": "Fürstenwalde",
+        "Gastteam": "Nordhausen",
+        "Datum": "Sonntag, 18.08.2019",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Bischofswerd",
+        "Gastteam": "BSG Chemie",
+        "Datum": "Sonntag, 18.08.2019",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "16",
+    "0": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Freitag, 22.11.2019",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 23.11.2019",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:2"
+    },
+    "2": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "Bischofswerd",
+        "Datum": "Samstag, 23.11.2019",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Halberstadt",
+        "Datum": "Samstag, 23.11.2019",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Altglienicke",
+        "Datum": "Samstag, 23.11.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "HBSC II",
+        "Datum": "Samstag, 23.11.2019",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Lichtenberg",
+        "Datum": "Samstag, 23.11.2019",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "BSG Chemie",
+        "Datum": "Sonntag, 24.11.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Nordhausen",
+        "Datum": "Mittwoch, 27.11.2019",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:1"
+    }
+}

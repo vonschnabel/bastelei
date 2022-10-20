@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "12",
+    "0": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Bischofswerd",
+        "Datum": "Freitag, 18.10.2019",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "Altglienicke",
+        "Gastteam": "Halberstadt",
+        "Datum": "Samstag, 19.10.2019",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:1"
+    },
+    "2": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Samstag, 19.10.2019",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "0:2"
+    },
+    "3": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Samstag, 19.10.2019",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:1"
+    },
+    "4": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Nordhausen",
+        "Datum": "Samstag, 19.10.2019",
+        "Endergebnis": "5:2",
+        "Pausenergebnis": "3:1"
+    },
+    "5": {
+        "Heimteam": "Lichtenberg",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Samstag, 19.10.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Sonntag, 20.10.2019",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:1"
+    },
+    "7": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "BSG Chemie",
+        "Datum": "Sonntag, 20.10.2019",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Babelsberg",
+        "Datum": "Montag, 21.10.2019",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    }
+}

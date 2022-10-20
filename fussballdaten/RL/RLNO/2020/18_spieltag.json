@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "18",
+    "0": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Freitag, 06.12.2019",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Bischofswerd",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Samstag, 07.12.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Altglienicke",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 07.12.2019",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    },
+    "3": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Sonntag, 08.12.2019",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Sonntag, 08.12.2019",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:3"
+    },
+    "5": {
+        "Heimteam": "Fürstenwalde",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Sonntag, 08.12.2019",
+        "Endergebnis": "3:3",
+        "Pausenergebnis": "0:2"
+    },
+    "6": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Rathenow",
+        "Datum": "Sonntag, 08.12.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "Nordhausen",
+        "Datum": "Sonntag, 08.12.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Lichtenberg",
+        "Gastteam": "Auerbach",
+        "Datum": "Sonntag, 08.12.2019",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "23",
+    "0": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Altglienicke",
+        "Datum": "Freitag, 21.02.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "Lichtenberg",
+        "Datum": "Freitag, 21.02.2020",
+        "Endergebnis": "4:4",
+        "Pausenergebnis": "1:3"
+    },
+    "2": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "Halberstadt",
+        "Datum": "Samstag, 22.02.2020",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Samstag, 22.02.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Samstag, 22.02.2020",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:2"
+    },
+    "5": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 22.02.2020",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 23.02.2020",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Sonntag, 23.02.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "-:-"
+    },
+    "8": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Bischofswerd",
+        "Datum": "Mittwoch, 25.03.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "abbruch"
+    }
+}

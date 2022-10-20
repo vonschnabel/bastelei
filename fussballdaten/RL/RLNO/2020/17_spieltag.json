@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "17",
+    "0": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Freitag, 29.11.2019",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Altglienicke",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Freitag, 29.11.2019",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:2"
+    },
+    "2": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Freitag, 29.11.2019",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:2"
+    },
+    "3": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Auerbach",
+        "Datum": "Sonntag, 01.12.2019",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Fürstenwalde",
+        "Gastteam": "Rathenow",
+        "Datum": "Sonntag, 01.12.2019",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "3:0"
+    },
+    "5": {
+        "Heimteam": "Bischofswerd",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Sonntag, 01.12.2019",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Sonntag, 01.12.2019",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Lichtenberg",
+        "Gastteam": "Cottbus",
+        "Datum": "Sonntag, 01.12.2019",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Sonntag, 26.01.2020",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

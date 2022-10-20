@@ -1,0 +1,74 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "8",
+    "0": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "TB Berlin",
+        "Datum": "Samstag, 26.09.2020",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Lichtenberg",
+        "Datum": "Samstag, 26.09.2020",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Samstag, 26.09.2020",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:2"
+    },
+    "3": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "BSG Chemie",
+        "Datum": "Samstag, 26.09.2020",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Luckenwalde",
+        "Datum": "Samstag, 26.09.2020",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Cottbus",
+        "Datum": "Sonntag, 27.09.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Fürstenwalde",
+        "Gastteam": "Altglienicke",
+        "Datum": "Sonntag, 27.09.2020",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:2"
+    },
+    "7": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Bischofswerd",
+        "Datum": "Sonntag, 27.09.2020",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Chemnitz",
+        "Datum": "Sonntag, 27.09.2020",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Rathenow",
+        "Datum": "Sonntag, 27.09.2020",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    }
+}

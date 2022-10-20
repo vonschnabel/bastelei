@@ -1,0 +1,74 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "11",
+    "0": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Babelsberg",
+        "Datum": "Freitag, 23.10.2020",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "TB Berlin",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Freitag, 23.10.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "verschoben"
+    },
+    "2": {
+        "Heimteam": "Altglienicke",
+        "Gastteam": "HBSC II",
+        "Datum": "Freitag, 23.10.2020",
+        "Endergebnis": "",
+        "Pausenergebnis": "verschoben"
+    },
+    "3": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "Bischofswerd",
+        "Datum": "Samstag, 24.10.2020",
+        "Endergebnis": "5:1",
+        "Pausenergebnis": "4:0"
+    },
+    "4": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Samstag, 24.10.2020",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Halberstadt",
+        "Datum": "Samstag, 24.10.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Sonntag, 25.10.2020",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:3"
+    },
+    "7": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Luckenwalde",
+        "Datum": "Sonntag, 25.10.2020",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Sonntag, 25.10.2020",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Lichtenberg",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Sonntag, 25.10.2020",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:0"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "1",
+    "0": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Lichtenberg",
+        "Datum": "Samstag, 15.08.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Samstag, 15.08.2020",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Bischofswerd",
+        "Gastteam": "Auerbach",
+        "Datum": "Samstag, 15.08.2020",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Luckenwalde",
+        "Gastteam": "Halberstadt",
+        "Datum": "Samstag, 15.08.2020",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Fürstenwalde",
+        "Datum": "Samstag, 15.08.2020",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 15.08.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Samstag, 15.08.2020",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Samstag, 15.08.2020",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "8": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Samstag, 15.08.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Altglienicke",
+        "Gastteam": "TB Berlin",
+        "Datum": "Sonntag, 16.08.2020",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:2"
+    }
+}
