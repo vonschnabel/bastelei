@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "38",
+    "0": {
+        "Heimteam": "Uerdingen",
+        "Gastteam": "V. Köln",
+        "Datum": "Samstag, 04.07.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 04.07.2020",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "2": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Samstag, 04.07.2020",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 04.07.2020",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 04.07.2020",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "FC Ingolstadt ",
+        "Datum": "Samstag, 04.07.2020",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 04.07.2020",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 04.07.2020",
+        "Endergebnis": "4:3",
+        "Pausenergebnis": "3:1"
+    },
+    "8": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 04.07.2020",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 04.07.2020",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "0:0"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "18",
+    "0": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Zwickau",
+        "Datum": "Freitag, 06.12.2019",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:2"
+    },
+    "1": {
+        "Heimteam": "Uerdingen",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 07.12.2019",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:1"
+    },
+    "2": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "V. Köln",
+        "Datum": "Samstag, 07.12.2019",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 07.12.2019",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 07.12.2019",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    },
+    "5": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 07.12.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "FC Ingolstadt ",
+        "Datum": "Samstag, 07.12.2019",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Braunschweig",
+        "Datum": "Sonntag, 08.12.2019",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Sonntag, 08.12.2019",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:0"
+    },
+    "9": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Münster",
+        "Datum": "Montag, 09.12.2019",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    }
+}

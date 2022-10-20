@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "20",
+    "0": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Rostock",
+        "Datum": "Freitag, 20.12.2019",
+        "Endergebnis": "1:5",
+        "Pausenergebnis": "0:3"
+    },
+    "1": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 21.12.2019",
+        "Endergebnis": "4:3",
+        "Pausenergebnis": "2:3"
+    },
+    "2": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 21.12.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 21.12.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Münster",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 21.12.2019",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Magdeburg",
+        "Datum": "Samstag, 21.12.2019",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 21.12.2019",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Halle",
+        "Gastteam": "Uerdingen",
+        "Datum": "Sonntag, 22.12.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Sonntag, 22.12.2019",
+        "Endergebnis": "5:1",
+        "Pausenergebnis": "2:0"
+    },
+    "9": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Sonntag, 22.12.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "3",
+    "0": {
+        "Heimteam": "Uerdingen",
+        "Gastteam": "Unterhaching",
+        "Datum": "Dienstag, 30.07.2019",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:2"
+    },
+    "1": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Großaspach",
+        "Datum": "Dienstag, 30.07.2019",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "FC Ingolstadt ",
+        "Datum": "Dienstag, 30.07.2019",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Braunschweig",
+        "Datum": "Dienstag, 30.07.2019",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Rostock",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Dienstag, 30.07.2019",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Meppen",
+        "Datum": "Mittwoch, 31.07.2019",
+        "Endergebnis": "2:4",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Münster",
+        "Datum": "Mittwoch, 31.07.2019",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Zwickau",
+        "Datum": "Mittwoch, 31.07.2019",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Mannheim",
+        "Datum": "Mittwoch, 31.07.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "9": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Halle",
+        "Datum": "Mittwoch, 31.07.2019",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    }
+}

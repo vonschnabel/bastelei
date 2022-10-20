@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "12",
+    "0": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "K'lautern",
+        "Datum": "Freitag, 18.10.2019",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 19.10.2019",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Münster",
+        "Gastteam": "Großaspach",
+        "Datum": "Samstag, 19.10.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 19.10.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Uerdingen",
+        "Datum": "Samstag, 19.10.2019",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 19.10.2019",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 19.10.2019",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:2"
+    },
+    "7": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Sonntag, 20.10.2019",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Sonntag, 20.10.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Meppen",
+        "Gastteam": "V. Köln",
+        "Datum": "Montag, 21.10.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "21",
+    "0": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Halle",
+        "Datum": "Freitag, 24.01.2020",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 25.01.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 25.01.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "FC Ingolstadt ",
+        "Datum": "Samstag, 25.01.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "K. Würzburg",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 25.01.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "V. Köln",
+        "Datum": "Samstag, 25.01.2020",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:2"
+    },
+    "6": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Mannheim",
+        "Datum": "Samstag, 25.01.2020",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Braunschweig",
+        "Datum": "Sonntag, 26.01.2020",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:1"
+    },
+    "8": {
+        "Heimteam": "Uerdingen",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Sonntag, 26.01.2020",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    },
+    "9": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Großaspach",
+        "Datum": "Montag, 27.01.2020",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

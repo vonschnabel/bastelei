@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "24",
+    "0": {
+        "Heimteam": "Münster",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Freitag, 14.02.2020",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 15.02.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Uerdingen",
+        "Datum": "Samstag, 15.02.2020",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 15.02.2020",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Meppen",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 15.02.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "V. Köln",
+        "Datum": "Samstag, 15.02.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 15.02.2020",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Duisburg",
+        "Datum": "Sonntag, 16.02.2020",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Sonntag, 16.02.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "Halle",
+        "Datum": "Montag, 17.02.2020",
+        "Endergebnis": "6:1",
+        "Pausenergebnis": "2:1"
+    }
+}

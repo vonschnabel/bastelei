@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "30",
+    "0": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Uerdingen",
+        "Datum": "Freitag, 05.06.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 06.06.2020",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 06.06.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Samstag, 06.06.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 06.06.2020",
+        "Endergebnis": "5:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "V. Köln",
+        "Datum": "Samstag, 06.06.2020",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 06.06.2020",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    },
+    "7": {
+        "Heimteam": "Münster",
+        "Gastteam": "Unterhaching",
+        "Datum": "Sonntag, 07.06.2020",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "8": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "K'lautern",
+        "Datum": "Sonntag, 07.06.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:2"
+    },
+    "9": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Großaspach",
+        "Datum": "Sonntag, 07.06.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    }
+}

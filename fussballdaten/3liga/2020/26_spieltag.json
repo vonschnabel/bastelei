@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "26",
+    "0": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Freitag, 28.02.2020",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 29.02.2020",
+        "Endergebnis": "4:3",
+        "Pausenergebnis": "1:2"
+    },
+    "2": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Uerdingen",
+        "Datum": "Samstag, 29.02.2020",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "3:0"
+    },
+    "3": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Samstag, 29.02.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 29.02.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 29.02.2020",
+        "Endergebnis": "6:2",
+        "Pausenergebnis": "2:1"
+    },
+    "6": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 29.02.2020",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "V. Köln",
+        "Datum": "Sonntag, 01.03.2020",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Duisburg",
+        "Datum": "Sonntag, 01.03.2020",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Münster",
+        "Gastteam": "Rostock",
+        "Datum": "Montag, 02.03.2020",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    }
+}

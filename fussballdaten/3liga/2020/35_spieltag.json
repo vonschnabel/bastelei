@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "35",
+    "0": {
+        "Heimteam": "Uerdingen",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Dienstag, 23.06.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Braunschweig",
+        "Datum": "Dienstag, 23.06.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:2"
+    },
+    "2": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Duisburg",
+        "Datum": "Dienstag, 23.06.2020",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Rostock",
+        "Gastteam": "K'lautern",
+        "Datum": "Dienstag, 23.06.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Magdeburg",
+        "Datum": "Mittwoch, 24.06.2020",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Meppen",
+        "Datum": "Mittwoch, 24.06.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Münster",
+        "Gastteam": "Zwickau",
+        "Datum": "Mittwoch, 24.06.2020",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "TSV 1860",
+        "Datum": "Mittwoch, 24.06.2020",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Mannheim",
+        "Datum": "Mittwoch, 24.06.2020",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Halle",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Mittwoch, 24.06.2020",
+        "Endergebnis": "5:3",
+        "Pausenergebnis": "2:2"
+    }
+}

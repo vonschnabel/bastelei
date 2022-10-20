@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "10",
+    "0": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "K. Würzburg",
+        "Datum": "Freitag, 27.09.2019",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "V. Köln",
+        "Datum": "Samstag, 28.09.2019",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "3:0"
+    },
+    "2": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 28.09.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Münster",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Samstag, 28.09.2019",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "0:4"
+    },
+    "4": {
+        "Heimteam": "Großaspach",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 28.09.2019",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 28.09.2019",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 28.09.2019",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Rostock",
+        "Datum": "Sonntag, 29.09.2019",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Uerdingen",
+        "Datum": "Sonntag, 29.09.2019",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Unterhaching",
+        "Datum": "Montag, 30.09.2019",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}
