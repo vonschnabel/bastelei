@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "6",
+    "0": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Nordhausen",
+        "Datum": "Samstag, 29.08.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Schönberg",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Sonntag, 30.08.2015",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Oberlausitz",
+        "Gastteam": "Neustrelitz",
+        "Datum": "Sonntag, 30.08.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:1"
+    },
+    "3": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Rathenow",
+        "Datum": "Sonntag, 30.08.2015",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "2:1"
+    },
+    "4": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Sonntag, 30.08.2015",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Auerbach",
+        "Datum": "Sonntag, 30.08.2015",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 30.08.2015",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Luckenwalde",
+        "Datum": "Sonntag, 30.08.2015",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "3:0"
+    },
+    "8": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Bautzen",
+        "Datum": "Mittwoch, 02.09.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

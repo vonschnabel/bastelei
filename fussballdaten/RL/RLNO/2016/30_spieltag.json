@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "30",
+    "0": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "RB Leipzig",
+        "Datum": "Samstag, 23.04.2016",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:2"
+    },
+    "1": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 23.04.2016",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "3:1"
+    },
+    "2": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Oberlausitz",
+        "Datum": "Sonntag, 24.04.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "Auerbach",
+        "Datum": "Sonntag, 24.04.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Nordhausen",
+        "Datum": "Sonntag, 24.04.2016",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Neustrelitz",
+        "Datum": "Sonntag, 24.04.2016",
+        "Endergebnis": "0:5",
+        "Pausenergebnis": "0:3"
+    },
+    "6": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 24.04.2016",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Schönberg",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Sonntag, 24.04.2016",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Bautzen",
+        "Gastteam": "Luckenwalde",
+        "Datum": "Sonntag, 24.04.2016",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "24",
+    "0": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Neustrelitz",
+        "Datum": "Freitag, 11.03.2016",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "Schönberg",
+        "Gastteam": "Bautzen",
+        "Datum": "Samstag, 12.03.2016",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:2"
+    },
+    "2": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Samstag, 12.03.2016",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:2"
+    },
+    "3": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Auerbach",
+        "Datum": "Samstag, 12.03.2016",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Samstag, 12.03.2016",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Oberlausitz",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 13.03.2016",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Luckenwalde",
+        "Datum": "Sonntag, 13.03.2016",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Nordhausen",
+        "Datum": "Sonntag, 13.03.2016",
+        "Endergebnis": "5:1",
+        "Pausenergebnis": "2:0"
+    },
+    "8": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Rathenow",
+        "Datum": "Sonntag, 13.03.2016",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:0"
+    }
+}

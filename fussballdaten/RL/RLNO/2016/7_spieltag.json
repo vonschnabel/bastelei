@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "7",
+    "0": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Oberlausitz",
+        "Datum": "Freitag, 11.09.2015",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Freitag, 11.09.2015",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    },
+    "2": {
+        "Heimteam": "Luckenwalde",
+        "Gastteam": "Halberstadt",
+        "Datum": "Freitag, 11.09.2015",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Bautzen",
+        "Gastteam": "Schönberg",
+        "Datum": "Sonntag, 13.09.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "Zwickau",
+        "Datum": "Sonntag, 13.09.2015",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:1"
+    },
+    "5": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "Babelsberg",
+        "Datum": "Sonntag, 13.09.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "RB Leipzig",
+        "Datum": "Sonntag, 13.09.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Sonntag, 13.09.2015",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    },
+    "8": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Sonntag, 13.09.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    }
+}

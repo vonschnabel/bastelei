@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "17",
+    "0": {
+        "Heimteam": "Neustrelitz",
+        "Gastteam": "Luckenwalde",
+        "Datum": "Freitag, 04.12.2015",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Samstag, 05.12.2015",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:1"
+    },
+    "2": {
+        "Heimteam": "Oberlausitz",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Sonntag, 06.12.2015",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Nordhausen",
+        "Gastteam": "Auerbach",
+        "Datum": "Sonntag, 06.12.2015",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "Rathenow",
+        "Datum": "Sonntag, 06.12.2015",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Bautzen",
+        "Datum": "Sonntag, 06.12.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Schönberg",
+        "Datum": "Sonntag, 06.12.2015",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Sonntag, 06.12.2015",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Sonntag, 06.12.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

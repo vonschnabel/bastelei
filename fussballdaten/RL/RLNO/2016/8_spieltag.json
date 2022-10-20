@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "8",
+    "0": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "HBSC II",
+        "Datum": "Freitag, 18.09.2015",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Schönberg",
+        "Gastteam": "Rathenow",
+        "Datum": "Samstag, 19.09.2015",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Bautzen",
+        "Datum": "Samstag, 19.09.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "Auerbach",
+        "Datum": "Sonntag, 20.09.2015",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Oberlausitz",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Sonntag, 20.09.2015",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Luckenwalde",
+        "Datum": "Sonntag, 20.09.2015",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "3:0"
+    },
+    "6": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Sonntag, 20.09.2015",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Neustrelitz",
+        "Datum": "Sonntag, 20.09.2015",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Nordhausen",
+        "Datum": "Sonntag, 20.09.2015",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    }
+}

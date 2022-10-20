@@ -1,0 +1,148 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "27",
+    "0": {
+        "Tabellenplatz": "1",
+        "Teamname": "Zwickau",
+        "Spiel": "27",
+        "Tore": "58:21",
+        "Tordifferenz": "37",
+        "Punkte": "58"
+    },
+    "1": {
+        "Tabellenplatz": "2",
+        "Teamname": "Berliner AK 07",
+        "Spiel": "27",
+        "Tore": "49:19",
+        "Tordifferenz": "30",
+        "Punkte": "58"
+    },
+    "2": {
+        "Tabellenplatz": "3",
+        "Teamname": "Nordhausen",
+        "Spiel": "27",
+        "Tore": "49:30",
+        "Tordifferenz": "19",
+        "Punkte": "51"
+    },
+    "3": {
+        "Tabellenplatz": "4",
+        "Teamname": "FC Carl Zeiss ",
+        "Spiel": "27",
+        "Tore": "33:17",
+        "Tordifferenz": "16",
+        "Punkte": "49"
+    },
+    "4": {
+        "Tabellenplatz": "5",
+        "Teamname": "Oberlausitz",
+        "Spiel": "27",
+        "Tore": "43:31",
+        "Tordifferenz": "12",
+        "Punkte": "49"
+    },
+    "5": {
+        "Tabellenplatz": "6",
+        "Teamname": "BFC Dynamo",
+        "Spiel": "27",
+        "Tore": "54:40",
+        "Tordifferenz": "14",
+        "Punkte": "45"
+    },
+    "6": {
+        "Tabellenplatz": "7",
+        "Teamname": "Babelsberg",
+        "Spiel": "27",
+        "Tore": "39:22",
+        "Tordifferenz": "17",
+        "Punkte": "42"
+    },
+    "7": {
+        "Tabellenplatz": "8",
+        "Teamname": "HBSC II",
+        "Spiel": "27",
+        "Tore": "41:47",
+        "Tordifferenz": "-6",
+        "Punkte": "40"
+    },
+    "8": {
+        "Tabellenplatz": "9",
+        "Teamname": "Auerbach",
+        "Spiel": "27",
+        "Tore": "43:37",
+        "Tordifferenz": "6",
+        "Punkte": "36"
+    },
+    "9": {
+        "Tabellenplatz": "10",
+        "Teamname": "Schönberg",
+        "Spiel": "27",
+        "Tore": "35:38",
+        "Tordifferenz": "-3",
+        "Punkte": "35"
+    },
+    "10": {
+        "Tabellenplatz": "11",
+        "Teamname": "Viktoria 89",
+        "Spiel": "27",
+        "Tore": "38:46",
+        "Tordifferenz": "-8",
+        "Punkte": "33"
+    },
+    "11": {
+        "Tabellenplatz": "12",
+        "Teamname": "Bautzen",
+        "Spiel": "27",
+        "Tore": "38:35",
+        "Tordifferenz": "3",
+        "Punkte": "32"
+    },
+    "12": {
+        "Tabellenplatz": "13",
+        "Teamname": "RB Leipzig",
+        "Spiel": "27",
+        "Tore": "39:40",
+        "Tordifferenz": "-1",
+        "Punkte": "32"
+    },
+    "13": {
+        "Tabellenplatz": "14",
+        "Teamname": "Neustrelitz",
+        "Spiel": "27",
+        "Tore": "35:39",
+        "Tordifferenz": "-4",
+        "Punkte": "32"
+    },
+    "14": {
+        "Tabellenplatz": "15",
+        "Teamname": "Meuselwitz",
+        "Spiel": "27",
+        "Tore": "29:48",
+        "Tordifferenz": "-19",
+        "Punkte": "30"
+    },
+    "15": {
+        "Tabellenplatz": "16",
+        "Teamname": "Halberstadt",
+        "Spiel": "27",
+        "Tore": "32:59",
+        "Tordifferenz": "-27",
+        "Punkte": "20"
+    },
+    "16": {
+        "Tabellenplatz": "17",
+        "Teamname": "Luckenwalde",
+        "Spiel": "27",
+        "Tore": "20:69",
+        "Tordifferenz": "-49",
+        "Punkte": "16"
+    },
+    "17": {
+        "Tabellenplatz": "18",
+        "Teamname": "Rathenow",
+        "Spiel": "27",
+        "Tore": "20:57",
+        "Tordifferenz": "-37",
+        "Punkte": "10"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "16",
+    "0": {
+        "Heimteam": "Luckenwalde",
+        "Gastteam": "Nordhausen",
+        "Datum": "Freitag, 27.11.2015",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "1:2"
+    },
+    "1": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Oberlausitz",
+        "Datum": "Freitag, 27.11.2015",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Rathenow",
+        "Gastteam": "Neustrelitz",
+        "Datum": "Samstag, 28.11.2015",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Schönberg",
+        "Gastteam": "Babelsberg",
+        "Datum": "Sonntag, 29.11.2015",
+        "Endergebnis": "1:5",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Viktoria 89",
+        "Gastteam": "RB Leipzig",
+        "Datum": "Sonntag, 29.11.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Sonntag, 29.11.2015",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Bautzen",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 29.11.2015",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Auerbach",
+        "Gastteam": "Halberstadt",
+        "Datum": "Sonntag, 29.11.2015",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Zwickau",
+        "Datum": "Sonntag, 29.11.2015",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "22",
+    "0": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Luckenwalde",
+        "Datum": "Freitag, 26.02.2016",
+        "Endergebnis": "6:1",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "Neustrelitz",
+        "Datum": "Samstag, 27.02.2016",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "2:0"
+    },
+    "2": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Bautzen",
+        "Datum": "Samstag, 27.02.2016",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Meuselwitz",
+        "Datum": "Samstag, 27.02.2016",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Auerbach",
+        "Datum": "Samstag, 27.02.2016",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "5": {
+        "Heimteam": "Oberlausitz",
+        "Gastteam": "Nordhausen",
+        "Datum": "Sonntag, 28.02.2016",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:0"
+    },
+    "6": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Rathenow",
+        "Datum": "Sonntag, 28.02.2016",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "HBSC II",
+        "Datum": "Sonntag, 28.02.2016",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Schönberg",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Sonntag, 28.02.2016",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    }
+}
