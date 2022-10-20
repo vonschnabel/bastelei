@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "24",
+    "0": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Samstag, 13.02.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 13.02.2021",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 13.02.2021",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Sonntag, 14.02.2021",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Lübeck",
+        "Datum": "Sonntag, 14.02.2021",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "5": {
+        "Heimteam": "Türkgücü",
+        "Gastteam": "Magdeburg",
+        "Datum": "Montag, 15.02.2021",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:1"
+    },
+    "6": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Meppen",
+        "Datum": "Dienstag, 09.03.2021",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Halle",
+        "Gastteam": "Duisburg",
+        "Datum": "Dienstag, 16.03.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Verl",
+        "Gastteam": "FC Ingolstadt ",
+        "Datum": "Mittwoch, 17.03.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Uerdingen",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 27.03.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    }
+}

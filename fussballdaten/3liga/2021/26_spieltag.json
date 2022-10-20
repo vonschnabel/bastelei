@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "26",
+    "0": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Unterhaching",
+        "Datum": "Freitag, 26.02.2021",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 27.02.2021",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "2": {
+        "Heimteam": "Dresden",
+        "Gastteam": "FC Ingolstadt ",
+        "Datum": "Samstag, 27.02.2021",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 27.02.2021",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Halle",
+        "Gastteam": "Lübeck",
+        "Datum": "Samstag, 27.02.2021",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Verl",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 27.02.2021",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:2"
+    },
+    "6": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Magdeburg",
+        "Datum": "Samstag, 27.02.2021",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Türkgücü",
+        "Gastteam": "Zwickau",
+        "Datum": "Sonntag, 28.02.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Uerdingen",
+        "Gastteam": "Duisburg",
+        "Datum": "Sonntag, 28.02.2021",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    },
+    "9": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Montag, 01.03.2021",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:1"
+    }
+}

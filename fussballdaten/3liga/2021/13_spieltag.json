@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "13",
+    "0": {
+        "Heimteam": "Uerdingen",
+        "Gastteam": "Verl",
+        "Datum": "Freitag, 27.11.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Rostock",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Samstag, 28.11.2020",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Halle",
+        "Gastteam": "V. Köln",
+        "Datum": "Samstag, 28.11.2020",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Magdeburg",
+        "Datum": "Samstag, 28.11.2020",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 28.11.2020",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Türkgücü",
+        "Datum": "Samstag, 28.11.2020",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Dresden",
+        "Datum": "Sonntag, 29.11.2020",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "K'lautern",
+        "Datum": "Sonntag, 29.11.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Meppen",
+        "Gastteam": "FC Ingolstadt ",
+        "Datum": "Montag, 30.11.2020",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "9": {
+        "Heimteam": "Lübeck",
+        "Gastteam": "Mannheim",
+        "Datum": "Mittwoch, 13.01.2021",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    }
+}

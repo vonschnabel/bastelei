@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "25",
+    "0": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Halle",
+        "Datum": "Freitag, 19.02.2021",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Lübeck",
+        "Gastteam": "Türkgücü",
+        "Datum": "Samstag, 20.02.2021",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 20.02.2021",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 20.02.2021",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Mannheim",
+        "Datum": "Samstag, 20.02.2021",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 20.02.2021",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 20.02.2021",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "7": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "V. Köln",
+        "Datum": "Sonntag, 21.02.2021",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Verl",
+        "Datum": "Sonntag, 21.02.2021",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:3"
+    },
+    "9": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Uerdingen",
+        "Datum": "Montag, 22.02.2021",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "3:1"
+    }
+}

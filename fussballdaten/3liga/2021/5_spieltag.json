@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "5",
+    "0": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Türkgücü",
+        "Datum": "Freitag, 16.10.2020",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 17.10.2020",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Verl",
+        "Datum": "Samstag, 17.10.2020",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "3": {
+        "Heimteam": "Rostock",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 17.10.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Lübeck",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 17.10.2020",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Mannheim",
+        "Datum": "Samstag, 17.10.2020",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Uerdingen",
+        "Datum": "Samstag, 17.10.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    },
+    "7": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Unterhaching",
+        "Datum": "Sonntag, 18.10.2020",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Meppen",
+        "Gastteam": "V. Köln",
+        "Datum": "Sonntag, 18.10.2020",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Halle",
+        "Datum": "Dienstag, 17.11.2020",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "7",
+    "0": {
+        "Heimteam": "Meppen",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 24.10.2020",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 24.10.2020",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Rostock",
+        "Gastteam": "V. Köln",
+        "Datum": "Samstag, 24.10.2020",
+        "Endergebnis": "5:1",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Lübeck",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 24.10.2020",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 24.10.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Uerdingen",
+        "Datum": "Samstag, 24.10.2020",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Verl",
+        "Datum": "Sonntag, 25.10.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "Mannheim",
+        "Datum": "Sonntag, 25.10.2020",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "TSV 1860",
+        "Datum": "Montag, 26.10.2020",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Türkgücü",
+        "Datum": "Mittwoch, 04.11.2020",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    }
+}

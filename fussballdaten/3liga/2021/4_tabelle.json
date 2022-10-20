@@ -1,0 +1,164 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "4",
+    "0": {
+        "Tabellenplatz": "1",
+        "Teamname": "Saarbrücken",
+        "Spiel": "4",
+        "Tore": "10:3",
+        "Tordifferenz": "7",
+        "Punkte": "10"
+    },
+    "1": {
+        "Tabellenplatz": "2",
+        "Teamname": "TSV 1860",
+        "Spiel": "4",
+        "Tore": "10:4",
+        "Tordifferenz": "6",
+        "Punkte": "10"
+    },
+    "2": {
+        "Tabellenplatz": "3",
+        "Teamname": "Unterhaching",
+        "Spiel": "4",
+        "Tore": "5:3",
+        "Tordifferenz": "2",
+        "Punkte": "9"
+    },
+    "3": {
+        "Tabellenplatz": "4",
+        "Teamname": "Verl",
+        "Spiel": "4",
+        "Tore": "7:4",
+        "Tordifferenz": "3",
+        "Punkte": "7"
+    },
+    "4": {
+        "Tabellenplatz": "5",
+        "Teamname": "Zwickau",
+        "Spiel": "4",
+        "Tore": "6:4",
+        "Tordifferenz": "2",
+        "Punkte": "7"
+    },
+    "5": {
+        "Tabellenplatz": "6",
+        "Teamname": "V. Köln",
+        "Spiel": "4",
+        "Tore": "6:4",
+        "Tordifferenz": "2",
+        "Punkte": "7"
+    },
+    "6": {
+        "Tabellenplatz": "7",
+        "Teamname": "Rostock",
+        "Spiel": "4",
+        "Tore": "6:5",
+        "Tordifferenz": "1",
+        "Punkte": "7"
+    },
+    "7": {
+        "Tabellenplatz": "8",
+        "Teamname": "Dresden",
+        "Spiel": "4",
+        "Tore": "3:4",
+        "Tordifferenz": "-1",
+        "Punkte": "7"
+    },
+    "8": {
+        "Tabellenplatz": "9",
+        "Teamname": "Türkgücü",
+        "Spiel": "4",
+        "Tore": "9:6",
+        "Tordifferenz": "3",
+        "Punkte": "6"
+    },
+    "9": {
+        "Tabellenplatz": "10",
+        "Teamname": "Wehen",
+        "Spiel": "4",
+        "Tore": "4:2",
+        "Tordifferenz": "2",
+        "Punkte": "6"
+    },
+    "10": {
+        "Tabellenplatz": "11",
+        "Teamname": "FC Ingolstadt ",
+        "Spiel": "4",
+        "Tore": "4:4",
+        "Tordifferenz": "0",
+        "Punkte": "6"
+    },
+    "11": {
+        "Tabellenplatz": "12",
+        "Teamname": "FC Bayern II",
+        "Spiel": "4",
+        "Tore": "6:6",
+        "Tordifferenz": "0",
+        "Punkte": "5"
+    },
+    "12": {
+        "Tabellenplatz": "13",
+        "Teamname": "Mannheim",
+        "Spiel": "4",
+        "Tore": "8:8",
+        "Tordifferenz": "0",
+        "Punkte": "4"
+    },
+    "13": {
+        "Tabellenplatz": "14",
+        "Teamname": "Meppen",
+        "Spiel": "4",
+        "Tore": "5:7",
+        "Tordifferenz": "-2",
+        "Punkte": "3"
+    },
+    "14": {
+        "Tabellenplatz": "15",
+        "Teamname": "Halle",
+        "Spiel": "4",
+        "Tore": "2:8",
+        "Tordifferenz": "-6",
+        "Punkte": "3"
+    },
+    "15": {
+        "Tabellenplatz": "16",
+        "Teamname": "Duisburg",
+        "Spiel": "4",
+        "Tore": "5:8",
+        "Tordifferenz": "-3",
+        "Punkte": "2"
+    },
+    "16": {
+        "Tabellenplatz": "17",
+        "Teamname": "Lübeck",
+        "Spiel": "4",
+        "Tore": "3:7",
+        "Tordifferenz": "-4",
+        "Punkte": "2"
+    },
+    "17": {
+        "Tabellenplatz": "18",
+        "Teamname": "K'lautern",
+        "Spiel": "4",
+        "Tore": "3:7",
+        "Tordifferenz": "-4",
+        "Punkte": "2"
+    },
+    "18": {
+        "Tabellenplatz": "19",
+        "Teamname": "Magdeburg",
+        "Spiel": "4",
+        "Tore": "1:6",
+        "Tordifferenz": "-5",
+        "Punkte": "1"
+    },
+    "19": {
+        "Tabellenplatz": "20",
+        "Teamname": "Uerdingen",
+        "Spiel": "4",
+        "Tore": "2:5",
+        "Tordifferenz": "-3",
+        "Punkte": "-1"
+    }
+}

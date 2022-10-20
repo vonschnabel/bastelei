@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "14",
+    "0": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Meppen",
+        "Datum": "Freitag, 04.12.2020",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Lübeck",
+        "Datum": "Samstag, 05.12.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Uerdingen",
+        "Datum": "Samstag, 05.12.2020",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 05.12.2020",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 05.12.2020",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 05.12.2020",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Rostock",
+        "Datum": "Sonntag, 06.12.2020",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Verl",
+        "Gastteam": "Halle",
+        "Datum": "Sonntag, 06.12.2020",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "2:1"
+    },
+    "8": {
+        "Heimteam": "Türkgücü",
+        "Gastteam": "Unterhaching",
+        "Datum": "Dienstag, 19.01.2021",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "Zwickau",
+        "Datum": "Mittwoch, 10.02.2021",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:1"
+    }
+}

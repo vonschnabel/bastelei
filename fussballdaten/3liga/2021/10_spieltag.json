@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "10",
+    "0": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Freitag, 13.11.2020",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 14.11.2020",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:1"
+    },
+    "2": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Magdeburg",
+        "Datum": "Samstag, 14.11.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Uerdingen",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 14.11.2020",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Halle",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 14.11.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Türkgücü",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 14.11.2020",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "FC Ingolstadt ",
+        "Datum": "Samstag, 14.11.2020",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Dresden",
+        "Gastteam": "TSV 1860",
+        "Datum": "Sonntag, 15.11.2020",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Verl",
+        "Gastteam": "Lübeck",
+        "Datum": "Montag, 16.11.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "Meppen",
+        "Datum": "Dienstag, 12.01.2021",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "11",
+    "0": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Verl",
+        "Datum": "Freitag, 20.11.2020",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Uerdingen",
+        "Datum": "Samstag, 21.11.2020",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Halle",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 21.11.2020",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 21.11.2020",
+        "Endergebnis": "3:3",
+        "Pausenergebnis": "2:2"
+    },
+    "4": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 21.11.2020",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:3"
+    },
+    "5": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Mannheim",
+        "Datum": "Samstag, 21.11.2020",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Lübeck",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Sonntag, 22.11.2020",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "V. Köln",
+        "Datum": "Sonntag, 22.11.2020",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:2"
+    },
+    "8": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Magdeburg",
+        "Datum": "Sonntag, 22.11.2020",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Türkgücü",
+        "Datum": "Mittwoch, 23.12.2020",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "1:2"
+    }
+}

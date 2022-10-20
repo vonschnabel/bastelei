@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "31",
+    "0": {
+        "Heimteam": "Halle",
+        "Gastteam": "Uerdingen",
+        "Datum": "Freitag, 09.04.2021",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Mannheim",
+        "Datum": "Samstag, 10.04.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "2": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Magdeburg",
+        "Datum": "Samstag, 10.04.2021",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Lübeck",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 10.04.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Verl",
+        "Datum": "Samstag, 10.04.2021",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:1"
+    },
+    "5": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Türkgücü",
+        "Datum": "Samstag, 10.04.2021",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "6": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Samstag, 10.04.2021",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "V. Köln",
+        "Datum": "Sonntag, 11.04.2021",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Dresden",
+        "Datum": "Sonntag, 11.04.2021",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Wehen",
+        "Datum": "Montag, 12.04.2021",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    }
+}

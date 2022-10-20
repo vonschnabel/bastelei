@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "38",
+    "0": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 22.05.2021",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 22.05.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Verl",
+        "Datum": "Samstag, 22.05.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 22.05.2021",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Uerdingen",
+        "Datum": "Samstag, 22.05.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Lübeck",
+        "Datum": "Samstag, 22.05.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 22.05.2021",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 22.05.2021",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 22.05.2021",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Türkgücü",
+        "Gastteam": "V. Köln",
+        "Datum": "Samstag, 22.05.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    }
+}

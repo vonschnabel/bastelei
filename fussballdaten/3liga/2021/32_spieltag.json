@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "32",
+    "0": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "Rostock",
+        "Datum": "Freitag, 16.04.2021",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 17.04.2021",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 17.04.2021",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Verl",
+        "Gastteam": "Uerdingen",
+        "Datum": "Samstag, 17.04.2021",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Türkgücü",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 17.04.2021",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 17.04.2021",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:1"
+    },
+    "6": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Meppen",
+        "Datum": "Sonntag, 18.04.2021",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Lübeck",
+        "Datum": "Sonntag, 18.04.2021",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "3:1"
+    },
+    "8": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Unterhaching",
+        "Datum": "Sonntag, 18.04.2021",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Duisburg",
+        "Datum": "Mittwoch, 28.04.2021",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    }
+}

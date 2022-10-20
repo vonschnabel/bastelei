@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "9",
+    "0": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Wehen",
+        "Datum": "Freitag, 06.11.2020",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "3:1"
+    },
+    "1": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Samstag, 07.11.2020",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "K'lautern",
+        "Datum": "Samstag, 07.11.2020",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 07.11.2020",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 07.11.2020",
+        "Endergebnis": "6:1",
+        "Pausenergebnis": "2:0"
+    },
+    "5": {
+        "Heimteam": "Lübeck",
+        "Gastteam": "Uerdingen",
+        "Datum": "Sonntag, 08.11.2020",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "V. Köln",
+        "Datum": "Montag, 09.11.2020",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Türkgücü",
+        "Datum": "Mittwoch, 02.12.2020",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "8": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Mannheim",
+        "Datum": "Dienstag, 08.12.2020",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "9": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Verl",
+        "Datum": "Dienstag, 12.01.2021",
+        "Endergebnis": "3:4",
+        "Pausenergebnis": "1:1"
+    }
+}

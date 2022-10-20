@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "36",
+    "0": {
+        "Heimteam": "Türkgücü",
+        "Gastteam": "Verl",
+        "Datum": "Freitag, 07.05.2021",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Magdeburg",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 08.05.2021",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:0"
+    },
+    "2": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 08.05.2021",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 08.05.2021",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "K'lautern",
+        "Gastteam": "Uerdingen",
+        "Datum": "Samstag, 08.05.2021",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "3:1"
+    },
+    "5": {
+        "Heimteam": "Dresden",
+        "Gastteam": "V. Köln",
+        "Datum": "Samstag, 08.05.2021",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "6": {
+        "Heimteam": "Wehen",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 08.05.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Lübeck",
+        "Datum": "Sonntag, 09.05.2021",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "Unterhaching",
+        "Datum": "Sonntag, 09.05.2021",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Halle",
+        "Datum": "Montag, 10.05.2021",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "3:2"
+    }
+}

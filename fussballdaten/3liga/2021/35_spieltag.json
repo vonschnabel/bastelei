@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "35",
+    "0": {
+        "Heimteam": "Lübeck",
+        "Gastteam": "Wehen",
+        "Datum": "Dienstag, 04.05.2021",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    },
+    "1": {
+        "Heimteam": "Verl",
+        "Gastteam": "Dresden",
+        "Datum": "Dienstag, 04.05.2021",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Halle",
+        "Gastteam": "Türkgücü",
+        "Datum": "Dienstag, 04.05.2021",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "1:1"
+    },
+    "3": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "K'lautern",
+        "Datum": "Dienstag, 04.05.2021",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Rostock",
+        "Gastteam": "FC Ingolstadt ",
+        "Datum": "Dienstag, 04.05.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Mannheim",
+        "Datum": "Mittwoch, 05.05.2021",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Meppen",
+        "Datum": "Mittwoch, 05.05.2021",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Magdeburg",
+        "Datum": "Mittwoch, 05.05.2021",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Mittwoch, 05.05.2021",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "9": {
+        "Heimteam": "Uerdingen",
+        "Gastteam": "V. Köln",
+        "Datum": "Mittwoch, 05.05.2021",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    }
+}
