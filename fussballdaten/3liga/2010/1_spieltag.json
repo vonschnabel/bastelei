@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "1",
+    "0": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 25.07.2009",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 25.07.2009",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 25.07.2009",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Sandhausen",
+        "Datum": "Samstag, 25.07.2009",
+        "Endergebnis": "3:3",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Aue",
+        "Datum": "Samstag, 25.07.2009",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 25.07.2009",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 25.07.2009",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 25.07.2009",
+        "Endergebnis": "4:3",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Wuppertal",
+        "Datum": "Samstag, 25.07.2009",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Samstag, 25.07.2009",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    }
+}

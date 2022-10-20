@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "35",
+    "0": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 17.04.2010",
+        "Endergebnis": "2:4",
+        "Pausenergebnis": "1:2"
+    },
+    "1": {
+        "Heimteam": "Wuppertal",
+        "Gastteam": "FC Ingolstadt ",
+        "Datum": "Samstag, 17.04.2010",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 17.04.2010",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 17.04.2010",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 17.04.2010",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Aue",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 17.04.2010",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 17.04.2010",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:2"
+    },
+    "7": {
+        "Heimteam": "Dresden",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 17.04.2010",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Offenbach",
+        "Datum": "Sonntag, 18.04.2010",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "9": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Dortmund II",
+        "Datum": "Sonntag, 18.04.2010",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    }
+}

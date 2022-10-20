@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "27",
+    "0": {
+        "Heimteam": "Wehen",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Samstag, 06.03.2010",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Sandhausen",
+        "Datum": "Samstag, 06.03.2010",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 06.03.2010",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 06.03.2010",
+        "Endergebnis": "3:3",
+        "Pausenergebnis": "3:0"
+    },
+    "4": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 06.03.2010",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Mittwoch, 10.03.2010",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "6": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Burghausen",
+        "Datum": "Mittwoch, 07.04.2010",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Aue",
+        "Datum": "Mittwoch, 07.04.2010",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Dortmund II",
+        "Datum": "Mittwoch, 07.04.2010",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "2:0"
+    },
+    "9": {
+        "Heimteam": "Wuppertal",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Dienstag, 27.04.2010",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    }
+}

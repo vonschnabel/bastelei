@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "15",
+    "0": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Bremen II",
+        "Datum": "Freitag, 30.10.2009",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 31.10.2009",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 31.10.2009",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 31.10.2009",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Aue",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 31.10.2009",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:1"
+    },
+    "5": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 31.10.2009",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:1"
+    },
+    "6": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 31.10.2009",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 31.10.2009",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Wuppertal",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 31.10.2009",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "FC Ingolstadt ",
+        "Datum": "Samstag, 31.10.2009",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    }
+}

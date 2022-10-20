@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "19",
+    "0": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Freitag, 04.12.2009",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 05.12.2009",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:1"
+    },
+    "2": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 05.12.2009",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Aue",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 05.12.2009",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 05.12.2009",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "FC Ingolstadt ",
+        "Datum": "Samstag, 05.12.2009",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 05.12.2009",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 05.12.2009",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Sonntag, 06.12.2009",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Wuppertal",
+        "Gastteam": "Dresden",
+        "Datum": "Sonntag, 06.12.2009",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    }
+}

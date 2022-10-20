@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "20",
+    "0": {
+        "Heimteam": "Wehen",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Freitag, 11.12.2009",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 12.12.2009",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 12.12.2009",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Wuppertal",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 12.12.2009",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 12.12.2009",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 12.12.2009",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 12.12.2009",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 12.12.2009",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Aue",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 12.12.2009",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "0:2"
+    },
+    "9": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "FC Ingolstadt ",
+        "Datum": "Dienstag, 06.04.2010",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "38",
+    "0": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 08.05.2010",
+        "Endergebnis": "4:3",
+        "Pausenergebnis": "3:0"
+    },
+    "1": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 08.05.2010",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 08.05.2010",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "3": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Aue",
+        "Datum": "Samstag, 08.05.2010",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Samstag, 08.05.2010",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Sandhausen",
+        "Datum": "Samstag, 08.05.2010",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 08.05.2010",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 08.05.2010",
+        "Endergebnis": "4:3",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Wuppertal",
+        "Datum": "Samstag, 08.05.2010",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "3:0"
+    },
+    "9": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 08.05.2010",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:0"
+    }
+}

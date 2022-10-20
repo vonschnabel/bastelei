@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "25",
+    "0": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 20.02.2010",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 20.02.2010",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Dresden",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 20.02.2010",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Aue",
+        "Datum": "Samstag, 20.02.2010",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Dortmund II",
+        "Datum": "Sonntag, 21.02.2010",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Osnabrück",
+        "Datum": "Sonntag, 21.02.2010",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Wuppertal",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Dienstag, 23.03.2010",
+        "Endergebnis": "5:3",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Sandhausen",
+        "Datum": "Dienstag, 23.03.2010",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Wehen",
+        "Datum": "Mittwoch, 07.04.2010",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Braunschweig",
+        "Datum": "Mittwoch, 07.04.2010",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    }
+}

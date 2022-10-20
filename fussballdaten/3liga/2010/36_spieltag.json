@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "36",
+    "0": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Wehen",
+        "Datum": "Freitag, 23.04.2010",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "Braunschweig",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Samstag, 24.04.2010",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "2": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Sandhausen",
+        "Datum": "Samstag, 24.04.2010",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Wuppertal",
+        "Datum": "Samstag, 24.04.2010",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 24.04.2010",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 24.04.2010",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 24.04.2010",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 24.04.2010",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Aue",
+        "Datum": "Samstag, 24.04.2010",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "9": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Sonntag, 25.04.2010",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    }
+}

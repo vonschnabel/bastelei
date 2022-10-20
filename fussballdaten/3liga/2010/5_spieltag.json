@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "5",
+    "0": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Dortmund II",
+        "Datum": "Freitag, 21.08.2009",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 22.08.2009",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Aue",
+        "Datum": "Samstag, 22.08.2009",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 22.08.2009",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 22.08.2009",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 22.08.2009",
+        "Endergebnis": "3:4",
+        "Pausenergebnis": "2:2"
+    },
+    "6": {
+        "Heimteam": "Wuppertal",
+        "Gastteam": "Sandhausen",
+        "Datum": "Samstag, 22.08.2009",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "FC Bayern II",
+        "Datum": "Samstag, 22.08.2009",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "3:0"
+    },
+    "8": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Sonntag, 23.08.2009",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    },
+    "9": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Wehen",
+        "Datum": "Sonntag, 23.08.2009",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "17",
+    "0": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "FC Ingolstadt ",
+        "Datum": "Freitag, 20.11.2009",
+        "Endergebnis": "2:4",
+        "Pausenergebnis": "1:2"
+    },
+    "1": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Offenbach",
+        "Datum": "Freitag, 20.11.2009",
+        "Endergebnis": "3:3",
+        "Pausenergebnis": "2:1"
+    },
+    "2": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 21.11.2009",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 21.11.2009",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 21.11.2009",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Aue",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 21.11.2009",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "6": {
+        "Heimteam": "FC Bayern II",
+        "Gastteam": "Braunschweig",
+        "Datum": "Samstag, 21.11.2009",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 21.11.2009",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Wuppertal",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 21.11.2009",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 21.11.2009",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "0:1"
+    }
+}
