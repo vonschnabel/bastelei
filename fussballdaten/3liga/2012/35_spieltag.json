@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "35",
+    "0": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 14.04.2012",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "1": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 14.04.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Münster",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 14.04.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 14.04.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 14.04.2012",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:2"
+    },
+    "5": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 14.04.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Darmstadt",
+        "Datum": "Samstag, 14.04.2012",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:1"
+    },
+    "7": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 14.04.2012",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Sonntag, 15.04.2012",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Oberhausen",
+        "Gastteam": "Bielefeld",
+        "Datum": "Sonntag, 15.04.2012",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    }
+}

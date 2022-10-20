@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "2",
+    "0": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Dienstag, 02.08.2011",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Burghausen",
+        "Datum": "Dienstag, 02.08.2011",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Münster",
+        "Datum": "Dienstag, 02.08.2011",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    },
+    "3": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Bielefeld",
+        "Datum": "Dienstag, 02.08.2011",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Wehen",
+        "Datum": "Dienstag, 02.08.2011",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Oberhausen",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Dienstag, 02.08.2011",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Darmstadt",
+        "Datum": "Dienstag, 02.08.2011",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Regensburg",
+        "Datum": "Mittwoch, 03.08.2011",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "1:2"
+    },
+    "8": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Heidenheim",
+        "Datum": "Mittwoch, 03.08.2011",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Sandhausen",
+        "Datum": "Mittwoch, 03.08.2011",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    }
+}

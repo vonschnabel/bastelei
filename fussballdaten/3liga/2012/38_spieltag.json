@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "38",
+    "0": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 05.05.2012",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 05.05.2012",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:1"
+    },
+    "2": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 05.05.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 05.05.2012",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:2"
+    },
+    "4": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 05.05.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Oberhausen",
+        "Datum": "Samstag, 05.05.2012",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 05.05.2012",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 05.05.2012",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "3:1"
+    },
+    "8": {
+        "Heimteam": "Münster",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 05.05.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 05.05.2012",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "9",
+    "0": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Wehen",
+        "Datum": "Dienstag, 13.09.2011",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Regensburg",
+        "Datum": "Dienstag, 13.09.2011",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Münster",
+        "Gastteam": "Aalen",
+        "Datum": "Dienstag, 13.09.2011",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Darmstadt",
+        "Datum": "Dienstag, 13.09.2011",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Bielefeld",
+        "Datum": "Dienstag, 13.09.2011",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Osnabrück",
+        "Datum": "Dienstag, 13.09.2011",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "6": {
+        "Heimteam": "Oberhausen",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Mittwoch, 14.09.2011",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:2"
+    },
+    "7": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Babelsberg",
+        "Datum": "Mittwoch, 14.09.2011",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Bremen II",
+        "Datum": "Mittwoch, 14.09.2011",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Mittwoch, 14.09.2011",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    }
+}

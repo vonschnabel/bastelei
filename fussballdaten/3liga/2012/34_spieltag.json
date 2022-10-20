@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "34",
+    "0": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Sandhausen",
+        "Datum": "Dienstag, 10.04.2012",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Babelsberg",
+        "Datum": "Dienstag, 10.04.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Aalen",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Dienstag, 10.04.2012",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "3:1"
+    },
+    "3": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Unterhaching",
+        "Datum": "Dienstag, 10.04.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Heidenheim",
+        "Datum": "Dienstag, 10.04.2012",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Münster",
+        "Datum": "Mittwoch, 11.04.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Bremen II",
+        "Datum": "Mittwoch, 11.04.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Oberhausen",
+        "Datum": "Mittwoch, 11.04.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Chemnitz",
+        "Datum": "Mittwoch, 11.04.2012",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Offenbach",
+        "Datum": "Mittwoch, 11.04.2012",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:1"
+    }
+}

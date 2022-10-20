@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "33",
+    "0": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 07.04.2012",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 07.04.2012",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "0:2"
+    },
+    "2": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 07.04.2012",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 07.04.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Münster",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 07.04.2012",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 07.04.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 07.04.2012",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Bielefeld",
+        "Datum": "Samstag, 07.04.2012",
+        "Endergebnis": "5:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Oberhausen",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 07.04.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Darmstadt",
+        "Datum": "Sonntag, 08.04.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

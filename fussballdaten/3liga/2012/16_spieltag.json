@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "16",
+    "0": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Freitag, 04.11.2011",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Oberhausen",
+        "Datum": "Samstag, 05.11.2011",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 05.11.2011",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Sandhausen",
+        "Datum": "Samstag, 05.11.2011",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 05.11.2011",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 05.11.2011",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 05.11.2011",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 05.11.2011",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 05.11.2011",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 05.11.2011",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:1"
+    }
+}

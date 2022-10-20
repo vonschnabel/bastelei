@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "13",
+    "0": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Freitag, 14.10.2011",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Oberhausen",
+        "Gastteam": "Osnabrück",
+        "Datum": "Freitag, 14.10.2011",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "2": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Darmstadt",
+        "Datum": "Freitag, 14.10.2011",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 15.10.2011",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:1"
+    },
+    "4": {
+        "Heimteam": "Münster",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 15.10.2011",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 15.10.2011",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 15.10.2011",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 15.10.2011",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Bielefeld",
+        "Datum": "Samstag, 15.10.2011",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 15.10.2011",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    }
+}

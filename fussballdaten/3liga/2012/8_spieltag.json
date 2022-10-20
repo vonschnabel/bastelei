@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "8",
+    "0": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Unterhaching",
+        "Datum": "Freitag, 09.09.2011",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Heidenheim",
+        "Datum": "Freitag, 09.09.2011",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Offenbach",
+        "Datum": "Freitag, 09.09.2011",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:3"
+    },
+    "3": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 10.09.2011",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Oberhausen",
+        "Gastteam": "Sandhausen",
+        "Datum": "Samstag, 10.09.2011",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "3:0"
+    },
+    "5": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 10.09.2011",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 10.09.2011",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 10.09.2011",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "2:0"
+    },
+    "8": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 10.09.2011",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Chemnitz",
+        "Datum": "Sonntag, 11.09.2011",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "21",
+    "0": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Regensburg",
+        "Datum": "Freitag, 16.12.2011",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 17.12.2011",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 17.12.2011",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Oberhausen",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 17.12.2011",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 17.12.2011",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Bielefeld",
+        "Datum": "Samstag, 17.12.2011",
+        "Endergebnis": "2:5",
+        "Pausenergebnis": "1:3"
+    },
+    "6": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Darmstadt",
+        "Datum": "Samstag, 17.12.2011",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 17.12.2011",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Wehen",
+        "Datum": "Dienstag, 24.01.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Sandhausen",
+        "Datum": "Dienstag, 07.02.2012",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    }
+}

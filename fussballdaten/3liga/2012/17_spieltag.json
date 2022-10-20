@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "17",
+    "0": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Freitag, 18.11.2011",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Osnabrück",
+        "Datum": "Freitag, 18.11.2011",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 19.11.2011",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 19.11.2011",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:2"
+    },
+    "4": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Darmstadt",
+        "Datum": "Samstag, 19.11.2011",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Bielefeld",
+        "Datum": "Samstag, 19.11.2011",
+        "Endergebnis": "4:3",
+        "Pausenergebnis": "2:1"
+    },
+    "6": {
+        "Heimteam": "Oberhausen",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 19.11.2011",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 19.11.2011",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Offenbach",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 19.11.2011",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 19.11.2011",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    }
+}

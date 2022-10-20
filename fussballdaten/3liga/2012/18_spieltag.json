@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "18",
+    "0": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Osnabrück",
+        "Datum": "Freitag, 25.11.2011",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Chemnitz",
+        "Datum": "Freitag, 25.11.2011",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Münster",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 26.11.2011",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 26.11.2011",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "3:0"
+    },
+    "4": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 26.11.2011",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Oberhausen",
+        "Datum": "Samstag, 26.11.2011",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Wehen",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 26.11.2011",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 26.11.2011",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 26.11.2011",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:1"
+    },
+    "9": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Bremen II",
+        "Datum": "Sonntag, 27.11.2011",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    }
+}

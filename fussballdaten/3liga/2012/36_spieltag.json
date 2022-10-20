@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "36",
+    "0": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Freitag, 20.04.2012",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Münster",
+        "Gastteam": "Sandhausen",
+        "Datum": "Samstag, 21.04.2012",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 21.04.2012",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 21.04.2012",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 21.04.2012",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Oberhausen",
+        "Datum": "Samstag, 21.04.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 21.04.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 21.04.2012",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 21.04.2012",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "0:2"
+    },
+    "9": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 21.04.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

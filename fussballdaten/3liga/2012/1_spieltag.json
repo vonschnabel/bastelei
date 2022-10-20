@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "1",
+    "0": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Offenbach",
+        "Datum": "Freitag, 22.07.2011",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Sandhausen",
+        "Gastteam": "Aalen",
+        "Datum": "Samstag, 23.07.2011",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Münster",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 23.07.2011",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 23.07.2011",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Oberhausen",
+        "Datum": "Samstag, 23.07.2011",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 23.07.2011",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 23.07.2011",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Bremen II",
+        "Datum": "Samstag, 23.07.2011",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 23.07.2011",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 23.07.2011",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    }
+}

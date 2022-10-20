@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "4",
+    "0": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 13.08.2011",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 13.08.2011",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 13.08.2011",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 13.08.2011",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 13.08.2011",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Oberhausen",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 13.08.2011",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    },
+    "6": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 13.08.2011",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Sandhausen",
+        "Datum": "Samstag, 13.08.2011",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:2"
+    },
+    "8": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Bielefeld",
+        "Datum": "Samstag, 13.08.2011",
+        "Endergebnis": "5:1",
+        "Pausenergebnis": "3:0"
+    },
+    "9": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 13.08.2011",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    }
+}

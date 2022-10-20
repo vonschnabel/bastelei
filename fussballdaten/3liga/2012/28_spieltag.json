@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "28",
+    "0": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Sandhausen",
+        "Datum": "Samstag, 03.03.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Aalen",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 03.03.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Bielefeld",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 03.03.2012",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:2"
+    },
+    "3": {
+        "Heimteam": "Wehen",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 03.03.2012",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Oberhausen",
+        "Datum": "Samstag, 03.03.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 03.03.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Bremen II",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 03.03.2012",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Offenbach",
+        "Datum": "Samstag, 03.03.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 03.03.2012",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Sonntag, 04.03.2012",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    }
+}
