@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "23",
+    "0": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 01.02.2014",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    },
+    "1": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 01.02.2014",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "RB Leipzig",
+        "Datum": "Samstag, 01.02.2014",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 01.02.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Münster",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 01.02.2014",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Halle",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 01.02.2014",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Elversberg",
+        "Datum": "Samstag, 01.02.2014",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 01.02.2014",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 01.02.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "9": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 01.02.2014",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:1"
+    }
+}

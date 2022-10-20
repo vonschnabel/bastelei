@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "36",
+    "0": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Freitag, 25.04.2014",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Wehen",
+        "Datum": "Freitag, 25.04.2014",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Osnabrück",
+        "Datum": "Freitag, 25.04.2014",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 26.04.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 26.04.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Rostock",
+        "Gastteam": "RB Leipzig",
+        "Datum": "Samstag, 26.04.2014",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 26.04.2014",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Elversberg",
+        "Datum": "Samstag, 26.04.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 26.04.2014",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Halle",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 26.04.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    }
+}

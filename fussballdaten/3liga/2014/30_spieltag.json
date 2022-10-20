@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "30",
+    "0": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Wehen",
+        "Datum": "Freitag, 21.03.2014",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "St. Kickers",
+        "Datum": "Freitag, 21.03.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 22.03.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 22.03.2014",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "RB Leipzig",
+        "Datum": "Samstag, 22.03.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 22.03.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Elversberg",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 22.03.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 22.03.2014",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 22.03.2014",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Halle",
+        "Datum": "Sonntag, 23.03.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    }
+}

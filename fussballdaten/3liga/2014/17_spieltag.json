@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "17",
+    "0": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Darmstadt",
+        "Datum": "Freitag, 22.11.2013",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Münster",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 23.11.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 23.11.2013",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "3": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 23.11.2013",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 23.11.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 23.11.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Elversberg",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 23.11.2013",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 23.11.2013",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 23.11.2013",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "3:1"
+    },
+    "9": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 23.11.2013",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:3"
+    }
+}

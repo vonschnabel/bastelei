@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "20",
+    "0": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 14.12.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 14.12.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Münster",
+        "Gastteam": "RB Leipzig",
+        "Datum": "Samstag, 14.12.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Halle",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 14.12.2013",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:2"
+    },
+    "4": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 14.12.2013",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "5": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 14.12.2013",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Elversberg",
+        "Datum": "Samstag, 14.12.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 14.12.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 14.12.2013",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 14.12.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

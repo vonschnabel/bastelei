@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "31",
+    "0": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Unterhaching",
+        "Datum": "Dienstag, 25.03.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Regensburg",
+        "Datum": "Dienstag, 25.03.2014",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Darmstadt",
+        "Datum": "Dienstag, 25.03.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Rostock",
+        "Datum": "Dienstag, 25.03.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Osnabrück",
+        "Datum": "Dienstag, 25.03.2014",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Halle",
+        "Gastteam": "Dortmund II",
+        "Datum": "Mittwoch, 26.03.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Münster",
+        "Gastteam": "Chemnitz",
+        "Datum": "Mittwoch, 26.03.2014",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Elversberg",
+        "Datum": "Mittwoch, 26.03.2014",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Mittwoch, 26.03.2014",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "9": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "Heidenheim",
+        "Datum": "Mittwoch, 26.03.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    }
+}

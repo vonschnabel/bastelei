@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "12",
+    "0": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Freitag, 04.10.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Freitag, 04.10.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "RB Leipzig",
+        "Datum": "Samstag, 05.10.2013",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 05.10.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 05.10.2013",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 05.10.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Elversberg",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 05.10.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 05.10.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 05.10.2013",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "9": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Münster",
+        "Datum": "Sonntag, 06.10.2013",
+        "Endergebnis": "0:4",
+        "Pausenergebnis": "0:4"
+    }
+}

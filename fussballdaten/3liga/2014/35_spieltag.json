@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "35",
+    "0": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Dortmund II",
+        "Datum": "Donnerstag, 17.04.2014",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Elversberg",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 19.04.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 19.04.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 19.04.2014",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "Darmstadt",
+        "Datum": "Samstag, 19.04.2014",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 19.04.2014",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Halle",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 19.04.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 19.04.2014",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 19.04.2014",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Münster",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Sonntag, 20.04.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    }
+}

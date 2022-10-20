@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "28",
+    "0": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "RB Leipzig",
+        "Datum": "Freitag, 07.03.2014",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Duisburg",
+        "Datum": "Freitag, 07.03.2014",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 08.03.2014",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 08.03.2014",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Elversberg",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 08.03.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "5": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 08.03.2014",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 08.03.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 08.03.2014",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 08.03.2014",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Rostock",
+        "Datum": "Sonntag, 09.03.2014",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    }
+}

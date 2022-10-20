@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "1",
+    "0": {
+        "Heimteam": "Halle",
+        "Gastteam": "RB Leipzig",
+        "Datum": "Freitag, 19.07.2013",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Münster",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 20.07.2013",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 20.07.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 20.07.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Elversberg",
+        "Datum": "Samstag, 20.07.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 20.07.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 20.07.2013",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    },
+    "7": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 20.07.2013",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 20.07.2013",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Osnabrück",
+        "Datum": "Sonntag, 21.07.2013",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    }
+}

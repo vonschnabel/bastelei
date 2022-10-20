@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "18",
+    "0": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 30.11.2013",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 30.11.2013",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 30.11.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 30.11.2013",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Rostock",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Samstag, 30.11.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "RB Leipzig",
+        "Datum": "Samstag, 30.11.2013",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 30.11.2013",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Halle",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 30.11.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 30.11.2013",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Elversberg",
+        "Datum": "Sonntag, 01.12.2013",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    }
+}

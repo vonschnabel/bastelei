@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "7",
+    "0": {
+        "Heimteam": "Halle",
+        "Gastteam": "Osnabrück",
+        "Datum": "Dienstag, 03.09.2013",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Dienstag, 03.09.2013",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Wehen",
+        "Datum": "Dienstag, 03.09.2013",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Darmstadt",
+        "Gastteam": "Chemnitz",
+        "Datum": "Dienstag, 03.09.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Heidenheim",
+        "Datum": "Dienstag, 03.09.2013",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "0:2"
+    },
+    "5": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Unterhaching",
+        "Datum": "Dienstag, 03.09.2013",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "1:2"
+    },
+    "6": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Dortmund II",
+        "Datum": "Dienstag, 03.09.2013",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:2"
+    },
+    "7": {
+        "Heimteam": "Münster",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Mittwoch, 04.09.2013",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:2"
+    },
+    "8": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Elversberg",
+        "Datum": "Mittwoch, 04.09.2013",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Regensburg",
+        "Datum": "Mittwoch, 04.09.2013",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "3:1"
+    }
+}

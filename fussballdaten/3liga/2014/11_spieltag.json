@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "11",
+    "0": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Rostock",
+        "Datum": "Freitag, 27.09.2013",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Münster",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 28.09.2013",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 28.09.2013",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 28.09.2013",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 28.09.2013",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 28.09.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Elversberg",
+        "Datum": "Samstag, 28.09.2013",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Darmstadt",
+        "Datum": "Samstag, 28.09.2013",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 28.09.2013",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Halle",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 28.09.2013",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    }
+}

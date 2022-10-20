@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "29",
+    "0": {
+        "Heimteam": "Münster",
+        "Gastteam": "Heidenheim",
+        "Datum": "Samstag, 15.03.2014",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "1": {
+        "Heimteam": "Halle",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 15.03.2014",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:0"
+    },
+    "2": {
+        "Heimteam": "St. Kickers",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 15.03.2014",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:2"
+    },
+    "3": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 15.03.2014",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Rostock",
+        "Gastteam": "Darmstadt",
+        "Datum": "Samstag, 15.03.2014",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Holstein Kiel",
+        "Datum": "Samstag, 15.03.2014",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Elversberg",
+        "Datum": "Samstag, 15.03.2014",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Stuttgart II",
+        "Datum": "Samstag, 15.03.2014",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "2:1"
+    },
+    "8": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Unterhaching",
+        "Datum": "Samstag, 15.03.2014",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "Osnabrück",
+        "Datum": "Sonntag, 16.03.2014",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    }
+}

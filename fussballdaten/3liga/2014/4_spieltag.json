@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "4",
+    "0": {
+        "Heimteam": "Elversberg",
+        "Gastteam": "St. Kickers",
+        "Datum": "Freitag, 16.08.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Freitag, 16.08.2013",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Dortmund II",
+        "Datum": "Samstag, 17.08.2013",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "Regensburg",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 17.08.2013",
+        "Endergebnis": "3:5",
+        "Pausenergebnis": "1:4"
+    },
+    "4": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Burghausen",
+        "Datum": "Samstag, 17.08.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 17.08.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 17.08.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 17.08.2013",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Darmstadt",
+        "Datum": "Samstag, 17.08.2013",
+        "Endergebnis": "2:4",
+        "Pausenergebnis": "0:2"
+    },
+    "9": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "Duisburg",
+        "Datum": "Sonntag, 18.08.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "2",
+    "0": {
+        "Heimteam": "Stuttgart II",
+        "Gastteam": "Darmstadt",
+        "Datum": "Freitag, 26.07.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "1": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Dortmund II",
+        "Datum": "Freitag, 26.07.2013",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Heidenheim",
+        "Gastteam": "Regensburg",
+        "Datum": "Samstag, 27.07.2013",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "3": {
+        "Heimteam": "Burghausen",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 27.07.2013",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "RB Leipzig",
+        "Gastteam": "Münster",
+        "Datum": "Samstag, 27.07.2013",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 27.07.2013",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "6": {
+        "Heimteam": "Wehen",
+        "Gastteam": "St. Kickers",
+        "Datum": "Samstag, 27.07.2013",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "Holstein Kiel",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 27.07.2013",
+        "Endergebnis": "5:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Elversberg",
+        "Gastteam": "Rostock",
+        "Datum": "Samstag, 27.07.2013",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "Unterhaching",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 27.07.2013",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    }
+}
