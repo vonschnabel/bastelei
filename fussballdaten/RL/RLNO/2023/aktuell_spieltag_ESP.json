@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "10",
+    "0": {
+        "Heimteam": "Halberstd.",
+        "Gastteam": "Greifswald",
+        "Datum": "Sonntag, 23.10.2022",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Luckenwal.",
+        "Gastteam": "FCCZ Jena",
+        "Datum": "Sonntag, 23.10.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "BAK 07",
+        "Datum": "Sonntag, 23.10.2022",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Babelsberg",
+        "Datum": "Donnerstag, 20.10.2022",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Altglien.",
+        "Gastteam": "1.FC Lok",
+        "Datum": "Freitag, 21.10.2022",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "TB Berlin",
+        "Datum": "Freitag, 21.10.2022",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Viktoria",
+        "Datum": "Samstag, 22.10.2022",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Lichtenbe.",
+        "Gastteam": "Chemnitz",
+        "Datum": "Samstag, 22.10.2022",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "HBSC II",
+        "Datum": "Samstag, 22.10.2022",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "1:1"
+    }
+}
