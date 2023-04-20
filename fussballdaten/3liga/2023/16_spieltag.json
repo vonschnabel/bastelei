@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "16",
+    "0": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Dresden",
+        "Datum": "Dienstag, 08.11.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Aue",
+        "Gastteam": "Duisburg",
+        "Datum": "Dienstag, 08.11.2022",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Halle",
+        "Datum": "Dienstag, 08.11.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "V. Köln",
+        "Datum": "Dienstag, 08.11.2022",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Bayreuth",
+        "Gastteam": "Elversberg",
+        "Datum": "Dienstag, 08.11.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Verl",
+        "Datum": "Mittwoch, 09.11.2022",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Zwickau",
+        "Datum": "Mittwoch, 09.11.2022",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "RW Essen",
+        "Gastteam": "Meppen",
+        "Datum": "Mittwoch, 09.11.2022",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Oldenburg",
+        "Datum": "Mittwoch, 09.11.2022",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "3:0"
+    },
+    "9": {
+        "Heimteam": "Freiburg II",
+        "Gastteam": "TSV 1860",
+        "Datum": "Mittwoch, 09.11.2022",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    }
+}

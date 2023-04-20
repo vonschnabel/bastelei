@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "20",
+    "0": {
+        "Heimteam": "Elversberg",
+        "Gastteam": "RW Essen",
+        "Datum": "Freitag, 27.01.2023",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Aue",
+        "Gastteam": "Freiburg II",
+        "Datum": "Samstag, 28.01.2023",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 28.01.2023",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:2"
+    },
+    "3": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Oldenburg",
+        "Datum": "Samstag, 28.01.2023",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Halle",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 28.01.2023",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Verl",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 28.01.2023",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Bayreuth",
+        "Gastteam": "FC Ingolstadt ",
+        "Datum": "Samstag, 28.01.2023",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Mannheim",
+        "Datum": "Sonntag, 29.01.2023",
+        "Endergebnis": "1:4",
+        "Pausenergebnis": "0:2"
+    },
+    "8": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Wehen",
+        "Datum": "Sonntag, 29.01.2023",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Dresden",
+        "Datum": "Montag, 30.01.2023",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:0"
+    }
+}

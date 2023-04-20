@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "18",
+    "0": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Oldenburg",
+        "Datum": "Freitag, 13.01.2023",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Elversberg",
+        "Datum": "Samstag, 14.01.2023",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "V. Köln",
+        "Datum": "Samstag, 14.01.2023",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "2:1"
+    },
+    "3": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 14.01.2023",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "RW Essen",
+        "Gastteam": "Halle",
+        "Datum": "Samstag, 14.01.2023",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Duisburg",
+        "Datum": "Samstag, 14.01.2023",
+        "Endergebnis": "2:3",
+        "Pausenergebnis": "0:2"
+    },
+    "6": {
+        "Heimteam": "Freiburg II",
+        "Gastteam": "Verl",
+        "Datum": "Samstag, 14.01.2023",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Meppen",
+        "Datum": "Sonntag, 15.01.2023",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Bayreuth",
+        "Gastteam": "Dortmund II",
+        "Datum": "Sonntag, 15.01.2023",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Aue",
+        "Datum": "Montag, 16.01.2023",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    }
+}

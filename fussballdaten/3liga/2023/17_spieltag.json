@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "17",
+    "0": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Aue",
+        "Datum": "Freitag, 11.11.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "FC Ingolstadt ",
+        "Datum": "Samstag, 12.11.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Elversberg",
+        "Gastteam": "Freiburg II",
+        "Datum": "Samstag, 12.11.2022",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Osnabrück",
+        "Datum": "Samstag, 12.11.2022",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Halle",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Samstag, 12.11.2022",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 12.11.2022",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Verl",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 12.11.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Oldenburg",
+        "Gastteam": "Mannheim",
+        "Datum": "Sonntag, 13.11.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "8": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Bayreuth",
+        "Datum": "Sonntag, 13.11.2022",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "RW Essen",
+        "Datum": "Montag, 14.11.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "24",
+    "0": {
+        "Heimteam": "Halle",
+        "Gastteam": "TSV 1860",
+        "Datum": "Freitag, 24.02.2023",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Wehen",
+        "Datum": "Samstag, 25.02.2023",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "2:0"
+    },
+    "2": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 25.02.2023",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "RW Essen",
+        "Datum": "Samstag, 25.02.2023",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Mannheim",
+        "Datum": "Samstag, 25.02.2023",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "2:0"
+    },
+    "5": {
+        "Heimteam": "Verl",
+        "Gastteam": "Oldenburg",
+        "Datum": "Samstag, 25.02.2023",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "6": {
+        "Heimteam": "Bayreuth",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 25.02.2023",
+        "Endergebnis": "5:3",
+        "Pausenergebnis": "1:1"
+    },
+    "7": {
+        "Heimteam": "Elversberg",
+        "Gastteam": "Dresden",
+        "Datum": "Sonntag, 26.02.2023",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Aue",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Sonntag, 26.02.2023",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:1"
+    },
+    "9": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Freiburg II",
+        "Datum": "Montag, 27.02.2023",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:1"
+    }
+}

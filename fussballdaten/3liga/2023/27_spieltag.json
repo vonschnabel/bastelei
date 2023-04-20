@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "27",
+    "0": {
+        "Heimteam": "TSV 1860",
+        "Gastteam": "Elversberg",
+        "Datum": "Dienstag, 14.03.2023",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Meppen",
+        "Gastteam": "Verl",
+        "Datum": "Dienstag, 14.03.2023",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:2"
+    },
+    "2": {
+        "Heimteam": "Halle",
+        "Gastteam": "V. Köln",
+        "Datum": "Dienstag, 14.03.2023",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "Zwickau",
+        "Gastteam": "Aue",
+        "Datum": "Dienstag, 14.03.2023",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "RW Essen",
+        "Gastteam": "Osnabrück",
+        "Datum": "Dienstag, 14.03.2023",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "5": {
+        "Heimteam": "Oldenburg",
+        "Gastteam": "Dortmund II",
+        "Datum": "Mittwoch, 15.03.2023",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "FC Ingolstadt ",
+        "Datum": "Mittwoch, 15.03.2023",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Dresden",
+        "Gastteam": "Duisburg",
+        "Datum": "Mittwoch, 15.03.2023",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Bayreuth",
+        "Datum": "Mittwoch, 15.03.2023",
+        "Endergebnis": "5:0",
+        "Pausenergebnis": "1:0"
+    },
+    "9": {
+        "Heimteam": "Freiburg II",
+        "Gastteam": "Wehen",
+        "Datum": "Mittwoch, 15.03.2023",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "0:0"
+    }
+}

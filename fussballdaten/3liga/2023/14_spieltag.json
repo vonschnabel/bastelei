@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "14",
+    "0": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Duisburg",
+        "Datum": "Freitag, 28.10.2022",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Aue",
+        "Gastteam": "Elversberg",
+        "Datum": "Samstag, 29.10.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Mannheim",
+        "Gastteam": "Dresden",
+        "Datum": "Samstag, 29.10.2022",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "RW Essen",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 29.10.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "4": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Verl",
+        "Datum": "Samstag, 29.10.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Saarbrücken",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 29.10.2022",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Bayreuth",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 29.10.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "1:0"
+    },
+    "7": {
+        "Heimteam": "Freiburg II",
+        "Gastteam": "Oldenburg",
+        "Datum": "Sonntag, 30.10.2022",
+        "Endergebnis": "1:0",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "V. Köln",
+        "Datum": "Sonntag, 30.10.2022",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:2"
+    },
+    "9": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Halle",
+        "Datum": "Montag, 31.10.2022",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:2"
+    }
+}

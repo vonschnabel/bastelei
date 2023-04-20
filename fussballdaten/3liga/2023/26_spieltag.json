@@ -1,0 +1,74 @@
+{
+    "Liga": "3. Liga",
+    "Spieltag": "26",
+    "0": {
+        "Heimteam": "Verl",
+        "Gastteam": "Halle",
+        "Datum": "Freitag, 10.03.2023",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:1"
+    },
+    "1": {
+        "Heimteam": "Osnabrück",
+        "Gastteam": "Oldenburg",
+        "Datum": "Samstag, 11.03.2023",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "1:0"
+    },
+    "2": {
+        "Heimteam": "Aue",
+        "Gastteam": "RW Essen",
+        "Datum": "Samstag, 11.03.2023",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "Duisburg",
+        "Gastteam": "TSV 1860",
+        "Datum": "Samstag, 11.03.2023",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Elversberg",
+        "Gastteam": "Meppen",
+        "Datum": "Samstag, 11.03.2023",
+        "Endergebnis": "2:2",
+        "Pausenergebnis": "2:2"
+    },
+    "5": {
+        "Heimteam": "V. Köln",
+        "Gastteam": "Zwickau",
+        "Datum": "Samstag, 11.03.2023",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:1"
+    },
+    "6": {
+        "Heimteam": "Bayreuth",
+        "Gastteam": "Mannheim",
+        "Datum": "Samstag, 11.03.2023",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "1:2"
+    },
+    "7": {
+        "Heimteam": "FC Ingolstadt ",
+        "Gastteam": "Freiburg II",
+        "Datum": "Sonntag, 12.03.2023",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "Wehen",
+        "Gastteam": "Saarbrücken",
+        "Datum": "Sonntag, 12.03.2023",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "9": {
+        "Heimteam": "Dortmund II",
+        "Gastteam": "Dresden",
+        "Datum": "Sonntag, 12.03.2023",
+        "Endergebnis": "1:3",
+        "Pausenergebnis": "0:3"
+    }
+}
