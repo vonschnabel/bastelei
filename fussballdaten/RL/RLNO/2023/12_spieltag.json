@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "12",
+    "0": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Chemnitz",
+        "Datum": "Freitag, 04.11.2022",
+        "Endergebnis": "2:4",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Luckenwalde",
+        "Gastteam": "HBSC II",
+        "Datum": "Freitag, 04.11.2022",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "2": {
+        "Heimteam": "Altglienicke",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Freitag, 04.11.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:0"
+    },
+    "3": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "TB Berlin",
+        "Datum": "Samstag, 05.11.2022",
+        "Endergebnis": "4:0",
+        "Pausenergebnis": "1:0"
+    },
+    "4": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Samstag, 05.11.2022",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "1:0"
+    },
+    "5": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "Greifswalder",
+        "Datum": "Sonntag, 06.11.2022",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "Babelsberg",
+        "Datum": "Sonntag, 06.11.2022",
+        "Endergebnis": "1:5",
+        "Pausenergebnis": "0:1"
+    },
+    "7": {
+        "Heimteam": "Lichtenberg",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Sonntag, 06.11.2022",
+        "Endergebnis": "4:2",
+        "Pausenergebnis": "1:1"
+    },
+    "8": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Sonntag, 06.11.2022",
+        "Endergebnis": "4:1",
+        "Pausenergebnis": "1:0"
+    }
+}

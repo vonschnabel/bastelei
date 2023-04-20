@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "21",
+    "0": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Freitag, 17.02.2023",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "1": {
+        "Heimteam": "Lok Leipzig",
+        "Gastteam": "Greifswalder",
+        "Datum": "Freitag, 17.02.2023",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "0:1"
+    },
+    "2": {
+        "Heimteam": "Luckenwalde",
+        "Gastteam": "Altglienicke",
+        "Datum": "Freitag, 17.02.2023",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:1"
+    },
+    "3": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Samstag, 18.02.2023",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:1"
+    },
+    "4": {
+        "Heimteam": "Lichtenberg",
+        "Gastteam": "BSG Chemie",
+        "Datum": "Samstag, 18.02.2023",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "5": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 18.02.2023",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "6": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Sonntag, 19.02.2023",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "7": {
+        "Heimteam": "HBSC II",
+        "Gastteam": "TB Berlin",
+        "Datum": "Sonntag, 19.02.2023",
+        "Endergebnis": "3:1",
+        "Pausenergebnis": "0:1"
+    },
+    "8": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "Halberstadt",
+        "Datum": "Sonntag, 19.02.2023",
+        "Endergebnis": "3:0",
+        "Pausenergebnis": "2:0"
+    }
+}

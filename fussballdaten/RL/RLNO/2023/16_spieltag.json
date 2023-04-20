@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "16",
+    "0": {
+        "Heimteam": "Chemnitz",
+        "Gastteam": "HBSC II",
+        "Datum": "Freitag, 09.12.2022",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "1:1"
+    },
+    "1": {
+        "Heimteam": "Babelsberg",
+        "Gastteam": "Cottbus",
+        "Datum": "Samstag, 10.12.2022",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "2": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "TB Berlin",
+        "Datum": "Samstag, 10.12.2022",
+        "Endergebnis": "5:1",
+        "Pausenergebnis": "2:0"
+    },
+    "3": {
+        "Heimteam": "FC Carl Zeiss ",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Samstag, 10.12.2022",
+        "Endergebnis": "2:0",
+        "Pausenergebnis": "2:0"
+    },
+    "4": {
+        "Heimteam": "Luckenwalde",
+        "Gastteam": "BFC Dynamo",
+        "Datum": "Sonntag, 11.12.2022",
+        "Endergebnis": "3:2",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Berliner AK 07",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Mittwoch, 25.01.2023",
+        "Endergebnis": "2:1",
+        "Pausenergebnis": "0:0"
+    },
+    "6": {
+        "Heimteam": "Lichtenberg",
+        "Gastteam": "Greifswalder",
+        "Datum": "Mittwoch, 25.01.2023",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "Altglienicke",
+        "Gastteam": "Halberstadt",
+        "Datum": "Mittwoch, 25.01.2023",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    },
+    "8": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "RW Erfurt",
+        "Datum": "Mittwoch, 25.01.2023",
+        "Endergebnis": "1:1",
+        "Pausenergebnis": "0:0"
+    }
+}

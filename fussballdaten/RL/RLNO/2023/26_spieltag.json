@@ -1,0 +1,67 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "26",
+    "0": {
+        "Heimteam": "Altglienicke",
+        "Gastteam": "FC Carl Zeiss ",
+        "Datum": "Freitag, 31.03.2023",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "1": {
+        "Heimteam": "Halberstadt",
+        "Gastteam": "TB Berlin",
+        "Datum": "Freitag, 31.03.2023",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "2": {
+        "Heimteam": "Lichtenberg",
+        "Gastteam": "Berliner AK 07",
+        "Datum": "Samstag, 01.04.2023",
+        "Endergebnis": "0:2",
+        "Pausenergebnis": "0:0"
+    },
+    "3": {
+        "Heimteam": "RW Erfurt",
+        "Gastteam": "Viktoria 89",
+        "Datum": "Samstag, 01.04.2023",
+        "Endergebnis": "0:1",
+        "Pausenergebnis": "0:0"
+    },
+    "4": {
+        "Heimteam": "Cottbus",
+        "Gastteam": "HBSC II",
+        "Datum": "Samstag, 01.04.2023",
+        "Endergebnis": "1:2",
+        "Pausenergebnis": "1:1"
+    },
+    "5": {
+        "Heimteam": "Meuselwitz",
+        "Gastteam": "Babelsberg",
+        "Datum": "Samstag, 01.04.2023",
+        "Endergebnis": "0:3",
+        "Pausenergebnis": "0:3"
+    },
+    "6": {
+        "Heimteam": "Luckenwalde",
+        "Gastteam": "Chemnitz",
+        "Datum": "Sonntag, 02.04.2023",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    },
+    "7": {
+        "Heimteam": "BFC Dynamo",
+        "Gastteam": "Greifswalder",
+        "Datum": "Sonntag, 02.04.2023",
+        "Endergebnis": "5:0",
+        "Pausenergebnis": "4:0"
+    },
+    "8": {
+        "Heimteam": "BSG Chemie",
+        "Gastteam": "Lok Leipzig",
+        "Datum": "Sonntag, 02.04.2023",
+        "Endergebnis": "0:0",
+        "Pausenergebnis": "0:0"
+    }
+}

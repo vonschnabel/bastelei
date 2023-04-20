@@ -1,0 +1,148 @@
+{
+    "Liga": "Regionalliga Nord/Ost",
+    "Spieltag": "18",
+    "0": {
+        "Tabellenplatz": "1",
+        "Teamname": "Cottbus",
+        "Spiel": "18",
+        "Tore": "39:17",
+        "Tordifferenz": "22",
+        "Punkte": "36"
+    },
+    "1": {
+        "Tabellenplatz": "2",
+        "Teamname": "RW Erfurt",
+        "Spiel": "18",
+        "Tore": "38:17",
+        "Tordifferenz": "21",
+        "Punkte": "33"
+    },
+    "2": {
+        "Tabellenplatz": "3",
+        "Teamname": "Berliner AK 07",
+        "Spiel": "18",
+        "Tore": "29:18",
+        "Tordifferenz": "11",
+        "Punkte": "33"
+    },
+    "3": {
+        "Tabellenplatz": "4",
+        "Teamname": "Lok Leipzig",
+        "Spiel": "18",
+        "Tore": "35:26",
+        "Tordifferenz": "9",
+        "Punkte": "33"
+    },
+    "4": {
+        "Tabellenplatz": "5",
+        "Teamname": "Chemnitz",
+        "Spiel": "18",
+        "Tore": "31:19",
+        "Tordifferenz": "12",
+        "Punkte": "32"
+    },
+    "5": {
+        "Tabellenplatz": "6",
+        "Teamname": "BSG Chemie",
+        "Spiel": "18",
+        "Tore": "30:24",
+        "Tordifferenz": "6",
+        "Punkte": "32"
+    },
+    "6": {
+        "Tabellenplatz": "7",
+        "Teamname": "Altglienicke",
+        "Spiel": "18",
+        "Tore": "38:23",
+        "Tordifferenz": "15",
+        "Punkte": "30"
+    },
+    "7": {
+        "Tabellenplatz": "8",
+        "Teamname": "BFC Dynamo",
+        "Spiel": "18",
+        "Tore": "28:24",
+        "Tordifferenz": "4",
+        "Punkte": "29"
+    },
+    "8": {
+        "Tabellenplatz": "9",
+        "Teamname": "FC Carl Zeiss ",
+        "Spiel": "18",
+        "Tore": "23:13",
+        "Tordifferenz": "10",
+        "Punkte": "28"
+    },
+    "9": {
+        "Tabellenplatz": "10",
+        "Teamname": "Babelsberg",
+        "Spiel": "18",
+        "Tore": "29:25",
+        "Tordifferenz": "4",
+        "Punkte": "26"
+    },
+    "10": {
+        "Tabellenplatz": "11",
+        "Teamname": "Greifswalder",
+        "Spiel": "18",
+        "Tore": "27:22",
+        "Tordifferenz": "5",
+        "Punkte": "24"
+    },
+    "11": {
+        "Tabellenplatz": "12",
+        "Teamname": "HBSC II",
+        "Spiel": "18",
+        "Tore": "27:35",
+        "Tordifferenz": "-8",
+        "Punkte": "22"
+    },
+    "12": {
+        "Tabellenplatz": "13",
+        "Teamname": "Viktoria 89",
+        "Spiel": "18",
+        "Tore": "20:24",
+        "Tordifferenz": "-4",
+        "Punkte": "21"
+    },
+    "13": {
+        "Tabellenplatz": "14",
+        "Teamname": "Meuselwitz",
+        "Spiel": "18",
+        "Tore": "24:38",
+        "Tordifferenz": "-14",
+        "Punkte": "18"
+    },
+    "14": {
+        "Tabellenplatz": "15",
+        "Teamname": "Luckenwalde",
+        "Spiel": "18",
+        "Tore": "18:30",
+        "Tordifferenz": "-12",
+        "Punkte": "15"
+    },
+    "15": {
+        "Tabellenplatz": "16",
+        "Teamname": "Lichtenberg",
+        "Spiel": "18",
+        "Tore": "17:35",
+        "Tordifferenz": "-18",
+        "Punkte": "15"
+    },
+    "16": {
+        "Tabellenplatz": "17",
+        "Teamname": "Halberstadt",
+        "Spiel": "18",
+        "Tore": "17:38",
+        "Tordifferenz": "-21",
+        "Punkte": "8"
+    },
+    "17": {
+        "Tabellenplatz": "18",
+        "Teamname": "TB Berlin",
+        "Spiel": "18",
+        "Tore": "13:55",
+        "Tordifferenz": "-42",
+        "Punkte": "8"
+    }
+}
