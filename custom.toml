@@ -1,0 +1,32 @@
+# Required:
+config_version = 1
+
+[system]
+hostname = "raspberrypi"
+
+[user]
+# If present, the default "rpi" user gets renamed to this "name"
+name = "pi"
+# The password can be encrypted or plain. To encrypt, we can use "openssl passwd -5 raspberry"
+password = "raspberry"
+password_encrypted = false
+
+[ssh]
+# ssh_import_id = "gh:user" # import public keys from github
+enabled = true
+password_authentication = true
+# We can also seed the ssh public keys configured for the default user:
+# authorized_keys = [ "ssh-rsa ... user@host", ... ]
+
+[wlan]
+ssid = "mywifi"
+password = "0123456789"
+password_encrypted = false
+hidden = false
+# The country is written to /etc/default/crda
+# Reference: https://wireless.wiki.kernel.org/en/developers/Regulatory
+country = "DE"
+
+[locale]
+keymap = "de"
+timezone = "Europe/Berlin"
